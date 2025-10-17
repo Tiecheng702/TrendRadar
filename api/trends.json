@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T02:20:43.073881+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2025-10-18T03:11:22.227577+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "据华尔街日报：高盛正在扩大基础设施融资业务，组建全新团队，专注于数据中心及其他人工智能基础设施。",
@@ -28,6 +28,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
+          "url": "https://flash.jin10.com/detail/20251018022938290800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
+          "url": "https://flash.jin10.com/detail/20251018022647390800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
+          "url": "https://flash.jin10.com/detail/20251018022512322800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         }
       ]
     }
