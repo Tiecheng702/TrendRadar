@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T11:23:04.894995+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2025-10-18T12:13:38.177383+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 12时13分]"
         },
         {
           "title": "据华尔街日报：高盛正在扩大基础设施融资业务，组建全新团队，专注于数据中心及其他人工智能基础设施。",
