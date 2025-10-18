@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T14:16:12.045984+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-10-18T15:11:05.526868+08:00",
+  "total_titles_processed": 1181,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时11分]"
         },
         {
           "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
