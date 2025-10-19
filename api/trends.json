@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T11:41:37.080165+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-10-19T12:15:05.359215+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 11时41分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 12时15分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
