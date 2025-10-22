@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T16:18:54.979291+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2025-10-22T17:13:36.866288+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时39分 ~ 16时18分]"
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 17时13分]"
         },
         {
           "title": "阿联酋国务部长努塞贝赫：阿联酋将很快成为人工智能领域的重要连接点和枢纽。",
@@ -93,13 +93,35 @@
           "time_info": "[11时39分 ~ 12时15分]"
         },
         {
+          "title": "印度拟议的改革要求Chatgpt等人工智能平台将视频或音频内容标记为合成生成的信息。",
+          "url": "https://flash.jin10.com/detail/20251022162935735800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
+          "title": "印度提议修改《信息技术规则》，要求社交媒体公司显著标注人工智能深度伪造内容。",
+          "url": "https://flash.jin10.com/detail/20251022162008164800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
+        },
+        {
           "title": "欧盟研究：人工智能不是可靠的新闻来源",
           "url": "https://wallstreetcn.com/livenews/2991773",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
         },
