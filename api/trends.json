@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T07:11:06.825721+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2025-10-23T08:46:32.916521+08:00",
+  "total_titles_processed": 808,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。",
@@ -79,6 +79,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "成龙谈人工智能",
+          "url": "https://www.toutiao.com/trending/7563810946825912359/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美媒：Meta将削减人工智能部门约600个职位",
           "url": "https://flash.jin10.com/detail/20251022230938289800",
           "source": "金十数据",
@@ -107,7 +118,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -132,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "德媒：美“豪赌人工智能”或后果严重",
+          "url": "https://www.toutiao.com/trending/7563364673547632681/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从人工智能（AI）架构裁员大约600人。 新组建的TBD Lab Group并未受到影响。 Meta将继续为了推动AI业务而招聘。",
