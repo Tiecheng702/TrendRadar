@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T19:11:33.548668+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2025-10-24T20:20:55.360721+08:00",
+  "total_titles_processed": 1926,
   "failed_sources": [],
   "trends": [
     {
@@ -172,7 +172,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
@@ -192,11 +192,12 @@
             13,
             11,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时17分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[14时17分 ~ 20时20分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故",
