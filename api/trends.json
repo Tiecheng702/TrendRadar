@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T20:20:55.360721+08:00",
-  "total_titles_processed": 1926,
+  "generated_at": "2025-10-24T21:27:18.503550+08:00",
+  "total_titles_processed": 2034,
   "failed_sources": [],
   "trends": [
     {
@@ -193,11 +193,12 @@
             11,
             10,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时17分 ~ 20时20分]"
+          "appearance_count": 9,
+          "time_info": "[14时17分 ~ 21时27分]"
         },
         {
           "title": "理想汽车回应MEGA起火事故",
