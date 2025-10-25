@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T18:12:11.910029+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-10-25T19:10:53.877226+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 18时12分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 19时10分]"
         },
         {
           "title": "前三季度广西工业人工智能核心产值同比增长超60%",
