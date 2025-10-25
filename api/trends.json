@@ -1,75 +1,7 @@
 {
-  "generated_at": "2025-10-25T23:12:49.130534+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2025-10-26T00:11:17.273402+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "第三届中国航空运输协会航空大会开幕，近百项人工智能科技及产品亮相",
-          "url": "https://wallstreetcn.com/livenews/2993661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            21,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时11分 ~ 21时20分]"
-        },
-        {
-          "title": "前三季度广西工业人工智能核心产值同比增长超60%",
-          "url": "https://flash.jin10.com/detail/20251025130119719800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 16时13分]"
-        },
-        {
-          "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
-          "url": "https://flash.jin10.com/detail/20251025115711896800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 14时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车回应MEGA起火事故：驾乘人员全部安全离车，积极配合消防部门调查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830320",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时14分 ~ 11时32分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
