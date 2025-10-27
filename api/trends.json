@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-28T05:11:30.931352+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2025-10-28T06:12:10.735405+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 9,
       "titles": [
-        {
-          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
-          "url": "https://flash.jin10.com/detail/20251028045401357800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E5%90%8E%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A820%25",
@@ -29,8 +18,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时09分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 06时12分]"
+        },
+        {
+          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
+          "url": "https://flash.jin10.com/detail/20251028045401357800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时12分]"
         },
         {
           "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
