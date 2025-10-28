@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T07:12:22.151605+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-10-28T08:55:31.381460+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时09分 ~ 06时12分]"
+        },
+        {
+          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时55分"
         },
         {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
@@ -77,7 +88,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
         },
