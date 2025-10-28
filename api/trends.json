@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T04:13:32.875710+08:00",
-  "total_titles_processed": 594,
+  "generated_at": "2025-10-29T05:10:50.742768+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时34分 ~ 04时13分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 05时10分]"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -103,7 +103,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
