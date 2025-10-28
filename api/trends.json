@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T21:26:43.938388+08:00",
-  "total_titles_processed": 1984,
+  "generated_at": "2025-10-28T22:11:36.480891+08:00",
+  "total_titles_processed": 2086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时55分 ~ 21时26分]"
+          "appearance_count": 16,
+          "time_info": "[08时55分 ~ 22时11分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时09分 ~ 21时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时09分 ~ 22时11分]"
         },
         {
           "title": "道富银行首席执行官：人工智能在银行对账方面存在巨大机遇。",
@@ -197,6 +197,17 @@
           "time_info": "20时20分"
         },
         {
+          "title": "医疗健康公司IQVIA：计划到2027年初开发500个高度专业化的人工智能代理，以消除为客户执行任务中的体力劳动。",
+          "url": "https://flash.jin10.com/detail/20251028215653769800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "日美投资情况说明书显示，人工智能基础设施项目涵盖三菱电机、藤仓、TDK、村田、松下公司。",
           "url": "https://flash.jin10.com/detail/20251028153802006800",
           "source": "金十数据",
@@ -316,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "古根海姆首席投资官：私募信贷领域目前尚未出现泡沫，诸多利好因素仍在发挥作用，例如美国财政和货币刺激措施以及人工智能投资。",
+          "url": "https://flash.jin10.com/detail/20251028214500525800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
