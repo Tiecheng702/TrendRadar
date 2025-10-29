@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T21:27:42.394666+08:00",
-  "total_titles_processed": 2052,
+  "generated_at": "2025-10-29T22:12:13.918977+08:00",
+  "total_titles_processed": 2161,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[16时21分 ~ 20时21分]"
         },
         {
+          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
+          "url": "https://www.cls.cn/detail/2185058",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时21分 ~ 22时12分]"
+        },
+        {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
           "url": "https://wallstreetcn.com/articles/3758001",
           "source": "华尔街见闻",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 04时13分]"
-        },
-        {
-          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
-          "url": "https://www.cls.cn/detail/2185058",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 21时27分]"
         },
         {
           "title": "Adobe(ADBE.O)与谷歌云扩大战略合作伙伴关系，共同推动创意人工智能的未来发展。",
@@ -161,7 +162,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
