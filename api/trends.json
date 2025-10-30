@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T12:13:20.508708+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2025-10-30T13:13:07.225300+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20251030120122104800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时13分]"
         },
         {
           "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
