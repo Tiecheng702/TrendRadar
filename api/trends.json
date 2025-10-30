@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T04:13:02.509977+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2025-10-31T05:10:52.570908+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "在人工智能（AI）需求激增之际，美国得州通过11亿美元贷款来支持天然气工厂。 Competitive Power Ventures将修建1,350 MW二叠纪盆地天然气工厂。 Devon、Coterra、Diamondback Energy将向得克萨斯州天然气工厂供应天然气。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时11分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：人工智能和核心基础设施需求持续强劲。",
+          "url": "https://flash.jin10.com/detail/20251031040501886800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时10分"
         },
         {
           "title": "欧洲央行行长拉加德：将留意人工智能（AI）对（欧元区）劳动力市场的影响。",
