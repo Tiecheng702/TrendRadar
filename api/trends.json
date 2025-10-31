@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T20:20:48.996493+08:00",
-  "total_titles_processed": 1860,
+  "generated_at": "2025-10-31T21:24:45.324354+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
@@ -291,11 +291,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时24分]"
         },
         {
           "title": "理想汽车召回部分2024款MEGA",
