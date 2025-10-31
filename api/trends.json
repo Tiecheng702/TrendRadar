@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T19:09:40.752173+08:00",
-  "total_titles_processed": 1749,
+  "generated_at": "2025-10-31T20:20:48.996493+08:00",
+  "total_titles_processed": 1860,
   "failed_sources": [],
   "trends": [
     {
@@ -290,11 +290,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E4%BA%8B%E4%BB%B6%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 20时20分]"
         },
         {
           "title": "理想汽车召回部分2024款MEGA",
