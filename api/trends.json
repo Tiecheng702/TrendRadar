@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T16:15:58.292991+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2025-10-31T17:12:35.872645+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
@@ -137,6 +137,17 @@
           "time_info": "15时11分"
         },
         {
+          "title": "英伟达CEO黄仁勋：中国是一个非常庞大且重要的市场，中国的人工智能研究如此之多，中国根本无可替代。",
+          "url": "https://flash.jin10.com/detail/20251031163933365800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "英伟达(NVDA.O)与LG合作进行物理人工智能开发，支持创业公司。",
           "url": "https://flash.jin10.com/detail/20251031142729217800",
           "source": "金十数据",
@@ -157,6 +168,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：韩国必须抓住机遇，成为全球主要的人工智能中心之一。",
+          "url": "https://flash.jin10.com/detail/20251031163314573800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
         },
         {
           "title": "中国信通院人工智能所联合发布《大模型一体机应用研究报告（2025年）》",
