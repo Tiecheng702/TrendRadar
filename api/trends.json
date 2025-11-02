@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T15:10:34.522243+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-11-02T16:14:36.153858+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             3,
             6,
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 16时14分]"
         },
         {
           "title": "韩国总统办公室：韩国与新加坡签署人工智能与绿色航运合作备忘录。",
@@ -31,11 +32,12 @@
             4,
             7,
             12,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 16时14分]"
         },
         {
           "title": "广州海珠成立人工智能百人会",
@@ -44,11 +46,12 @@
           "ranks": [
             1,
             6,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 15时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 16时14分]"
         }
       ]
     }
