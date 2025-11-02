@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T16:14:36.153858+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2025-11-02T17:11:29.753963+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             6,
             11,
             17,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 17时11分]"
         },
         {
           "title": "韩国总统办公室：韩国与新加坡签署人工智能与绿色航运合作备忘录。",
@@ -47,11 +48,12 @@
             1,
             6,
             12,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时11分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时11分 ~ 17时11分]"
         }
       ]
     }
