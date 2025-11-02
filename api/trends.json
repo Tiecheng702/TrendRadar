@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T05:10:53.495825+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2025-11-03T06:10:22.033468+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
