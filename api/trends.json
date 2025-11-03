@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T13:14:00.067770+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-11-03T14:17:46.907408+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时14分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 14时17分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
