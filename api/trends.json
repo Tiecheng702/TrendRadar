@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T03:10:18.731383+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2025-11-04T04:14:25.225839+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -42,6 +42,28 @@
           "time_info": "[02时15分 ~ 03时10分]"
         },
         {
+          "title": "美联储理事库克：人工智能可能对劳动力市场产生重大负面影响。",
+          "url": "https://flash.jin10.com/detail/20251104032547273800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美联储理事库克：生成式人工智能可能会彻底改变生产力增长，但我们仍不清楚其具体影响。",
+          "url": "https://flash.jin10.com/detail/20251104032525408800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
           "url": "https://flash.jin10.com/detail/20251104010445850800",
           "source": "金十数据",
@@ -73,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "美联储理事库克：人工智能带来的生产率提升将助力进一步扩张。",
+          "url": "https://flash.jin10.com/detail/20251104030154761800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时14分"
         }
       ]
     }
