@@ -1,172 +1,33 @@
 {
-  "generated_at": "2025-11-03T23:14:18.086368+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2025-11-04T00:14:09.089471+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            4,
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时21分 ~ 20时21分]"
-        },
-        {
-          "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2998157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            16,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时10分]"
-        },
-        {
-          "title": "道达尔能源首席执行官：凭借炼油厂现有的数据，人工智能可以帮助产量提高1%，这将带来巨额收入。",
-          "url": "https://flash.jin10.com/detail/20251103174622626800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "据英国金融时报：美国首次允许微软(MSFT.O)向阿联酋出口英伟达人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20251103200352841800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
-          "url": "https://flash.jin10.com/detail/20251102213815037800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            20,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时10分]"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：本公司、马斯达尔、XRG和微软将携手推动人工智能在能源领域的应用，以及能源在人工智能领域的支持。",
-          "url": "https://flash.jin10.com/detail/20251102213730423800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时10分]"
-        },
-        {
-          "title": "英国石油公司首席执行官：未来5到10年，受人工智能增长的推动，能源需求占全球经济的比例将从1%增长到10%。",
-          "url": "https://flash.jin10.com/detail/20251103174218589800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "上海新增8款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/2998495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时10分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
-          "url": "https://flash.jin10.com/detail/20251103120317405800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时14分]"
-        },
-        {
-          "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://wallstreetcn.com/livenews/2998305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时21分]"
-        },
         {
           "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
           "url": "https://wallstreetcn.com/livenews/2998642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时14分"
+          "time_info": "00时14分"
         },
         {
-          "title": "道达尔能源首席执行官：现有供应量不足以满足人工智能的需求。",
-          "url": "https://flash.jin10.com/detail/20251103164118481800",
+          "title": "花旗：到2030年全球人工智能产业收入料将达到9750亿美元",
+          "url": "https://flash.jin10.com/detail/20251103231145361800",
           "source": "金十数据",
           "ranks": [
-            15
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
-          "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
-          "url": "https://flash.jin10.com/detail/20251103141136470800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "00时14分"
         }
       ]
     }
