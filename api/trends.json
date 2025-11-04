@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T21:35:07.653511+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2025-11-04T22:11:59.553604+08:00",
+  "total_titles_processed": 1992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -77,6 +77,17 @@
           "time_info": "[02时15分 ~ 03时10分]"
         },
         {
+          "title": "Shopify(SHOP.N)高管：人工智能助手“正在迅速成为商家完成工作的默认方式”。",
+          "url": "https://flash.jin10.com/detail/20251104214127199800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "西班牙桑坦德银行首席执行官：我认为人工智能的实施不会摧毁大量工作岗位，而是会促使工人进行技能再培训。",
           "url": "https://flash.jin10.com/detail/20251104180444058800",
           "source": "金十数据",
@@ -105,7 +116,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
