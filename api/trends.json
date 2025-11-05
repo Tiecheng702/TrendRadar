@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T12:16:08.393804+08:00",
-  "total_titles_processed": 1111,
+  "generated_at": "2025-11-05T13:13:05.419971+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20251105115714525800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时16分 ~ 13时13分]"
         },
         {
           "title": "AMD(AMD.O)CEO：人工智能业务将在2027年达到数百亿美元，PC业务营收增长速度将超过市场平均水平。",
