@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T01:12:53.625318+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-11-07T02:17:00.673876+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
@@ -25,9 +25,53 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "白宫人工智能事务负责人萨克斯：美国至少有5家主要的人工智能前沿模型公司。如果有一家失败了，其他公司会取而代之。",
+          "url": "https://flash.jin10.com/detail/20251107013905662800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美联储哈玛克：人工智能是一种结构性经济变革，不太适合通过货币政策来应对。",
+          "url": "https://flash.jin10.com/detail/20251107013445448800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美联储哈玛克：人工智能的繁荣可能类似于当年互联网基础设施建设时期的情形。",
+          "url": "https://flash.jin10.com/detail/20251107013439983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能在劳动力市场方面会存在一些问题。",
+          "url": "https://flash.jin10.com/detail/20251107012625411800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时17分"
         }
       ]
     }
