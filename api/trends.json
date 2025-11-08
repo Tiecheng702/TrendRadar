@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T12:13:13.305738+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2025-11-08T13:10:47.588744+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时10分 ~ 12时13分]"
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 13时10分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -34,6 +34,19 @@
           "time_info": "[10时20分 ~ 12时13分]"
         },
         {
+          "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
+          "url": "https://flash.jin10.com/detail/20251108100545053800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时30分 ~ 13时10分]"
+        },
+        {
           "title": "美国总统特朗普：我完全支持人工智能。",
           "url": "https://flash.jin10.com/detail/20251108022405006800",
           "source": "金十数据",
@@ -44,18 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时12分]"
-        },
-        {
-          "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
-          "url": "https://flash.jin10.com/detail/20251108100545053800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 12时13分]"
         }
       ]
     }
