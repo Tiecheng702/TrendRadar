@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T18:10:33.449546+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-11-08T19:09:00.633073+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             3,
             11,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 19时09分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
