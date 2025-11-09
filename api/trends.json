@@ -1,28 +1,7 @@
 {
-  "generated_at": "2025-11-09T23:10:26.726515+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2025-11-10T00:11:43.818526+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
-          "url": "https://flash.jin10.com/detail/20251109085033064800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            20,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
