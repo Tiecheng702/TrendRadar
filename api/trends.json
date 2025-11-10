@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T19:10:33.732628+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2025-11-10T20:22:33.449280+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时13分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[18时13分 ~ 20时22分]"
         },
         {
           "title": "日本央行审议委员中川顺子：我关注的风险包括美国经济前景，例如关税对经济和物价的影响可能大于预期，以及人工智能驱动的投资增长预期可能发生改变。",
