@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:16:59.093795+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-11-12T15:12:29.940985+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "商汤在沙特共建人工智能创新中心",
@@ -19,17 +19,6 @@
           "time_info": "13时12分"
         },
         {
-          "title": "德国大型能源公司莱茵集团（RWE）首席财务官：人工智能的蓬勃发展推动了全球对电力的需求，进而带动了可再生能源的发展，这为我们的业务带来了良好的前景。",
-          "url": "https://flash.jin10.com/detail/20251112140043328800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
-        },
-        {
           "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
           "url": "https://flash.jin10.com/detail/20251112112600840800",
           "source": "金十数据",
@@ -40,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 12时15分]"
+        },
+        {
+          "title": "德国大型能源公司莱茵集团（RWE）首席财务官：人工智能的蓬勃发展推动了全球对电力的需求，进而带动了可再生能源的发展，这为我们的业务带来了良好的前景。",
+          "url": "https://flash.jin10.com/detail/20251112140043328800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时12分]"
         },
         {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
@@ -149,6 +150,17 @@
           "time_info": "08时49分"
         },
         {
+          "title": "鸿海：预计第四季度人工智能服务器机架出货量将实现两位数以上的高增长。",
+          "url": "https://flash.jin10.com/detail/20251112142712726800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-12）",
           "url": "https://flash.jin10.com/detail/20251112115354459800",
           "source": "金十数据",
@@ -158,6 +170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "鸿海：预计第四季度人工智能服务器收入将环比增长。",
+          "url": "https://flash.jin10.com/detail/20251112142110257800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     }
