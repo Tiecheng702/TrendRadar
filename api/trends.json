@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-12T12:15:14.904750+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-11-12T13:12:22.442646+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "商汤在沙特共建人工智能创新中心",
+          "url": "https://flash.jin10.com/detail/20251112124229582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
         {
           "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
           "url": "https://flash.jin10.com/detail/20251112112600840800",
@@ -125,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112115354459800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     }
