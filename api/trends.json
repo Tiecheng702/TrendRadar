@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T13:12:26.585976+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2025-11-13T14:17:20.620526+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
+          "url": "https://wallstreetcn.com/livenews/3003857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时17分 ~ 14时17分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-13）",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时10分 ~ 06时11分]"
-        },
-        {
-          "title": "诺贝尔经济学奖得主迈克尔·斯宾塞：中美人工智能发展“基本不相上下”",
-          "url": "https://wallstreetcn.com/livenews/3003857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时12分]"
         },
         {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
