@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:09:05.073371+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2025-11-14T04:13:17.938143+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 03时09分]"
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 04时13分]"
         },
         {
           "title": "Telus首席信息官：Telus正与潜在合作伙伴就人工智能基础设施的扩展进行洽谈。",
@@ -59,7 +60,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         }
