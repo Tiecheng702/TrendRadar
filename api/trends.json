@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T00:17:42.097390+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-15T01:10:23.974295+08:00",
+  "total_titles_processed": 364,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/1972723249331864758",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时10分]"
         },
         {
           "title": "理想汽车内部问责处理18人",
           "url": "https://www.toutiao.com/trending/7572410670306807315/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时10分]"
         }
       ]
     }
