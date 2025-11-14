@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T01:10:23.974295+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-11-15T02:15:38.111025+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时15分]"
         },
         {
           "title": "理想汽车内部问责处理18人",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时15分]"
         }
       ]
     }
