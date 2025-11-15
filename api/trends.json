@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:10:26.451952+08:00",
-  "total_titles_processed": 1287,
+  "generated_at": "2025-11-15T19:08:39.269408+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
             7,
             8,
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 18时10分]"
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 19时08分]"
         },
         {
           "title": "13F报告显示，高瓴HHLR Advisors Ltd.三季度新进满帮、百度、Sea Ltd.、巴里克矿业等。 增持阿里巴巴、百度、拼多多等。 清仓看准网/Boss直聘、理想汽车、唯品会、WNS、京东等。 减持中通快递、网易、富途控股、逸仙电商等。 重仓拼多多、阿里、富途、Webull、百度、传奇生物、网易等。",
@@ -88,11 +89,12 @@
           "ranks": [
             3,
             13,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时13分 ~ 18时10分]"
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 19时08分]"
         },
         {
           "title": "泰达（Tether）拟与人工智能机器人初创企业Neura达成10亿欧元融资协议。",
