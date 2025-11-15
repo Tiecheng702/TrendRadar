@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T12:12:45.797076+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2025-11-15T13:11:25.533356+08:00",
+  "total_titles_processed": 995,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "理想汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "理想汽车发布两起质量事故处理公告，共 18 名员工被问责，能挽回消费者信任吗？哪些后续保障更值得关注？",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "李想直管人事，华为系高管淡出理想管理层，是出于哪些目的？将对理想汽车产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1971701581499045819",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
