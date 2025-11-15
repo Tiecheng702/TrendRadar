@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T07:10:30.448792+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2025-11-15T08:46:58.538203+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时10分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 08时46分]"
         },
         {
           "title": "理想汽车内部问责处理18人",
@@ -42,7 +42,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -57,11 +57,12 @@
           "url": "https://flash.jin10.com/detail/20251115040927220800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时10分 ~ 07时10分]"
+          "appearance_count": 4,
+          "time_info": "[05时10分 ~ 08时46分]"
         },
         {
           "title": "泰达（Tether）拟与人工智能机器人初创企业Neura达成10亿欧元融资协议。",
