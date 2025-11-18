@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T15:12:00.726232+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2025-11-18T16:15:52.981728+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时40分 ~ 12时15分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
