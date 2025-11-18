@@ -1,12 +1,56 @@
 {
-  "generated_at": "2025-11-19T06:11:27.109941+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-19T07:10:34.291547+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特朗普：希望建立人工智能的统一联邦监管标准",
+          "url": "https://flash.jin10.com/detail/20251119064221124800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美国白宫：美国与沙特阿拉伯签署了一份具有里程碑意义的人工智能谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251119063037342800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美国白宫：美沙关键成果包括民用核能合作协议、关键矿产合作上的进展，以及一份人工智能谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20251119063030258800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
+        {
+          "title": "美国总统特朗普：我们必须制定一项人工智能联邦标准，而不是由50个州各自为政的监管体系。",
+          "url": "https://flash.jin10.com/detail/20251119055753200800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
+        },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
           "url": "https://wallstreetcn.com/livenews/3006643",
@@ -17,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "人工智能热大行其道，美股交易员收入创出二十年之最",
+          "url": "https://wallstreetcn.com/livenews/3006755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         },
         {
           "title": "美国总统特朗普：美国将涉足沙特阿拉伯的人工智能领域。",
