@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T11:40:18.865376+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2025-11-18T12:15:21.546751+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
+          "url": "https://flash.jin10.com/detail/20251118120343282800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
@@ -43,6 +54,18 @@
           "time_info": "[06时10分 ~ 07时10分]"
         },
         {
+          "title": "请推荐一个人工智能学习路线图？",
+          "url": "https://www.zhihu.com/question/327809761",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时15分]"
+        },
+        {
           "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
           "url": "https://flash.jin10.com/detail/20251117231526009800",
           "source": "金十数据",
@@ -63,17 +86,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        },
-        {
-          "title": "请推荐一个人工智能学习路线图？",
-          "url": "https://www.zhihu.com/question/327809761",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "知情人士透露，苹果明星设计师Abidur Chowdhury最近离职，加入了一家人工智能初创公司。Chowdhury曾参与开发iPhone Air。（彭博）",
