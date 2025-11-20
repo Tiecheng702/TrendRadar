@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T18:12:37.896342+08:00",
-  "total_titles_processed": 1503,
+  "generated_at": "2025-11-20T19:10:47.926328+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：AI（人工智能）已经达到一个“临界点”。",
@@ -315,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京本人未使用人工智能，但总统行政部门在使用。",
+          "url": "https://flash.jin10.com/detail/20251120181052149800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "美联储会议纪要：多位与会者强调了股市可能出现无序下跌的可能性，尤其是在人工智能相关前景突然重新评估的情况下。",
