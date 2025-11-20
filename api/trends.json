@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T07:11:03.534515+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2025-11-20T08:47:03.748468+08:00",
+  "total_titles_processed": 822,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：AI（人工智能）已经达到一个“临界点”。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -113,6 +113,17 @@
           "time_info": "[02时16分 ~ 03时09分]"
         },
         {
+          "title": "美国批准向沙特和阿联酋人工智能公司出口芯片",
+          "url": "https://flash.jin10.com/detail/20251120081708296800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
+        },
+        {
           "title": "市场消息：Meta Platforms(META.O)首席人工智能科学家Yann LeCun拟最快于本周宣布离职并创办新公司，Meta将与Yann LeCun的新初创公司合作。",
           "url": "https://flash.jin10.com/detail/20251120044512589800",
           "source": "金十数据",
@@ -130,7 +141,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -141,7 +152,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -174,7 +185,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
         },
@@ -188,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "美媒：特朗普考虑最早于周五签署有关人工智能的行政令",
+          "url": "https://flash.jin10.com/detail/20251120073946574800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         },
         {
           "title": "美国和沙特阿拉伯宣布建立人工智能战略合作伙伴关系。",
