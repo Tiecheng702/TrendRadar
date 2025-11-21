@@ -1,212 +1,31 @@
 {
-  "generated_at": "2025-11-21T23:11:07.605462+08:00",
-  "total_titles_processed": 2224,
+  "generated_at": "2025-11-22T00:14:02.266942+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 18,
+      "match_count": 2,
       "titles": [
         {
-          "title": "市场消息：美国白宫人工智能顾问萨克斯和众议院多数党领袖史蒂夫·斯卡利斯正在牵头推动在年度国防法案中加入一项条款，该条款将优先于一些有关人工智能的州法律，试图阻止纽约和加利福尼亚正在萌芽的监管努力。",
-          "url": "https://flash.jin10.com/detail/20251120234029004800",
-          "source": "金十数据",
+          "title": "花旗警告称，由于人工智能（AI）乐观情绪动摇，应对做多标普500指数保持谨慎。",
+          "url": "https://wallstreetcn.com/livenews/3008804",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
         {
-          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
-          "url": "https://wallstreetcn.com/livenews/3008750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 23时11分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们正与富士康合作，将人工智能引入工厂和生产线。",
-          "url": "https://flash.jin10.com/detail/20251121113704678800",
+          "title": "市场消息：花旗警告称，由于人工智能乐观情绪动摇，应对做多标普500指数保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20251121233750871800",
           "source": "金十数据",
           "ranks": [
-            5,
-            23
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时11分]"
-        },
-        {
-          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
-          "url": "https://wallstreetcn.com/livenews/3008725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 22时11分]"
-        },
-        {
-          "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
-          "url": "https://wallstreetcn.com/livenews/3008126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时09分 ~ 04时12分]"
-        },
-        {
-          "title": "美联储“三把手”威廉姆斯应届大学毕业生正面临“完美风暴”——招聘疲软。 招聘疲软是周期性问题，而非结构性问题。 目前没有看到大量裁员。 雇主在招聘新员工方面非常谨慎。 人工智能将会改变我们的就业类型。",
-          "url": "https://wallstreetcn.com/livenews/3008742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 23时11分]"
-        },
-        {
-          "title": "据声明称，阿联酋与加拿大启动一项规模达500亿美元的投资框架。阿联酋在加拿大的投资将依托现有框架拓展至人工智能与能源领域。",
-          "url": "https://wallstreetcn.com/livenews/3008454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-21）",
-          "url": "https://flash.jin10.com/detail/20251121120040841800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "阿联酋在500亿美元框架下对加拿大的投资将涵盖人工智能与能源领域。",
-          "url": "https://flash.jin10.com/detail/20251121141131556800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "美联储古尔斯比：人工智能投资引发对可能出现泡沫的担忧。",
-          "url": "https://flash.jin10.com/detail/20251121021256325800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "美联储威廉姆斯：市场似乎对人工智能非常乐观，预计将迎来一段强劲增长期。",
-          "url": "https://flash.jin10.com/detail/20251121205941631800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251121214555783800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：杠杆的使用更加有限可能会降低任何人工智能情绪转变传递至经济的程度，但正在密切关注人工智能公司的债务发行情况。",
-          "url": "https://flash.jin10.com/detail/20251121214537456800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：与互联网泡沫时期不同，与人工智能相关的股票上涨主要得益于人工智能公司确实拥有实际收益。",
-          "url": "https://flash.jin10.com/detail/20251121214527130800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时11分"
-        },
-        {
-          "title": "美国国税局正在该机构的多个部门推广Salesforce(CRM.N)的人工智能体Agentforce。",
-          "url": "https://flash.jin10.com/detail/20251121182347367800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "英伟达副总裁在鸿海科技日上表示，通过与鸿海的合作，我们能够更快地部署先进的人工智能基础设施，以满足客户需求。",
-          "url": "https://flash.jin10.com/detail/20251121104327270800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "普京：俄应在生成式人工智能领域掌握全套自主技术",
-          "url": "https://wallstreetcn.com/livenews/3008037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美联储理事Barr：人工智能（AI）给美国GDP带来重大的增长。 AI还没有带来生产力增长的效应。 AI可能整体偏正面，短期内却存在错配问题。",
-          "url": "https://wallstreetcn.com/livenews/3008036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": "00时14分"
         }
