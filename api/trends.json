@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T20:17:09.916295+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2025-11-22T21:17:05.857531+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
@@ -67,11 +67,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 20时17分]"
+          "appearance_count": 3,
+          "time_info": "[19时08分 ~ 21时17分]"
         },
         {
           "title": "市场消息：花旗警告称，由于人工智能乐观情绪动摇，应对做多标普500指数保持谨慎。",
@@ -110,8 +111,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 20时17分]"
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 21时17分]"
         }
       ]
     }
