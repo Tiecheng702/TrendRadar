@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T17:10:41.979322+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2025-11-23T18:10:34.365153+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             11,
             12,
             13,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时11分 ~ 17时10分]"
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 18时10分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -47,11 +48,12 @@
           "url": "https://flash.jin10.com/detail/20251123155316784800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 18时10分]"
         },
         {
           "title": "加拿大政府：卡尼总理与德国总理默茨讨论了在关键矿物、清洁能源、人工智能、航空航天和国防领域的伙伴关系。重申对乌克兰的支持，并强调任何解决方案都必须有乌克兰的参与。",
@@ -60,11 +62,12 @@
           "ranks": [
             8,
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时10分]"
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时10分]"
         }
       ]
     }
