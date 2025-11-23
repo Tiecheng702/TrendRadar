@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T13:11:25.233788+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2025-11-23T14:15:29.840831+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 13时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 14时15分]"
         },
         {
           "title": "中欧专家呼吁加强人工智能领域务实合作",
@@ -34,8 +34,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 13时11分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 14时15分]"
         }
       ]
     }
