@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T02:16:42.981942+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-11-25T03:07:06.912891+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时16分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时07分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
