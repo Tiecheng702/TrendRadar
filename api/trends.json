@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-25T10:28:46.104657+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2025-11-25T11:43:04.794184+08:00",
+  "total_titles_processed": 1031,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时46分 ~ 11时43分]"
+        },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3009699",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 03时07分]"
-        },
-        {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时46分 ~ 10时28分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
