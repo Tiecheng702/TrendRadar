@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T20:22:02.460657+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2025-11-25T21:28:10.872347+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -28,11 +28,45 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 20时22分]"
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 21时28分]"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：将“积极”投资于人工智能能力的提升，不排除在已承诺的三年3800亿元人民币投资之外进行额外投资。考虑到客户需求的旺盛，此前提及的3800亿元人民币投资可能显得偏小。",
+          "url": "https://flash.jin10.com/detail/20251125211805613800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "阿里巴巴(09988.HK)：以目前人工智能和云服务的增长速度来看，公司将在供应链上面临问题，包括服务器建设的速度。",
+          "url": "https://flash.jin10.com/detail/20251125211723857800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "美国财长贝森特：需要保持美国在人工智能领域的领先地位。",
+          "url": "https://flash.jin10.com/detail/20251125211711848800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
