@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T13:11:56.878434+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2025-11-25T14:17:26.087107+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时46分 ~ 13时11分]"
+          "appearance_count": 8,
+          "time_info": "[08时46分 ~ 14时17分]"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
@@ -109,7 +109,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
