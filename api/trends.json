@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T12:17:52.630935+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-11-25T13:11:56.878434+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -17,8 +17,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时46分 ~ 12时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时46分 ~ 13时11分]"
         },
         {
           "title": "日本料将在六大战略科技领域提及人工智能（AI）与核聚变。（日经新闻）",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-25）",
+          "url": "https://flash.jin10.com/detail/20251125115711078800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "亚马逊将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
