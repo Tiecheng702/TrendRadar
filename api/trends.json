@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T08:47:11.858041+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-11-25T10:28:46.104657+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时11分 ~ 03时07分]"
+        },
+        {
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 10时28分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
@@ -57,17 +69,6 @@
           "time_info": "[01时11分 ~ 02时16分]"
         },
         {
-          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
-          "url": "https://www.cls.cn/detail/2209616",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时46分 ~ 08时47分]"
-        },
-        {
           "title": "美国白宫：美国总统特朗普签署行政命令，以推动人工智能加速创新，并指示构建人工智能平台，以利用联邦科学数据集。",
           "url": "https://flash.jin10.com/detail/20251125060430409800",
           "source": "金十数据",
@@ -85,7 +86,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
         },
