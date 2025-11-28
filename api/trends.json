@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T12:15:00.321684+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-11-28T13:12:36.848701+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "国家能源局综合司发布关于组织开展“人工智能+”能源试点工作的通知",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 12时15分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 13时12分]"
         },
         {
           "title": "《北京市促进“人工智能+视听”产业高质量发展行动方案（2025—2029年）》发布",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 03时09分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128120110920800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     }
