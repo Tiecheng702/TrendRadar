@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T11:40:08.636264+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2025-11-29T12:13:57.548995+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 12时13分]"
         },
         {
           "title": "人工智能泡沫真的要破灭了吗",
@@ -42,11 +43,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 12时13分]"
         }
       ]
     }
