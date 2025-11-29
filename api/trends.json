@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T15:10:32.568280+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2025-11-29T16:14:11.201550+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "中信证券：空间算力PUE低发电成本低，已成为人工智能发展新趋势",
@@ -17,11 +17,23 @@
             13,
             15,
             18,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 15时10分]"
+          "appearance_count": 7,
+          "time_info": "[10时25分 ~ 16时14分]"
+        },
+        {
+          "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
+          "url": "https://flash.jin10.com/detail/20251129154414299800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "人工智能泡沫真的要破灭了吗",
