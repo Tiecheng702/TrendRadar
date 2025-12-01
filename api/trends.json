@@ -1,7 +1,36 @@
 {
-  "generated_at": "2025-12-02T03:14:17.564190+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-02T04:11:15.700482+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
+          "url": "https://flash.jin10.com/detail/20251202035104895800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "据Politico：微软(MSFT.O)首席执行官周一表示，微软正日益将欧洲视为其人工智能战略的关键区域。",
+          "url": "https://flash.jin10.com/detail/20251202032928692800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
