@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-02T21:31:26.871225+08:00",
-  "total_titles_processed": 1816,
+  "generated_at": "2025-12-02T22:13:34.017396+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "市场消息：AMD支持的美国云计算服务提供商Vultr将斥资10亿美元打造人工智能芯片集群。",
+          "url": "https://flash.jin10.com/detail/20251202214355129800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-02）",
           "url": "https://flash.jin10.com/detail/20251202115850736800",
