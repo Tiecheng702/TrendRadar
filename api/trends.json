@@ -1,114 +1,22 @@
 {
-  "generated_at": "2025-12-03T23:13:08.838055+08:00",
-  "total_titles_processed": 2078,
+  "generated_at": "2025-12-04T00:17:25.032941+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
-          "url": "https://flash.jin10.com/detail/20251203000100879800",
+          "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
+          "url": "https://flash.jin10.com/detail/20251203234739548800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
-          "url": "https://flash.jin10.com/detail/20251203114922353800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时12分]"
-        },
-        {
-          "title": "印度数据中心运营商 Sify Infinit Spaces 押注人工智能热潮，但对泡沫保持警惕",
-          "url": "https://wallstreetcn.com/livenews/3014193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时14分]"
-        },
-        {
-          "title": "英伟达：并不认为人工智能领域存在泡沫",
-          "url": "https://wallstreetcn.com/livenews/3013803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 01时15分]"
-        },
-        {
-          "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
-          "url": "https://wallstreetcn.com/livenews/3014113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时20分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-03）",
-          "url": "https://flash.jin10.com/detail/20251203115452067800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "诺比侃人工智能科技（成都）股份有限公司通过港交所上市聆讯。",
-          "url": "https://wallstreetcn.com/livenews/3014487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "贝莱德称流入亚洲的ETF资金主要流向韩国 人工智能是主因",
-          "url": "https://wallstreetcn.com/livenews/3014450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "MongoDB股价上涨25%，今年迄今已上涨超过40%。 该公司超越了第三季度的预期并上调了业绩预测，这得益于其从 人工智能（AI） 中获益，以及其Atlas平台越来越受欢迎。 首席执行官Chirantan “CJ” Desai表示，随着人工智能达到一个转折点（inflection），公司正在迎来一个“千载难逢”（once in a lifetime）的机遇。",
-          "url": "https://wallstreetcn.com/livenews/3013797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "00时17分"
         }
       ]
     }
