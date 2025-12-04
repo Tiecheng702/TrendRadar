@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T10:31:50.093759+08:00",
-  "total_titles_processed": 866,
+  "generated_at": "2025-12-04T11:47:28.378510+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,19 @@
           "time_info": "[06时12分 ~ 07时09分]"
         },
         {
+          "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2218848",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时49分 ~ 11时47分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时13分 ~ 05时11分]"
-        },
-        {
-          "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
-          "url": "https://www.cls.cn/detail/2218848",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时49分 ~ 10时31分]"
         },
         {
           "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
