@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T19:11:39.983564+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-12-04T20:22:43.548433+08:00",
+  "total_titles_processed": 1784,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "AMD(AMD.O)CEO：内存短缺可能只是对人工智能市场的一个小干扰。",
@@ -30,15 +30,15 @@
           "time_info": "13时12分"
         },
         {
-          "title": "民航局出台意见 推动“人工智能+民航”深度融合创新",
-          "url": "https://wallstreetcn.com/livenews/3015129",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟反垄断专员Teresa Ribera：欧盟考虑针对WhatsApp的人工智能计划采取“临时措施”。",
+          "url": "https://flash.jin10.com/detail/20251204194527077800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时22分"
         },
         {
           "title": "英伟达CEO黄仁勋：能源成为人工智能的下一个全球瓶颈；人工智能的发展给电力供应带来压力；预测未来十年内，小型核反应堆将被广泛用于为人工智能系统供电。",
@@ -64,6 +64,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时09分]"
+        },
+        {
+          "title": "民航局出台意见 推动“人工智能+民航”深度融合创新",
+          "url": "https://wallstreetcn.com/livenews/3015129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时22分]"
         },
         {
           "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
@@ -136,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
+        },
+        {
+          "title": "工信部：加快工业互联网与人工智能、5G、大数据、云计算等技术互促发展",
+          "url": "https://wallstreetcn.com/livenews/3015160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         },
         {
           "title": "消息人士称，Meta将因在WhatsApp中使用人工智能面临欧盟反垄断调查。（路透）",
