@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:14:38.563912+08:00",
-  "total_titles_processed": 1272,
+  "generated_at": "2025-12-05T16:15:56.458033+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 15时14分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 16时15分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-05）",
