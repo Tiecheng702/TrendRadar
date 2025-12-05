@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:17:48.834595+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-12-05T15:14:38.563912+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 14时17分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 15时14分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-05）",
@@ -48,11 +49,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 15时14分]"
         },
         {
           "title": "市场消息：LG电子与微软寻求在人工智能数据中心领域开展合作。",
