@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T22:11:59.192856+08:00",
-  "total_titles_processed": 1976,
+  "generated_at": "2025-12-05T23:12:41.257216+08:00",
+  "total_titles_processed": 2076,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时31分 ~ 16时15分]"
+        },
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时21分 ~ 23时12分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-05）",
@@ -54,19 +68,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
-        },
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时21分 ~ 22时11分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：人工智能经济的发展速度已超过20世纪90年代的互联网经济。",
@@ -133,7 +134,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
