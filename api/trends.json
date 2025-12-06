@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T11:38:03.127726+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2025-12-06T12:13:00.961030+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时13分 ~ 11时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时13分 ~ 12时13分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
