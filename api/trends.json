@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T22:09:56.192240+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2025-12-06T23:10:11.066938+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时20分 ~ 22时09分]"
+          "appearance_count": 3,
+          "time_info": "[21时20分 ~ 23时10分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
@@ -58,6 +59,18 @@
           "time_info": "[04时12分 ~ 05时10分]"
         },
         {
+          "title": "对人工智能感到焦虑的人，到底在怕什么？",
+          "url": "https://www.zhihu.com/question/1975522650878124126",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时09分 ~ 23时10分]"
+        },
+        {
           "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
           "url": "https://flash.jin10.com/detail/20251206165735695800",
           "source": "金十数据",
@@ -69,17 +82,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时11分 ~ 19时09分]"
-        },
-        {
-          "title": "对人工智能感到焦虑的人，到底在怕什么？",
-          "url": "https://www.zhihu.com/question/1975522650878124126",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时09分"
         }
       ]
     }
