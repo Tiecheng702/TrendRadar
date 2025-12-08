@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T04:12:34.903939+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-12-09T05:10:48.773449+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[00时14分 ~ 01时13分]"
         },
         {
+          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
+          "url": "https://flash.jin10.com/detail/20251209034031634800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 05时10分]"
+        },
+        {
           "title": "OpenAI报告称：企业人工智能应用激增",
           "url": "https://wallstreetcn.com/livenews/3017061",
           "source": "华尔街见闻-快讯",
@@ -30,17 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时13分]"
-        },
-        {
-          "title": "奈飞(NFLX.O)首席执行官：公司计划利用人工智能提升流媒体平台的个性化推荐和广告效果。",
-          "url": "https://flash.jin10.com/detail/20251209034031634800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时12分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -71,7 +72,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
         },
