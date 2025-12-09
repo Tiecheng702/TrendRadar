@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T00:15:13.925596+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-10T01:20:28.571074+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 01时20分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特在华尔街日报CEO委员会峰会上表示：人工智能（AI）对生产力的作用比电脑更大。 预计AI并不会造成大规模失业。 AI将是一件好事，就像电脑那样。",
@@ -25,7 +25,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
         }
