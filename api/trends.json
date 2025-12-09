@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T05:24:01.578016+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-10T06:15:34.709100+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 06时15分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：人工智能的竞争是有史以来最顶尖激烈的较量。硬件的部署速度，尤其是机器人领域，是关键所在。",
