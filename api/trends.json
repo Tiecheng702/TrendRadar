@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T15:15:36.986255+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-12-10T16:16:20.916036+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时14分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 16时16分]"
         },
         {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
@@ -27,11 +27,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时46分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时46分 ~ 16时16分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-10）",
