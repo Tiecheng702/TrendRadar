@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T08:52:36.811883+08:00",
-  "total_titles_processed": 869,
+  "generated_at": "2025-12-11T10:48:15.625278+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国能源部拨款超3.2亿美元，加大对人工智能科学投资",
@@ -14,9 +14,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
+        },
+        {
+          "title": "市场消息：日本铠侠（Kioxia）将于2026年为人工智能数据中心生产下一代存储芯片。",
+          "url": "https://flash.jin10.com/detail/20251211094530353800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
