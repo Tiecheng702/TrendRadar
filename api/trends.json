@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T14:18:07.310160+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-12-12T15:15:54.292047+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国政府声明显示，美国要求人工智能供应商衡量政治“偏见”。",
@@ -99,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
+        },
+        {
+          "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
+          "url": "https://flash.jin10.com/detail/20251212142602428800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "特朗普：正在签署行政命令，阻止各州执行自己的人工智能法规",
