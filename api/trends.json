@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T02:17:38.555137+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2025-12-13T03:11:05.582065+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时11分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时11分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
@@ -37,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 02时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时11分]"
         },
         {
           "title": "据日经新闻：日本与中亚国家将在首次峰会上就人工智能采矿技术展开合作。日本即将与中亚国家建立框架，日本人工智能技术将助力该地区矿业发展。",
@@ -50,7 +53,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时17分"
         }
