@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T03:11:05.582065+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-13T04:12:22.892630+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             12,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时12分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
@@ -27,11 +28,12 @@
           "ranks": [
             3,
             13,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时11分 ~ 03时11分]"
+          "appearance_count": 4,
+          "time_info": "[01时11分 ~ 04时12分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
