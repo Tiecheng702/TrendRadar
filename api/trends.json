@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T17:11:28.852131+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2025-12-13T18:10:47.725949+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             5,
             6,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时16分 ~ 17时11分]"
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 18时10分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -42,11 +43,12 @@
             3,
             7,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时16分 ~ 17时11分]"
+          "appearance_count": 5,
+          "time_info": "[14时16分 ~ 18时10分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
