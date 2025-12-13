@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T05:09:48.278198+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-12-14T06:10:02.776253+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 05时09分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
