@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T18:10:47.725949+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2025-12-13T19:08:59.905642+08:00",
+  "total_titles_processed": 1345,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,28 @@
             5,
             6,
             8,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 18时10分]"
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 19时08分]"
+        },
+        {
+          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
+          "url": "https://wallstreetcn.com/livenews/3020211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            8,
+            10,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 19时08分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -34,21 +51,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时10分 ~ 10时28分]"
-        },
-        {
-          "title": "上海浦东：未来三年，浦东将新增人工智能企业1000家",
-          "url": "https://wallstreetcn.com/livenews/3020211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            8,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 18时10分]"
         },
         {
           "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
