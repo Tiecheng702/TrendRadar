@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:16:15.966738+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2025-12-14T15:11:51.142314+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "ranks": [
             1,
             6,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时16分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时11分]"
         },
         {
           "title": "广东人工智能和机器人产业核心指标位列全国第一",
@@ -53,11 +54,12 @@
             9,
             13,
             19,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 15时11分]"
         },
         {
           "title": "2025年人工智能核心产业规模有望破万亿元",
@@ -76,11 +78,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32172560",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 15时11分]"
         }
       ]
     }
