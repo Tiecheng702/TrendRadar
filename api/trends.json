@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T01:16:31.247373+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-12-17T02:18:03.512938+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "哈塞特：人工智能将带动生产率增长2.5%-3%",
@@ -25,9 +25,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "据日经新闻：日本先进半导体制造企业Rapidus已开发出可降低人工智能应用芯片生产成本的技术。",
+          "url": "https://flash.jin10.com/detail/20251217012348102800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "城堡投资创始人肯·格里芬：人工智能将对经济产生显著但有限的影响。",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "Meta Platforms(META.O)：用于人工智能眼镜的V21软件更新还包含一项新的Spotify功能，允许Meta的人工智能播放歌曲。",
+          "url": "https://flash.jin10.com/detail/20251217011825151800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     }
