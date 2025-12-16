@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T00:15:38.351920+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-17T01:16:31.247373+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "哈塞特：人工智能将带动生产率增长2.5%-3%",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "埃森哲将收购人工智能数据中心工程与咨询公司DLB Associates 65%的股权。",
+          "url": "https://flash.jin10.com/detail/20251217002108283800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "城堡投资创始人肯·格里芬：人工智能将对经济产生显著但有限的影响。",
