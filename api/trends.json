@@ -1,78 +1,33 @@
 {
-  "generated_at": "2025-12-16T23:15:08.891674+08:00",
-  "total_titles_processed": 2217,
+  "generated_at": "2025-12-17T00:15:38.351920+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "经合组织：人工智能投资将持续增长并提振世界经济",
-          "url": "https://flash.jin10.com/detail/20251216171115377800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
-          "title": "中国信通院建设的人工智能产品安全漏洞专业库（CAIVD）上线运行",
-          "url": "https://wallstreetcn.com/livenews/3021455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
         {
           "title": "哈塞特：人工智能将带动生产率增长2.5%-3%",
           "url": "https://wallstreetcn.com/livenews/3021800",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时15分"
+          "time_info": "00时15分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-16）",
-          "url": "https://flash.jin10.com/detail/20251216120200843800",
+          "title": "城堡投资创始人肯·格里芬：人工智能将对经济产生显著但有限的影响。",
+          "url": "https://flash.jin10.com/detail/20251216232420345800",
           "source": "金十数据",
           "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时15分]"
-        },
-        {
-          "title": "美国大数据和人工智能公司Databricks以1340亿美元估值融资超40亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3021714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：就业市场近期出现周期动态，而非受到人工智能（AI）的冲击。 的确认为美国处于所谓的K型经济。",
-          "url": "https://wallstreetcn.com/livenews/3021098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "00时15分"
         }
       ]
     }
