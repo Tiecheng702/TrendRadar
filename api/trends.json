@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-19T06:11:38.270323+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2025-12-19T07:11:53.330360+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 6,
       "titles": [
-        {
-          "title": "据华尔街日报：Meta正在开发代号为“Mango”的新型人工智能图像及视频模型。",
-          "url": "https://flash.jin10.com/detail/20251219055119059800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
         {
           "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
           "url": "https://flash.jin10.com/detail/20251219030614228800",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时12分]"
+        },
+        {
+          "title": "据华尔街日报：Meta正在开发代号为“Mango”的新型人工智能图像及视频模型。",
+          "url": "https://flash.jin10.com/detail/20251219055119059800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
         },
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
