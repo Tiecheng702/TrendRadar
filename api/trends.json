@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T10:47:56.852814+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2025-12-19T11:53:49.225789+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
@@ -75,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "山东：到2027年全省人工智能终端产业规模超过4500亿元",
+          "url": "https://wallstreetcn.com/livenews/3023511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     }
