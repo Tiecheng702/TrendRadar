@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T20:18:35.530152+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-12-20T21:21:01.490848+08:00",
+  "total_titles_processed": 1499,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时21分]"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras在推迟后即将提交美国IPO申请。",
