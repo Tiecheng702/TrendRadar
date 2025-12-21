@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T18:11:30.439377+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2025-12-21T19:09:08.047155+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,22 @@
           "time_info": "[10时53分 ~ 15时11分]"
         },
         {
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7,
+            10,
+            14,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 19时09分]"
+        },
+        {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
           "url": "https://wallstreetcn.com/livenews/3024278",
           "source": "华尔街见闻-快讯",
@@ -67,21 +83,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时55分 ~ 13时13分]"
-        },
-        {
-          "title": "日本将启动耗资190亿美元的国家人工智能项目",
-          "url": "https://flash.jin10.com/detail/20251221125612562800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            7,
-            10,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 18时11分]"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
