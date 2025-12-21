@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T12:30:48.387925+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2025-12-21T13:13:14.139850+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             2,
             14,
             19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时55分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[08时55分 ~ 13时13分]"
         },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -40,11 +41,12 @@
           "ranks": [
             1,
             7,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 13时13分]"
         },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -52,11 +54,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 13时13分]"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
