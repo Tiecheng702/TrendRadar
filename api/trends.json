@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T11:56:49.673727+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2025-12-21T12:30:48.387925+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
@@ -20,15 +20,18 @@
           "time_info": "[00时12分 ~ 05时09分]"
         },
         {
-          "title": "国家人工智能应用中试基地（医疗）浙江开园",
-          "url": "https://flash.jin10.com/detail/20251221104217092800",
+          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
+          "url": "https://flash.jin10.com/detail/20251221082842209800",
           "source": "金十数据",
           "ranks": [
-            5
+            2,
+            14,
+            19,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时56分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时55分 ~ 12时30分]"
         },
         {
           "title": "国家人工智能应用中试基地（医疗）浙江开园",
@@ -36,24 +39,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 12时30分]"
+        },
+        {
+          "title": "国家人工智能应用中试基地（医疗）浙江开园",
+          "url": "https://flash.jin10.com/detail/20251221104217092800",
+          "source": "金十数据",
+          "ranks": [
+            5,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时53分 ~ 11时56分]"
-        },
-        {
-          "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
-          "url": "https://flash.jin10.com/detail/20251221082842209800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时55分 ~ 11时56分]"
+          "time_info": "[11时56分 ~ 12时30分]"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
