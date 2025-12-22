@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T06:11:36.522240+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2025-12-23T07:11:25.254071+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美银CEO：人工智能的经济效益正加速显现",
@@ -81,6 +81,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时10分]"
+        },
+        {
+          "title": "美国总统特朗普：新的舰艇将“高程度地由人工智能控制”。",
+          "url": "https://flash.jin10.com/detail/20251223062302646800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美国总统特朗普：海军和我将主导这些舰艇的设计，人工智能将在这些舰艇中发挥重要作用。",
+          "url": "https://flash.jin10.com/detail/20251223062159477800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     }
