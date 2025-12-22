@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T05:10:28.646074+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-12-23T06:11:36.522240+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,17 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
-          "url": "https://flash.jin10.com/detail/20251223044006238800",
+          "title": "美银CEO：人工智能的经济效益正加速显现",
+          "url": "https://flash.jin10.com/detail/20251223033826278800",
           "source": "金十数据",
           "ranks": [
-            5
+            1,
+            12,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 06时11分]"
         },
         {
           "title": "美国银行CEO莫伊尼汉：人工智能领域的支出持续增长，助力2026年经济增长。",
@@ -32,16 +34,16 @@
           "time_info": "[03时11分 ~ 05时10分]"
         },
         {
-          "title": "美银CEO：人工智能的经济效益正加速显现",
-          "url": "https://flash.jin10.com/detail/20251223033826278800",
+          "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
+          "url": "https://flash.jin10.com/detail/20251223044006238800",
           "source": "金十数据",
           "ranks": [
-            1,
-            12
+            5,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时12分 ~ 05时10分]"
+          "time_info": "[05时10分 ~ 06时11分]"
         },
         {
           "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
