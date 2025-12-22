@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T17:18:39.134543+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2025-12-22T18:12:55.393821+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时17分]"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国白宫人工智能和加密货币顾问萨克斯和美国特使威特科夫可能因阿联酋交易面临道德调查。",
+          "url": "https://flash.jin10.com/detail/20251222172447436800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     }
