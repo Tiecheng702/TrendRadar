@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-12-23T04:12:46.445726+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2025-12-23T05:10:28.646074+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "美银CEO：人工智能的经济效益正加速显现",
-          "url": "https://flash.jin10.com/detail/20251223033826278800",
+          "title": "市场消息：美国国防部将利用xAI扩展人工智能武器库。",
+          "url": "https://flash.jin10.com/detail/20251223044006238800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "05时10分"
         },
         {
           "title": "美国银行CEO莫伊尼汉：人工智能领域的支出持续增长，助力2026年经济增长。",
@@ -24,11 +24,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
+        },
+        {
+          "title": "美银CEO：人工智能的经济效益正加速显现",
+          "url": "https://flash.jin10.com/detail/20251223033826278800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时12分]"
+          "time_info": "[04时12分 ~ 05时10分]"
         },
         {
           "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
@@ -36,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 04时12分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 05时10分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -59,11 +73,12 @@
           "url": "https://flash.jin10.com/detail/20251223025241012800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 05时10分]"
         }
       ]
     }
