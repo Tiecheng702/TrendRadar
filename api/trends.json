@@ -1,75 +1,7 @@
 {
-  "generated_at": "2025-12-25T23:11:36.357926+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2025-12-26T00:13:36.577770+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特斯拉CEO埃隆·马斯克：未来12到18个月内（美国）将实现两位数（百分比）的GDP增长。若将人工智能的落地应用视为经济增长的替代指标（这理应成立），那么约五年内实现三位数增长是可能实现的。",
-          "url": "https://flash.jin10.com/detail/20251225030848051800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 07时11分]"
-        },
-        {
-          "title": "据CNBC：英伟达(NVDA.O)将以大约200亿美元收购人工智能芯片初创公司Groq，成为其有史以来最大的一笔收购交易。",
-          "url": "https://flash.jin10.com/detail/20251225045906463800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "上海市新增9款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3026746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时11分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-25）",
-          "url": "https://flash.jin10.com/detail/20251225112406474800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时31分]"
-        },
-        {
-          "title": "据韩国经济日报：三星电子计划最早于2027年推出一款搭载完全自研图形处理器的应用处理器（AP），这是其构建端侧人工智能全栈生态雄心的重要一步。",
-          "url": "https://flash.jin10.com/detail/20251225201632343800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
