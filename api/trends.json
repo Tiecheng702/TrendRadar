@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T02:15:08.051374+08:00",
-  "total_titles_processed": 362,
+  "generated_at": "2025-12-28T03:08:43.479580+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 02时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 03时08分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时08分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -38,8 +39,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时08分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -49,8 +50,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时08分]"
         }
       ]
     }
