@@ -1,124 +1,55 @@
 {
-  "generated_at": "2025-12-27T23:10:07.495693+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2025-12-28T00:12:49.843109+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
-          "url": "https://wallstreetcn.com/livenews/3027538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            12,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 20时19分]"
-        },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
           "url": "https://wallstreetcn.com/livenews/3027570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            4,
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
           "url": "https://www.cls.cn/detail/2241811",
           "source": "财联社热门",
           "ranks": [
-            12,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[21时22分 ~ 23时10分]"
-        },
-        {
-          "title": "2025江苏省人工智能产业发展大会召开",
-          "url": "https://flash.jin10.com/detail/20251227205746692800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时23分 ~ 23时10分]"
-        },
-        {
-          "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
-          "url": "https://wallstreetcn.com/livenews/3027404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时16分]"
-        },
-        {
-          "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3027489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时45分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
           "url": "https://flash.jin10.com/detail/20251227211319753800",
           "source": "金十数据",
           "ranks": [
-            10,
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 23时10分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         },
         {
-          "title": "普京：将应用人工智能技术巩固俄武器装备优势",
-          "url": "https://wallstreetcn.com/livenews/3027484",
-          "source": "华尔街见闻-快讯",
+          "title": "2025江苏省人工智能产业发展大会召开",
+          "url": "https://flash.jin10.com/detail/20251227205746692800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            29
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时50分 ~ 10时45分]"
-        },
-        {
-          "title": "人工智能专家历经波折回到中国",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E5%AE%B6%E5%8E%86%E7%BB%8F%E6%B3%A2%E6%8A%98%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 05时10分]"
+          "appearance_count": 1,
+          "time_info": "00时12分"
         }
       ]
     }
