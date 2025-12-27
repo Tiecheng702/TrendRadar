@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T04:12:15.736485+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2025-12-28T05:10:02.270498+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2241811",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -39,8 +40,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时10分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -50,8 +51,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 04时12分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 05时10分]"
         }
       ]
     }
