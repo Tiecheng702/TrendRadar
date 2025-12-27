@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T18:11:30.737980+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-27T19:09:06.924337+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 18时11分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时09分]"
         },
         {
           "title": "国家数据局：拓展适应人工智能发展的高质量数据集流通交易方式",
