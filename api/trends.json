@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T15:13:00.580308+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2025-12-28T16:14:55.257439+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 15时13分]"
+          "appearance_count": 23,
+          "time_info": "[00时12分 ~ 16时14分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -68,11 +68,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 16时14分]"
         }
       ]
     }
