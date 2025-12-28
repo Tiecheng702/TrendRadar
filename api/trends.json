@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-28T08:58:27.108399+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2025-12-28T11:03:55.897039+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 4,
       "titles": [
+        {
+          "title": "2025江苏省人工智能产业发展大会召开",
+          "url": "https://wallstreetcn.com/livenews/3027570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            10,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 11时03分]"
+        },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
           "url": "https://www.cls.cn/detail/2241811",
@@ -17,22 +32,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时12分 ~ 08时58分]"
-        },
-        {
-          "title": "2025江苏省人工智能产业发展大会召开",
-          "url": "https://wallstreetcn.com/livenews/3027570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 08时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时12分 ~ 11时03分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
