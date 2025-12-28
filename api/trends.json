@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T03:09:05.041828+08:00",
-  "total_titles_processed": 381,
+  "generated_at": "2025-12-29T04:12:21.545302+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时13分 ~ 03时09分]"
+          "appearance_count": 5,
+          "time_info": "[00时13分 ~ 04时12分]"
         },
         {
           "title": "广州在全国率先设立区级人工智能发展局",
