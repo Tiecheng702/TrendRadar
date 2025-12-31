@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-01T03:09:52.156701+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-01T04:12:57.404578+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
+          "url": "https://flash.jin10.com/detail/20260101031526181800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时12分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
