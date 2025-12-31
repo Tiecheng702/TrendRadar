@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T11:56:54.042544+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-31T12:31:42.773072+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印度已邀请中国参加全球人工智能峰会",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时10分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-31）",
+          "url": "https://flash.jin10.com/detail/20251231120016489800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
