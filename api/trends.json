@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T22:12:36.149885+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-01-02T23:12:13.119308+08:00",
+  "total_titles_processed": 1660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "理想汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "美股热门中概股普涨，网易(NTES.O)、哔哩哔哩(BILI.O)涨近7%，蔚来汽车(NIO.N)、阿里巴巴(BABA.N)涨超4%，台积电(TSM.N)涨超3%，理想汽车(LI.O)、拼多多(PDD.O)涨超2.5%。",
+          "url": "https://flash.jin10.com/detail/20260102223256927800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
