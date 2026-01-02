@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T05:08:59.922288+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-01-03T06:11:29.751806+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             8,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时11分]"
         },
         {
           "title": "新兴市场股票2026年开局强劲，科技股受亚洲人工智能热潮提振",
@@ -27,11 +28,12 @@
           "ranks": [
             3,
             9,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时08分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 06时11分]"
         }
       ]
     }
