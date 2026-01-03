@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-01-03T23:10:23.892426+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2026-01-04T00:13:05.991886+08:00",
+  "total_titles_processed": 317,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
-          "url": "https://wallstreetcn.com/livenews/3029913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 06时11分]"
-        },
-        {
-          "title": "新兴市场股票2026年开局强劲，科技股受亚洲人工智能热潮提振",
-          "url": "https://wallstreetcn.com/livenews/3029912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 06时11分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
