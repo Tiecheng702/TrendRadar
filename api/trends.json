@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T19:09:36.667628+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-04T20:19:43.862126+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            11
+            11,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时09分]"
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 20时19分]"
         },
         {
           "title": "交通运输部：推动交通运输公共数据与企业数据融合应用，支撑“人工智能+交通运输”应用",
