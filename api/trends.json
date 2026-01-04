@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-04T18:11:23.546411+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-01-04T19:09:36.667628+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 3,
       "titles": [
-        {
-          "title": "贵州：实施“人工智能+”行动，推动酱香白酒、化工、能源等行业领域大模型应用",
-          "url": "https://wallstreetcn.com/livenews/3030286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
         {
           "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
           "url": "https://flash.jin10.com/detail/20260104033259033800",
@@ -30,6 +19,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时12分 ~ 08时59分]"
+        },
+        {
+          "title": "贵州：实施“人工智能+”行动，推动酱香白酒、化工、能源等行业领域大模型应用",
+          "url": "https://wallstreetcn.com/livenews/3030286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 19时09分]"
         },
         {
           "title": "交通运输部：推动交通运输公共数据与企业数据融合应用，支撑“人工智能+交通运输”应用",
