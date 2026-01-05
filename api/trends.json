@@ -1,138 +1,22 @@
 {
-  "generated_at": "2026-01-05T23:14:37.386189+08:00",
-  "total_titles_processed": 1969,
+  "generated_at": "2026-01-06T00:16:26.457603+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美国明尼阿波利斯联储主席Kashkari：不知道鲍威尔在主席任期结束后是否会继续留任。 不担心美联储地区银行行长被解雇的风险。 不同意美国财长贝森特关于银行行长不能很好代表其辖区的看法。 据我了解，人工智能主要是大公司的故事，对小公司不是问题。 中低收入群体的焦虑主要源于通胀。 我们在关税方面正逐步接近某种均衡。",
-          "url": "https://wallstreetcn.com/livenews/3030904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "受人工智能相关上涨和日元疲软影响，日经225指数上涨3%。",
-          "url": "https://wallstreetcn.com/livenews/3030574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时48分 ~ 14时23分]"
-        },
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
           "url": "https://www.cls.cn/detail/2248455",
           "source": "财联社热门",
           "ranks": [
-            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时15分 ~ 23时14分]"
-        },
-        {
-          "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。呼吁在美容产品、食品以及电影和音乐领域与中国开展合作。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3030564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时29分]"
-        },
-        {
-          "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。",
-          "url": "https://flash.jin10.com/detail/20260105121148666800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时29分]"
-        },
-        {
-          "title": "美联储卡什卡利：据我所知，人工智能是大公司的问题，而不是小公司的问题。",
-          "url": "https://flash.jin10.com/detail/20260105211011276800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时16分]"
-        },
-        {
-          "title": "北京发布人工智能创新高地建设行动计划",
-          "url": "https://wallstreetcn.com/livenews/3030930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
-          "title": "人工智能投资助推亚洲新兴股市创2021年初以来新高",
-          "url": "https://flash.jin10.com/detail/20260105133147761800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时23分"
-        },
-        {
-          "title": "人工智能AI大模型公司MiniMax据悉计划将IPO价格定在指导价区间高端，并提前结束认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3030486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "四川：加快关键核心数智技术攻关，实施人工智能等重大科技专项",
-          "url": "https://wallstreetcn.com/livenews/3030631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-05）",
-          "url": "https://flash.jin10.com/detail/20260105115209696800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "time_info": "00时16分"
         }
       ]
     }
