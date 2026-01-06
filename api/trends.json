@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T08:53:27.977161+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-01-06T10:52:40.208594+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 08时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时16分 ~ 10时52分]"
         },
         {
           "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
@@ -81,7 +82,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
         }
