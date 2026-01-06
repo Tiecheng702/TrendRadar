@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T21:32:16.211288+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-01-06T22:14:12.135220+08:00",
+  "total_titles_processed": 2081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时16分 ~ 12时34分]"
+        },
+        {
+          "title": "中国人工智能技术正这样走向世界",
+          "url": "https://www.toutiao.com/trending/7592248398812728859/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 22时14分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
@@ -112,7 +123,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
