@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T11:58:10.488512+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-01-06T12:34:58.342355+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -14,11 +14,23 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时16分 ~ 11时58分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 12时34分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
+          "url": "https://flash.jin10.com/detail/20260106115423474800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
         },
         {
           "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
