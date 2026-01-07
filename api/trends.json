@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T12:36:57.447081+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-01-07T13:18:18.081165+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
@@ -30,17 +30,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-07）",
-          "url": "https://flash.jin10.com/detail/20260107120242585800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "恩智浦半导体(NXPI.O)与通用电气医疗集团宣布合作，旨在引领边缘人工智能创新的新突破。",
           "url": "https://flash.jin10.com/detail/20260107000134478800",
           "source": "金十数据",
@@ -50,6 +39,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107120242585800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时18分]"
         },
         {
           "title": "苏姿丰：人工智能不会取代人类，但会改变招聘对象",
