@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T21:34:31.122619+08:00",
-  "total_titles_processed": 2035,
+  "generated_at": "2026-01-08T22:16:29.240056+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时19分 ~ 18时14分]"
+        },
+        {
+          "title": "Fiserv与微软(MSFT.O)达成协议，将人工智能嵌入Fiserv平台。",
+          "url": "https://flash.jin10.com/detail/20260108213237813800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     }
