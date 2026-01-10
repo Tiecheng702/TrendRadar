@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-10T13:14:13.323308+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2026-01-10T14:16:42.323731+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 4,
       "titles": [
+        {
+          "title": "2026人工智能十大趋势",
+          "url": "https://www.douyin.com/hot/2362706",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时52分 ~ 14时16分]"
+        },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时12分]"
-        },
-        {
-          "title": "2026人工智能十大趋势",
-          "url": "https://www.douyin.com/hot/2362706",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时14分]"
         },
         {
           "title": "人工智能云初创公司Lambda在上市前计划进行3.5亿美元的融资。",
