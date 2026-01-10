@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T20:19:44.996011+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-01-10T21:24:03.200355+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时24分]"
         },
         {
           "title": "重庆启动人工智能湾区建设",
@@ -60,11 +61,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时24分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
