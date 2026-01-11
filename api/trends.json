@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T14:17:32.568189+08:00",
-  "total_titles_processed": 792,
+  "generated_at": "2026-01-11T15:14:10.193056+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             1,
             21,
             22,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 15时14分]"
         },
         {
           "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
@@ -40,11 +41,12 @@
           "ranks": [
             7,
             9,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 15时14分]"
         }
       ]
     }
