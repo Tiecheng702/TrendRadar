@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T00:17:24.160964+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-13T01:16:14.967824+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260113001151493800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 01时16分]"
         },
         {
           "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
