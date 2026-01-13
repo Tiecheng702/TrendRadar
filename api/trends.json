@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-13T12:35:20.455904+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-01-13T13:18:13.986276+08:00",
+  "total_titles_processed": 1202,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 7,
       "titles": [
+        {
+          "title": "如何看待 2026 CSRankings 人工智能学科排行榜南京大学位列全球第一，前十名被中国高校霸榜？",
+          "url": "https://www.zhihu.com/question/1991915523580135211",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时58分 ~ 13时18分]"
+        },
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
           "url": "https://flash.jin10.com/detail/20260113001151493800",
@@ -20,16 +33,16 @@
           "time_info": "[00时17分 ~ 01时16分]"
         },
         {
-          "title": "如何看待 2026 CSRankings 人工智能学科排行榜南京大学位列全球第一，前十名被中国高校霸榜？",
-          "url": "https://www.zhihu.com/question/1991915523580135211",
-          "source": "知乎",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-13）",
+          "url": "https://flash.jin10.com/detail/20260113115702895800",
+          "source": "金十数据",
           "ranks": [
-            5,
-            10
+            9,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时58分 ~ 12时35分]"
+          "time_info": "[12时35分 ~ 13时18分]"
         },
         {
           "title": "如何看待最新 2025-2026 年 csrankings 人工智能排名南京大学位居全国第 1 名？",
@@ -41,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时50分 ~ 10时51分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-13）",
-          "url": "https://flash.jin10.com/detail/20260113115702895800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时35分"
         },
         {
           "title": "诺华制药(NVS.N)CEO：对与合作伙伴共同探索人工智能赋能方式持开放态度。",
