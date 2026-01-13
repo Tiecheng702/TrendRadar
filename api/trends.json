@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T20:23:34.638078+08:00",
-  "total_titles_processed": 1874,
+  "generated_at": "2026-01-13T21:34:49.443310+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时18分 ~ 20时23分]"
+          "appearance_count": 7,
+          "time_info": "[17时18分 ~ 21时34分]"
         },
         {
           "title": "如何看待 2026 CSRankings 人工智能学科排行榜南京大学位列全球第一，前十名被中国高校霸榜？",
@@ -163,11 +164,12 @@
             13,
             5,
             6,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时16分 ~ 20时23分]"
+          "appearance_count": 9,
+          "time_info": "[16时16分 ~ 21时34分]"
         }
       ]
     }
