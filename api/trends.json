@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T13:18:13.986276+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-01-13T14:19:05.952630+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 14时19分]"
         },
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
