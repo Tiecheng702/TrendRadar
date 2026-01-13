@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T00:18:55.401875+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-14T01:18:52.090392+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,29 @@
           "url": "https://www.zhihu.com/question/1993982530886590703",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 01时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "赛默飞CEO：公司将积极部署先进的人工智能能力，以进一步降低成本。",
+          "url": "https://flash.jin10.com/detail/20260114003934392800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时18分"
+          "time_info": "01时18分"
         }
       ]
     }
