@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T21:34:49.443310+08:00",
-  "total_titles_processed": 1991,
+  "generated_at": "2026-01-13T22:16:36.011361+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "工信部：实施工业互联网与人工智能融合赋能行动 推动人工智能技术在工业全链条渗透",
@@ -140,6 +140,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "语音人工智能技术初创公司Deepgram周二表示，该公司以13亿美元估值筹集了1.3亿美元资金，计划拓展国际市场、推出新型号并进行收购。",
+          "url": "https://flash.jin10.com/detail/20260113215643064800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
           "url": "https://flash.jin10.com/detail/20260112232350979800",
           "source": "金十数据",
@@ -165,11 +176,12 @@
             5,
             6,
             8,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 21时34分]"
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 22时16分]"
         }
       ]
     }
