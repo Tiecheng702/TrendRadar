@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T02:24:19.886369+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-01-16T03:17:30.378063+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,27 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
-          "url": "https://wallstreetcn.com/livenews/3038156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        },
-        {
           "title": "美联储巴尔金：当今经济有两个引擎，人工智能和富人。",
           "url": "https://flash.jin10.com/detail/20260116015614451800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
+          "url": "https://wallstreetcn.com/livenews/3038156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时17分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
@@ -36,7 +37,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
         },
