@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T08:54:42.056004+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-01-16T10:54:40.297203+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -103,7 +103,7 @@
     },
     {
       "keyword_group": "理想汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "花旗：将理想汽车(LI.O)目标价从20.2美元下调至18.5美元，维持中性评级。",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时12分]"
+        },
+        {
+          "title": "麦格理：将理想汽车(02015.HK)目标价从66.00港元下调至59.00港元，将理想汽车(LI.O)目标价从17.00美元下调至15.00美元。",
+          "url": "https://flash.jin10.com/detail/20260116101602541800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
