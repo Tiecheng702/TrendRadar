@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T07:12:11.509680+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-01-16T08:54:42.056004+08:00",
+  "total_titles_processed": 834,
   "failed_sources": [],
   "trends": [
     {
@@ -59,11 +59,12 @@
           "url": "https://www.cls.cn/detail/2259373",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时11分 ~ 08时54分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
