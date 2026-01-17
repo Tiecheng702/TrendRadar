@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:50:58.915628+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-01-17T12:24:27.505955+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             21,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时24分]"
         },
         {
           "title": "世界人工智能大会首次在港举办",
