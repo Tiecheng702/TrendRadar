@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-19T06:11:03.978001+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-01-19T07:11:52.010074+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 2,
       "titles": [
+        {
+          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
+          "url": "https://flash.jin10.com/detail/20260119042408235800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时10分 ~ 07时11分]"
+        },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
           "url": "https://www.zhihu.com/question/659369541",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 04时12分]"
-        },
-        {
-          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
-          "url": "https://flash.jin10.com/detail/20260119042408235800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时10分 ~ 06时11分]"
         }
       ]
     }
