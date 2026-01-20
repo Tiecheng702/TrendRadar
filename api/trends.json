@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-01-21T00:21:55.030257+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T01:20:52.292567+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
+          "url": "https://flash.jin10.com/detail/20260121005712780800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时20分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
