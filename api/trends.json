@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T14:20:58.141992+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-21T15:20:50.668789+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时20分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
