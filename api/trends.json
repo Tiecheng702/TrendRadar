@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T12:10:00.938228+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2026-01-22T13:20:57.928927+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -140,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-22）",
+          "url": "https://flash.jin10.com/detail/20260122120251421800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "白宫“人工智能沙皇”萨克斯：特朗普希望为人工智能监管建立单一的联邦框架。",
