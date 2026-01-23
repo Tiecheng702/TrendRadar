@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T12:44:35.822677+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-01-23T13:20:13.068031+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 13时20分]"
         },
         {
           "title": "马斯克声称人工智能到2030-2031年将超越人类",
