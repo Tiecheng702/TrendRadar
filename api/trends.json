@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T19:12:52.476163+08:00",
-  "total_titles_processed": 1915,
+  "generated_at": "2026-01-23T20:23:35.647530+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时23分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-23）",
@@ -107,7 +107,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -179,7 +179,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
