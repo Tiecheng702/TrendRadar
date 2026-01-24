@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T16:15:10.447027+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-01-24T17:12:02.597661+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -13,11 +13,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时12分]"
+        },
+        {
+          "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
+          "url": "https://www.cls.cn/detail/2268603",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时15分]"
+          "time_info": "[17时11分 ~ 17时12分]"
         },
         {
           "title": "Meta宣布暂停青少年使用人工智能角色功能",
