@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:12:08.019580+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-01-25T19:10:09.790145+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -45,11 +45,12 @@
             13,
             15,
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 18时12分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 19时10分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -62,11 +63,12 @@
             14,
             16,
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 18时12分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 19时10分]"
         }
       ]
     }
