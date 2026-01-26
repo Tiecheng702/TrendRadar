@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T08:58:50.752873+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-01-26T11:11:17.333354+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             20,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 08时58分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 11时11分]"
         },
         {
           "title": "人工智能引发的内存短缺迫使汽车制造商重新设计半导体",
