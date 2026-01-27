@@ -1,11 +1,7 @@
 {
-  "generated_at": "2026-01-28T04:29:54.550803+08:00",
-  "total_titles_processed": 523,
-  "failed_sources": [
-    "bilibili-hot-search",
-    "jin10",
-    "zhihu"
-  ],
+  "generated_at": "2026-01-28T05:10:12.744380+08:00",
+  "total_titles_processed": 572,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
