@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T21:52:09.388716+08:00",
-  "total_titles_processed": 2072,
+  "generated_at": "2026-01-29T22:32:07.986237+08:00",
+  "total_titles_processed": 2153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特斯拉首席财务官：公司在人工智能相关项目和新产品的支出仍处于较高水平。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时34分 ~ 16时26分]"
+        },
+        {
+          "title": "黑石集团CEO：为促进人工智能发展而在美国进行的投资，是当今经济增长的关键驱动力。",
+          "url": "https://flash.jin10.com/detail/20260129221116246800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "英国寻求利用人工智能提升生产力 以弥补失业损失",
@@ -82,7 +93,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -96,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "加拿大蒙特利尔银行分析师Davis：铜价上涨对人工智能建设产生重大影响。",
+          "url": "https://flash.jin10.com/detail/20260129215348003800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         },
         {
           "title": "鲍威尔：短期内可能会看到人工智能（AI）消除就业岗位/AI导致岗位被淘汰。",
