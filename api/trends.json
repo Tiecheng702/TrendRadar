@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T14:34:21.284895+08:00",
-  "total_titles_processed": 1229,
+  "generated_at": "2026-01-30T15:33:59.054755+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时02分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[09时02分 ~ 15时33分]"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 15时33分]"
         }
       ]
     }
