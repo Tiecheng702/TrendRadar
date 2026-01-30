@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T02:27:37.663052+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-01-31T03:24:38.230546+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
+          "url": "https://flash.jin10.com/detail/20260131025804033800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     }
