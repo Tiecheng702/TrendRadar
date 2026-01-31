@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T18:14:02.214354+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-01-31T19:12:24.478875+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时12分]"
         },
         {
           "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
@@ -38,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时12分]"
         }
       ]
     },
