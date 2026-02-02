@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-02T18:34:16.042055+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-02-02T19:29:08.007941+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
+          "url": "https://flash.jin10.com/detail/20260202183736296800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
         {
           "title": "日本电子零件制造厂村田：日元走软、人工智能服务器和智能手机需求强劲推动财年收入上升。",
           "url": "https://flash.jin10.com/detail/20260202132704617800",
