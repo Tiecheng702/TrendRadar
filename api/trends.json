@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-04T00:39:46.058135+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-04T01:43:58.145210+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
+          "url": "https://flash.jin10.com/detail/20260204013101107800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
         {
           "title": "市场消息：达索系统与英伟达(NVDA.O)将携手打造跨行业人工智能架构。",
           "url": "https://flash.jin10.com/detail/20260204001237926800",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "城堡投资创始人格里芬：人工智能不会成为本次选举的主要议题。",
+          "url": "https://flash.jin10.com/detail/20260204005442869800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
