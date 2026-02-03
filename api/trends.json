@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T13:43:14.379903+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-02-03T14:37:05.098693+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2001947312226848988",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 14时37分]"
         },
         {
           "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
@@ -36,7 +37,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
