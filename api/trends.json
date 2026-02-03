@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T14:37:05.098693+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2026-02-03T15:36:16.028040+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[13时42分 ~ 15时36分]"
         },
         {
           "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "视频和移动通信服务公司Liberty Global：将与谷歌合作，在以人工智能为先的项目中优化云服务，以提升电信系统和网络可扩展性。已达成五年合作伙伴关系，将在整个欧洲业务中部署谷歌的Gemini人工智能模型和云工具。",
+          "url": "https://flash.jin10.com/detail/20260203151504838800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "【金十数据整理：每日科技要闻速递（2月3日）】人工智能： <br/><span class=\"section-news\">1. SpaceX确认与xAI合并。</span><br/><span class=\"section-news\">2. 甲骨文启动美元债发行，拟筹资至多500亿美元扩建云业务。</span><br/><span class=\"section-news\">3. 消息称马斯克推进SpaceX、xAI合并，最快本周达成协议。</span><br/><span class=\"section-news\">4. 千问将豪掷“30亿”激励，加入腾讯打响的AI用户争夺战。</span><br/><span class=\"section-news\">5. 传OpenAI对英伟达芯片在AI聊天时的响应速度不满意，奥尔特曼驳斥。</span><br/>其他：<br/><span class=\"section-news\">1. 英国航天局负责人将于3月底离任。</span><br/><span class=\"section-news\">2. 美国企业批评波兰拟推数字服务税。</span><br/><span class=\"section-news\">3. 台媒：台积电2nm产能已被预订一空。</span><br/><span class=\"section-news\">4. 三星、SK海力士计划扩大尖端NAND产能。</span><br/><span class=\"section-news\">5. Waymo融资160亿美元，投后估值达1260亿美元。</span><br/><span class=\"section-news\">6. 特斯拉1月法国、挪威市场注册量双双崩跌，分别下跌42%和88%。</span><br/><span class=\"section-news\">7. 国家科教基础设施IP-SAFE项目加速器装置主体安装完成。 </span>",
