@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-02-05T00:38:27.908499+08:00",
-  "total_titles_processed": 315,
-  "failed_sources": [
-    "wallstreetcn-hot"
-  ],
+  "generated_at": "2026-02-05T01:37:54.312840+08:00",
+  "total_titles_processed": 399,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
@@ -16,7 +14,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
         },
@@ -27,7 +25,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
         }
