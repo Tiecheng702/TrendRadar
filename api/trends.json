@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T20:34:12.673964+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2026-02-05T21:59:09.244798+08:00",
+  "total_titles_processed": 1964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "英国央行行长贝利：预计将出现因人工智能导致招聘减少的迹象。",
+          "url": "https://flash.jin10.com/detail/20260205212016320800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
         },
         {
           "title": "工信部等八部门：运用人工智能、大数据等新一代信息技术 构建特色方剂知识图谱和图神经网络",
