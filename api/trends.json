@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T21:59:09.244798+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2026-02-05T22:41:07.846361+08:00",
+  "total_titles_processed": 2053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：投资热潮与人工智能及一切与人工智能相关的事物有关。需要一些时间才能看出这对生产力和通胀的影响。",
+          "url": "https://flash.jin10.com/detail/20260205222621799800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -47,7 +58,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时59分"
         },
