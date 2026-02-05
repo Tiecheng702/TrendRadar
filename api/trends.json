@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T01:39:41.277692+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-02-06T02:35:27.880784+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
@@ -14,7 +14,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：人工智能带来的生产率提升意味着加拿大经济可以在不增加通胀压力的情况下实现更强劲的增长。",
+          "url": "https://flash.jin10.com/detail/20260206021740650800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     }
