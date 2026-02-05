@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-02-06T00:33:38.375267+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-06T01:39:41.277692+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "加拿大央行行长麦克勒姆：加拿大企业对人工智能的采用程度仍然很低。",
+          "url": "https://flash.jin10.com/detail/20260206012934439800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        },
+        {
+          "title": "加拿大央行行长麦克勒姆：人工智能的兴起有可能将经济推向更高轨道并提高生活水平；但迄今为止，几乎没有证据表明人工智能正在提高生产力。",
+          "url": "https://flash.jin10.com/detail/20260206012842466800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
