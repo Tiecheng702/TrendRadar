@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:29:10.909397+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2026-02-06T19:25:42.325053+08:00",
+  "total_titles_processed": 1762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "市场监管总局公布五起人工智能领域不正当竞争典型案例",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：预计将继续在我们的人工智能项目中进行额外投资。",
+          "url": "https://flash.jin10.com/detail/20260206190532858800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
