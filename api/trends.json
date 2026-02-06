@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-06T13:10:52.690763+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-02-06T14:39:30.619859+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "市场监管总局公布五起人工智能领域不正当竞争典型案例",
+          "url": "https://wallstreetcn.com/livenews/3051158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
           "url": "https://wallstreetcn.com/livenews/3050847",
@@ -48,7 +59,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
         },
