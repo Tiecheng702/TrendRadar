@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T14:29:01.716660+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-02-07T15:24:55.642896+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             19,
             22,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时01分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时01分 ~ 15时24分]"
         },
         {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
@@ -133,6 +134,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "李想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价李想官宣全新李想 L9 和 理想 L9 Livis？",
+          "url": "https://www.zhihu.com/question/2003068930118407794",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     }
