@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T20:24:16.199541+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-02-08T21:37:43.748394+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 20时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 21时37分]"
         },
         {
           "title": "有网友称，SpaceX正在奥斯汀和西雅图招聘工程师，以开发人工智能卫星和太空数据中心。马斯克转发相关帖子并回复称：是真的。",
