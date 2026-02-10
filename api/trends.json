@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T05:33:39.800235+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-02-11T06:29:13.304387+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2286121",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时33分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时29分]"
         },
         {
           "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
