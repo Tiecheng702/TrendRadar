@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:38:35.014283+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-02-11T19:37:20.519860+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -77,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
+          "url": "https://flash.jin10.com/detail/20260211190914598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "中芯国际高管：2025年公司资本开支高于年初预期，主要是因为应对客户强劲的需求。 我们看到人工智能对于存储的强劲需求，挤压了手机等其他应用领域。 存储需求因为危机感大家有点慌张，这个需求被放大了。",
