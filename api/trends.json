@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T20:40:15.141757+08:00",
-  "total_titles_processed": 1703,
+  "generated_at": "2026-02-11T22:08:47.150236+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,18 @@
           "time_info": "[01时53分 ~ 04时34分]"
         },
         {
+          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
+          "url": "https://www.cls.cn/detail/2287511",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时08分]"
+        },
+        {
           "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
           "url": "https://flash.jin10.com/detail/20260211024100542800",
           "source": "金十数据",
@@ -54,17 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时51分 ~ 03时54分]"
-        },
-        {
-          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
-          "url": "https://www.cls.cn/detail/2287511",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
@@ -129,7 +130,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
