@@ -1,150 +1,22 @@
 {
-  "generated_at": "2026-02-11T23:49:05.692026+08:00",
-  "total_titles_processed": 1946,
+  "generated_at": "2026-02-12T00:52:07.042330+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
-          "url": "https://www.cls.cn/detail/2286121",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时52分 ~ 07时29分]"
-        },
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
           "url": "https://www.cls.cn/detail/2287511",
           "source": "财联社热门",
           "ranks": [
-            8,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时39分 ~ 23时49分]"
-        },
-        {
-          "title": "美联储哈玛克：现在判断人工智能会对经济产生什么影响还为时过早。",
-          "url": "https://flash.jin10.com/detail/20260211014445221800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
-          "url": "https://wallstreetcn.com/livenews/3053191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 04时34分]"
-        },
-        {
-          "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
-          "url": "https://flash.jin10.com/detail/20260211024100542800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时51分 ~ 03时54分]"
-        },
-        {
-          "title": "美联储洛根：如果人工智能带来的生产率提升来得较晚，经济可能比提前提升时更加过热。",
-          "url": "https://flash.jin10.com/detail/20260211024215900800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 04时34分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-11）",
-          "url": "https://flash.jin10.com/detail/20260211114707238800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
-          "url": "https://flash.jin10.com/detail/20260211190914598800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "中芯国际高管：2025年公司资本开支高于年初预期，主要是因为应对客户强劲的需求。 我们看到人工智能对于存储的强劲需求，挤压了手机等其他应用领域。 存储需求因为危机感大家有点慌张，这个需求被放大了。",
-          "url": "https://wallstreetcn.com/livenews/3053326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
-        },
-        {
-          "title": "美联储Schmid：人工智能（AI）与近期生产力提升之间的关联还不明朗。",
-          "url": "https://wallstreetcn.com/livenews/3053835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "美国商务部长卢特尼克：美国对人工智能芯片需求巨大，我们不希望采取任何阻碍其发展的措施。",
-          "url": "https://wallstreetcn.com/livenews/3053136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "李强主持国务院第十八次专题学习：全面推进人工智能科技创新、产业发展和赋能应用",
-          "url": "https://wallstreetcn.com/livenews/3053720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "time_info": "[00时51分 ~ 00时52分]"
         }
       ]
     }
