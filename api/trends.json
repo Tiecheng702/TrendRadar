@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T02:44:55.556721+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-02-13T03:44:05.848606+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 02时44分]"
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 03时44分]"
+        },
+        {
+          "title": "市场消息：沙特阿美与微软签署谅解备忘录，推进工业人工智能发展。",
+          "url": "https://flash.jin10.com/detail/20260213030906029800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         },
         {
           "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
@@ -25,7 +36,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         },
@@ -36,9 +47,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "加央行副行长敦促中小企业投资人工智能",
+          "url": "https://flash.jin10.com/detail/20260213025219525800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     }
