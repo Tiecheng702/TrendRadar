@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-12T23:40:44.782606+08:00",
-  "total_titles_processed": 2054,
+  "generated_at": "2026-02-13T00:45:25.463486+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 16,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
-          "url": "https://www.cls.cn/detail/2287511",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 09时06分]"
-        },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
@@ -26,181 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时36分 ~ 23时40分]"
-        },
-        {
-          "title": "Infosys：与埃克森美孚石油(XOM.N)合作，推进浸没式冷却技术以构建可持续的人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20260212180447330800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "人工智能公司Nebius将在法国里尔附近建设一个240兆瓦的数据中心。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3054512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：推出“Dear Algo”，这是一项由人工智能驱动的功能，允许用户告知 Threads平台自己希望在一段时间内看到更多或更少特定主题的内容。",
-          "url": "https://flash.jin10.com/detail/20260212020248105800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时47分]"
-        },
-        {
-          "title": "消息人士：五角大楼正推动将人工智能聊天机器人引入机密网络。",
-          "url": "https://flash.jin10.com/detail/20260212084230347800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "加拿大央行会议纪要：人工智能的狂热情绪对前景构成风险。",
-          "url": "https://flash.jin10.com/detail/20260212023144127800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "新加坡总理：将在新加坡建立一个人工智能园区。",
-          "url": "https://flash.jin10.com/detail/20260212160032476800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "新加坡总理：将成立一个新的国家人工智能委员会，由我担任主席，以推动新加坡的人工智能议程。",
-          "url": "https://flash.jin10.com/detail/20260212155657518800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "深圳：到2027年在“人工智能+”先进制造业领域建成国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3054471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "全球人工智能应用场景中心落户深圳华强北",
-          "url": "https://wallstreetcn.com/livenews/3054195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "新加坡总理：将启动新一组国家人工智能任务，以推动关键经济部门的转型。",
-          "url": "https://flash.jin10.com/detail/20260212155529478800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
-          "url": "https://flash.jin10.com/detail/20260212054012505800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时20分"
-        },
-        {
-          "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
-          "url": "https://flash.jin10.com/detail/20260212051118010800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
-          "url": "https://flash.jin10.com/detail/20260212120054964800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
-          "title": "依视路陆逊梯卡（EssilorLuxottica）四季度营收76亿欧元，分析师预期71.5亿欧元。 四季度剔除汇率因素后营收增长18.4%，分析师预期增长11.5%。 全年营收284.9亿欧元，分析师预期280.9亿欧元。 全年剔除汇率因素的营收增长11.2%，分析师预期增长9.19%。 全年销售超过700万套人工智能眼镜（AI glasses）。 预计营收将在未来五年稳步增长。 依视路陆逊梯卡ADR涨幅扩大至8.6%。",
-          "url": "https://wallstreetcn.com/livenews/3053884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "李想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "李想到浙江请救人的理想车主吃饭",
-          "url": "https://www.toutiao.com/trending/7605057524961853491/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 20时37分]"
+          "time_info": "00时45分"
         }
       ]
     }
