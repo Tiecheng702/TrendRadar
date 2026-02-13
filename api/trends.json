@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T00:32:12.295388+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-14T01:39:08.177575+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据悉美国劳工部寻求加强员工人工智能培训。",
@@ -14,7 +14,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "欧洲银行股年内涨幅悉数回吐 分析师：银行股已成为人工智能最新受害者",
+          "url": "https://flash.jin10.com/detail/20260214003126330800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时39分"
         },
         {
           "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
@@ -36,7 +47,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         }
