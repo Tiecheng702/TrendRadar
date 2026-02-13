@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:35:00.108215+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2026-02-13T23:32:34.535561+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时45分 ~ 09时10分]"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）加大对微软(MSFT.O)的调查力度，就云和人工智能问题向竞争对手取证。",
+          "url": "https://flash.jin10.com/detail/20260213231654274800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "周四（2月12日），信息科技指数跌2.27%，报269.21点，成分股Applovin收跌19.68%，思科跌12.32%，Astera Labs股份跌11.92%跌幅第三大。 人工智能（AI）赢家指数跌1.54%，AI软件先驱指数跌1.44%。",
@@ -37,7 +48,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -52,6 +63,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时23分]"
+        },
+        {
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "上海市新增8款已完成登记的生成式人工智能服务",
