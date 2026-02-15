@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T22:18:26.211398+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-02-15T23:15:51.460000+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,30 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时08分 ~ 22时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时08分 ~ 23时15分]"
+        },
+        {
+          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
+          "url": "https://flash.jin10.com/detail/20260215152511545800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            8,
+            11,
+            15,
+            18,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 23时15分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -37,23 +56,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时08分 ~ 18时16分]"
-        },
-        {
-          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
-          "url": "https://flash.jin10.com/detail/20260215152511545800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            8,
-            11,
-            15,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时20分 ~ 22时18分]"
         },
         {
           "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
@@ -119,11 +121,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时24分 ~ 22时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时24分 ~ 23时15分]"
         },
         {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
