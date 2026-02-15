@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-15T12:12:16.812070+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-02-15T13:48:24.435075+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 5,
       "titles": [
-        {
-          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
-          "url": "https://www.zhihu.com/question/1927393488770692768",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时11分 ~ 12时12分]"
-        },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
           "url": "https://www.cls.cn/detail/2290485",
@@ -27,8 +16,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时48分]"
+        },
+        {
+          "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
+          "url": "https://www.zhihu.com/question/1927393488770692768",
+          "source": "知乎",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时12分]"
+          "time_info": "[12时11分 ~ 13时48分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -36,22 +37,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时08分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时08分 ~ 13时48分]"
         },
         {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
           "url": "https://flash.jin10.com/detail/20260215110457187800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时48分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
