@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T16:20:36.746933+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-02-15T17:21:11.991827+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时08分 ~ 16时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 17时21分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -29,11 +29,24 @@
             15,
             16,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时08分 ~ 16时20分]"
+          "appearance_count": 7,
+          "time_info": "[09时08分 ~ 17时21分]"
+        },
+        {
+          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
+          "url": "https://flash.jin10.com/detail/20260215152511545800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时21分]"
         },
         {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
@@ -60,26 +73,16 @@
           "time_info": "15时31分"
         },
         {
-          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
-          "url": "https://flash.jin10.com/detail/20260215152511545800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
           "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
           "url": "https://flash.jin10.com/detail/20260215152409492800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时21分]"
         },
         {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
@@ -99,11 +102,12 @@
           "url": "https://flash.jin10.com/detail/20260215150836093800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时21分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
