@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T18:16:02.907968+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-02-15T19:14:45.172521+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时08分 ~ 18时16分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 19时14分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -39,6 +39,20 @@
           "time_info": "[09时08分 ~ 18时16分]"
         },
         {
+          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
+          "url": "https://flash.jin10.com/detail/20260215152511545800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时14分]"
+        },
+        {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
           "url": "https://www.zhihu.com/question/1927393488770692768",
           "source": "知乎",
@@ -50,19 +64,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时11分 ~ 15时31分]"
-        },
-        {
-          "title": "市场消息：以色列将出席2026年印度人工智能影响峰会，加强科技合作。",
-          "url": "https://flash.jin10.com/detail/20260215152511545800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
         },
         {
           "title": "《求是》:要坚持创新驱动 深化拓展“人工智能+”",
@@ -82,11 +83,26 @@
           "ranks": [
             2,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时14分]"
+        },
+        {
+          "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
+          "url": "https://flash.jin10.com/detail/20260215150836093800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
@@ -100,19 +116,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时12分 ~ 14时37分]"
-        },
-        {
-          "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
-          "url": "https://flash.jin10.com/detail/20260215150836093800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
