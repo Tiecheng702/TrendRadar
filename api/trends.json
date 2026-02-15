@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T00:16:59.153707+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T01:17:22.270954+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 01时17分]"
         }
       ]
     }
