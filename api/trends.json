@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T12:13:08.048165+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-02-16T14:01:22.699156+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 12时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时16分 ~ 14时01分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -49,11 +49,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 14时01分]"
+        },
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时06分 ~ 12时13分]"
+          "time_info": "[14时00分 ~ 14时01分]"
         },
         {
           "title": "印度总理莫迪：从今天开始，印度将在德里举办人工智能影响峰会。我热烈欢迎来自世界各地的领导人、行业领袖、创新者、政策制定者、研究人员和科技爱好者参加此次峰会。此次峰会的主题反映了我们共同致力于利用人工智能推动以人为本的进步。",
@@ -62,7 +74,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
