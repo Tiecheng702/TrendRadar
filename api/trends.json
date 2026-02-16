@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T16:34:19.352994+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-02-16T17:40:58.899819+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 16时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时16分 ~ 17时40分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -33,6 +33,20 @@
           "time_info": "[00时16分 ~ 09时06分]"
         },
         {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时00分 ~ 17时40分]"
+        },
+        {
           "title": "英国拟收紧在线安全法规 将人工智能聊天机器人纳入监管范围",
           "url": "https://flash.jin10.com/detail/20260216065258172800",
           "source": "金十数据",
@@ -42,19 +56,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时00分 ~ 16时34分]"
         },
         {
           "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
@@ -68,6 +69,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时06分 ~ 14时01分]"
+        },
+        {
+          "title": "Anthropic：印度团队将为企业客户、数字原生企业和初创公司提供应用人工智能专业知识。",
+          "url": "https://flash.jin10.com/detail/20260216161247146800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时40分]"
         },
         {
           "title": "印度总理莫迪：从今天开始，印度将在德里举办人工智能影响峰会。我热烈欢迎来自世界各地的领导人、行业领袖、创新者、政策制定者、研究人员和科技爱好者参加此次峰会。此次峰会的主题反映了我们共同致力于利用人工智能推动以人为本的进步。",
@@ -90,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "Anthropic：印度团队将为企业客户、数字原生企业和初创公司提供应用人工智能专业知识。",
-          "url": "https://flash.jin10.com/detail/20260216161247146800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         }
       ]
     }
