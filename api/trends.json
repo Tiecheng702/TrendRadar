@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T06:17:18.732661+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-02-17T07:19:13.417889+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 07时19分]"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -38,11 +38,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时19分 ~ 06时17分]"
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 07时19分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
