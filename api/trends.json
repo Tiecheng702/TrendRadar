@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T17:40:58.899819+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-02-16T18:38:57.233830+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时16分 ~ 18时38分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -43,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时00分 ~ 17时40分]"
+          "appearance_count": 6,
+          "time_info": "[14时00分 ~ 18时38分]"
         },
         {
           "title": "英国拟收紧在线安全法规 将人工智能聊天机器人纳入监管范围",
