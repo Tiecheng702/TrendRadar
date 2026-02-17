@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T19:32:42.306329+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2026-02-17T20:37:03.256906+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时30分 ~ 19时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时30分 ~ 20时37分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -30,8 +30,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时51分 ~ 19时32分]"
+          "appearance_count": 13,
+          "time_info": "[13时51分 ~ 20时37分]"
+        },
+        {
+          "title": "法国总统马克龙：我们需要更好地监管人工智能和社交网络。我们需要更透明的算法，还需要保护我们的年轻人。",
+          "url": "https://flash.jin10.com/detail/20260217202702283800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
@@ -127,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "印度总理莫迪：印度和法国将启动人工智能医疗、数字科学技术中心以及国家航空技能培训中心。",
+          "url": "https://flash.jin10.com/detail/20260217201858600800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "印度的阿达尼计划到2035年投资1000亿美元建设人工智能数据中心。（彭博）",
