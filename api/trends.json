@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T12:08:40.986326+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-02-17T13:52:14.299700+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 12时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时52分]"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -57,13 +57,24 @@
           "time_info": "[00时30分 ~ 01时31分]"
         },
         {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时51分 ~ 13时52分]"
+        },
+        {
           "title": "言短意长｜当人工智能和机器人扎推出现在春晚",
           "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
           "source": "澎湃新闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         },
@@ -74,7 +85,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
         }
