@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T06:25:58.521460+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-02-18T07:19:33.853248+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
@@ -8,28 +8,30 @@
       "match_count": 27,
       "titles": [
         {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时19分]"
+        },
+        {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
           "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
           "source": "澎湃新闻",
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时25分]"
-        },
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时19分]"
         },
         {
           "title": "美联储戴利在关于人工智能的准备发言中未提及近期利率制定和经济前景。",
@@ -198,6 +200,18 @@
           "time_info": "[02时41分 ~ 03时40分]"
         },
         {
+          "title": "美联储戴利：新毕业生缺乏工作的原因部分是周期性的，部分是因为雇主对人工智能将如何影响他们的业务感到不确定。",
+          "url": "https://flash.jin10.com/detail/20260218053351250800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时19分]"
+        },
+        {
           "title": "美联储理事巴尔：迄今为止，几乎没有证据表明人工智能正在推高失业率。",
           "url": "https://flash.jin10.com/detail/20260218014436126800",
           "source": "金十数据",
@@ -251,17 +265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        },
-        {
-          "title": "美联储戴利：新毕业生缺乏工作的原因部分是周期性的，部分是因为雇主对人工智能将如何影响他们的业务感到不确定。",
-          "url": "https://flash.jin10.com/detail/20260218053351250800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "美联储理事巴尔将于十分钟后就人工智能和就业市场发表讲话。",
