@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T18:35:20.291217+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-02-17T19:32:42.306329+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 18时35分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 19时32分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时51分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[13时51分 ~ 19时32分]"
         },
         {
           "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
@@ -102,7 +102,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
