@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T22:01:18.374392+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-02-17T22:44:20.304449+08:00",
+  "total_titles_processed": 1724,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时30分 ~ 22时01分]"
+          "appearance_count": 30,
+          "time_info": "[00时30分 ~ 22时44分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -27,11 +27,12 @@
             8,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时51分 ~ 22时01分]"
+          "appearance_count": 16,
+          "time_info": "[13时51分 ~ 22时44分]"
         },
         {
           "title": "法国总统马克龙：我们需要更好地监管人工智能和社交网络。我们需要更透明的算法，还需要保护我们的年轻人。",
@@ -157,7 +158,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
@@ -190,7 +191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时01分"
         },
