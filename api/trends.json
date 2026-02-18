@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:33:24.991505+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-02-18T17:36:12.909548+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 16时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时10分 ~ 17时36分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -108,7 +108,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -359,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
+          "url": "https://flash.jin10.com/detail/20260218164551574800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "美国旧金山联储主席戴利：达到中性利率之前，我们大约还有75个基点的空间。 官员们应该等待关于人工智能（AI）影响的信号。 美联储在研究中使用AI技术，但在做FOMC货币政策决定时不会。",
