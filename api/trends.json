@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T01:47:01.304530+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-02-19T02:37:14.926060+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 01时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 02时37分]"
         },
         {
           "title": "英伟达深入印度市场，在当地构建一系列合作伙伴关系、作出基础设施承诺。该公司向印度数据中心公司Yotta Data Services和人工智能（AI）云平台公司E2E Networks Ltd.提供先进的Blackwell Ultra GPUs。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -40,6 +40,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时47分]"
+        },
+        {
+          "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
+          "url": "https://flash.jin10.com/detail/20260219021132913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "美国财政部宣布完成一项公私合作倡议，旨在加强金融服务领域人工智能的网络安全和风险管理。",
+          "url": "https://flash.jin10.com/detail/20260219021102479800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     }
