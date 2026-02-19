@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:32:45.434831+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2026-02-19T19:31:13.270149+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时19分]"
+        },
+        {
+          "title": "印度总理莫迪于2月19日在人工智能峰会上会见了阿布扎比王储。",
+          "url": "https://flash.jin10.com/detail/20260219184424109800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时31分"
         },
         {
           "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
