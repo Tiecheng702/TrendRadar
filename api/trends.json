@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T03:34:32.247239+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-02-20T04:21:22.867493+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时34分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时21分]"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -38,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时34分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时21分]"
         },
         {
           "title": "美国两大人工智能巨头CEO拒绝牵手",
