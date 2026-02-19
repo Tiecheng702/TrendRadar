@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T17:34:39.203329+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-02-19T18:32:45.434831+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -93,6 +93,19 @@
           "time_info": "[13时52分 ~ 14时46分]"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时32分]"
+        },
+        {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
           "url": "https://flash.jin10.com/detail/20260219051053365800",
           "source": "金十数据",
@@ -127,18 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时22分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时34分]"
         },
         {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
