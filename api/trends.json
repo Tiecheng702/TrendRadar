@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T01:29:27.277100+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-02-21T02:31:32.222240+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -14,9 +14,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "美联储洛根：在劳动力方面，人工智能似乎并未取代工人。",
+          "url": "https://flash.jin10.com/detail/20260221015546689800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     }
