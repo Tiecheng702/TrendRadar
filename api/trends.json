@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-02-24T01:53:53.596842+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-02-24T02:47:06.315119+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
           "url": "https://www.zhihu.com/question/617906623",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时47分]"
         },
         {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
@@ -28,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：欧洲仍可从人工智能中获益。",
+          "url": "https://flash.jin10.com/detail/20260224013414442800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时47分"
         }
       ]
     }
