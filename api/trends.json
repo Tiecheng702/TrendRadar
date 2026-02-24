@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T19:33:09.054567+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-02-24T20:37:35.783978+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 19时33分]"
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 20时37分]"
         },
         {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
@@ -100,8 +100,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 20时37分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
@@ -140,6 +140,18 @@
           "time_info": "[06时31分 ~ 07时38分]"
         },
         {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时37分 ~ 20时37分]"
+        },
+        {
           "title": "英伟达(NVDA.O)：与Akamai、Forescout、Palo Alto Networks、Xage Security、西门子展开合作，将加速推进计算和人工智能引入工业控制系统（OT）网络安全。",
           "url": "https://flash.jin10.com/detail/20260224000737522800",
           "source": "金十数据",
@@ -162,15 +174,15 @@
           "time_info": "02时47分"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
+          "title": "市场消息：Meta Platforms(META.O)与AMD(AMD.O)达成重磅协议，斥资数十亿美元采购人工智能设备。",
+          "url": "https://flash.jin10.com/detail/20260224200244367800",
+          "source": "金十数据",
           "ranks": [
-            19
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "20时37分"
         },
         {
           "title": "美联储博斯蒂克：向人工智能的过渡可能令美联储难以理解。",
@@ -179,7 +191,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -190,7 +202,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         }
