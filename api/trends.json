@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-24T18:37:37.254562+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-02-24T19:33:09.054567+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 19时33分]"
+        },
         {
           "title": "人工智能真的会让程序员在 5 年内失业吗？",
           "url": "https://www.zhihu.com/question/617906623",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 04时33分]"
-        },
-        {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 18时37分]"
         },
         {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
@@ -91,6 +92,18 @@
           "time_info": "[15时43分 ~ 16时42分]"
         },
         {
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://www.cls.cn/detail/2293574",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 19时33分]"
+        },
+        {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
           "url": "https://flash.jin10.com/detail/20260224031211079800",
           "source": "金十数据",
@@ -149,26 +162,37 @@
           "time_info": "02时47分"
         },
         {
-          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
-          "url": "https://www.cls.cn/detail/2293574",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
           "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美联储博斯蒂克：向人工智能的过渡可能令美联储难以理解。",
+          "url": "https://flash.jin10.com/detail/20260224190953033800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        },
+        {
+          "title": "苹果(AAPL.O)：休斯顿人工智能服务器的生产提前完成。",
+          "url": "https://flash.jin10.com/detail/20260224190631079800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
         }
       ]
     },
