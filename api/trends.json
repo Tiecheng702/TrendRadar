@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T03:45:02.326496+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-02-25T04:23:36.100222+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 04时23分]"
         },
         {
           "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
@@ -26,19 +26,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 04时23分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
           "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 03时45分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 04时23分]"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -46,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时45分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 04时23分]"
         },
         {
           "title": "路透调查：标普500指数有望在年底前上涨10%，但贸易争端及人工智能带来的颠覆性影响仍存担忧。",
