@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T06:21:11.132816+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-02-26T07:20:18.554636+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美高度关注人工智能的发展。人工智能将迅速改变按揭贷款市场。我们的重点将放在确保市场保持安全与稳健。",
@@ -104,7 +104,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -115,7 +115,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -126,7 +126,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -142,6 +142,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "据AXIOS：美国国防部已采取初步行动，威胁要将人工智能初创公司Anthropic列入黑名单。",
+          "url": "https://flash.jin10.com/detail/20260226063756839800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
           "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
           "url": "https://flash.jin10.com/detail/20260226015415624800",
           "source": "金十数据",
@@ -151,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "英伟达(NVDA.O) CFO：公司预计主权计算业务的增长将与其人工智能基础设施业务保持同步。",
+          "url": "https://flash.jin10.com/detail/20260226061338644800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     }
