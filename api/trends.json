@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T05:26:34.894118+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-02-26T06:21:11.132816+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美高度关注人工智能的发展。人工智能将迅速改变按揭贷款市场。我们的重点将放在确保市场保持安全与稳健。",
@@ -96,6 +96,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时57分]"
+        },
+        {
+          "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "英伟达(NVDA.O) CFO：第四季度数据中心收入受加速计算与人工智能推动。",
+          "url": "https://flash.jin10.com/detail/20260226053617370800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：客户正竞相投资人工智能计算，计算需求正呈指数级增长。",
+          "url": "https://flash.jin10.com/detail/20260226053517141800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "三星高管：预计智能手机将成为消费者接入人工智能的主要途径。",
