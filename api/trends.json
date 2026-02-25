@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T00:32:54.477842+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-26T00:57:41.082938+08:00",
+  "total_titles_processed": 337,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美高度关注人工智能的发展。人工智能将迅速改变按揭贷款市场。我们的重点将放在确保市场保持安全与稳健。",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美（两房）欢迎人工智能（AI）和一切创新。",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "美国里士满联储主席Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "美联储巴尔金：美联储职责范围有限，可或许并不能解决在人工智能环境下企业兴衰起伏所引发的问题。",
@@ -59,8 +59,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "美联储巴尔金：人工智能也将为工人提供从事更高技能工作的机会。",
@@ -70,8 +70,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         },
         {
           "title": "美联储巴尔金在谈及人工智能时表示，不应立即跳到人们将被取代的结论。",
@@ -81,8 +81,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时57分]"
         }
       ]
     }
