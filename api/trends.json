@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T16:33:38.137066+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2026-02-26T17:37:58.926916+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美高度关注人工智能的发展。人工智能将迅速改变按揭贷款市场。我们的重点将放在确保市场保持安全与稳健。",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
         },
@@ -173,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "香港交易所首席执行官：除人工智能因素外，还有许多理由相信交易活动势头将继续。",
+          "url": "https://flash.jin10.com/detail/20260226170223719800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
