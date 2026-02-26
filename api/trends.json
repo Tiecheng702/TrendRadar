@@ -1,349 +1,44 @@
 {
-  "generated_at": "2026-02-26T23:43:02.848646+08:00",
-  "total_titles_processed": 1973,
+  "generated_at": "2026-02-27T00:44:43.504088+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 29,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国联邦住房金融局局长普尔特：房利美和房地美高度关注人工智能的发展。人工智能将迅速改变按揭贷款市场。我们的重点将放在确保市场保持安全与稳健。",
-          "url": "https://flash.jin10.com/detail/20260226001401074800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时57分]"
-        },
-        {
-          "title": "市场消息：白宫计划于3月初召集包括微软(MSFT.O)、Anthropic和Meta Platforms(META.O)在内的主要数据中心和人工智能企业，以正式敲定一项旨在保护消费者免受电力成本上升影响的承诺。",
-          "url": "https://flash.jin10.com/detail/20260226011723792800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "香港数字办与广西数据局签署备忘录 促进两地人工智能领域合作",
-          "url": "https://wallstreetcn.com/livenews/3059415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
-          "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
-          "url": "https://wallstreetcn.com/livenews/3058977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时53分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-26）",
-          "url": "https://flash.jin10.com/detail/20260226115837157800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美国联邦住房金融局局长Pulte：房利美和房地美（两房）欢迎人工智能（AI）和一切创新。",
-          "url": "https://wallstreetcn.com/livenews/3058976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 01时53分]"
-        },
-        {
-          "title": "美国里士满联储主席Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
-          "url": "https://wallstreetcn.com/livenews/3058971",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时57分]"
-        },
-        {
-          "title": "美联储巴尔金：美联储职责范围有限，可或许并不能解决在人工智能环境下企业兴衰起伏所引发的问题。",
-          "url": "https://flash.jin10.com/detail/20260225235955003800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时57分]"
-        },
-        {
-          "title": "美联储巴尔金：人工智能也将为工人提供从事更高技能工作的机会。",
-          "url": "https://flash.jin10.com/detail/20260225234255418800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时57分]"
-        },
-        {
-          "title": "美联储巴尔金在谈及人工智能时表示，不应立即跳到人们将被取代的结论。",
-          "url": "https://flash.jin10.com/detail/20260225234235610800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时57分]"
-        },
-        {
-          "title": "黑石集团CEO：对“实体经济”的投资可缓冲人工智能风险。",
-          "url": "https://flash.jin10.com/detail/20260226232042710800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3059064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "Ithina组建全球人工智能（AI）操作平台。",
-          "url": "https://wallstreetcn.com/livenews/3059658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
-          "url": "https://wallstreetcn.com/livenews/3059656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "湖南：加快数字化升级改造 深入实施“人工智能+”“智赋万企”行动",
-          "url": "https://wallstreetcn.com/livenews/3059550",
+          "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3059673",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "00时44分"
         },
         {
-          "title": "市场消息：印度与以色列签署人工智能合作协议。",
-          "url": "https://flash.jin10.com/detail/20260226185954160800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "据AXIOS网站：美国参议员将于周四重新提出一项法案，旨在巩固美国在人工智能领域的领先地位。",
-          "url": "https://flash.jin10.com/detail/20260226180559394800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "瑞银集团瑞士区主管：生成式人工智能及其他新技术将比关税更具颠覆性影响。",
-          "url": "https://flash.jin10.com/detail/20260226180400947800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "英伟达(NVDA.O) CFO：第四季度数据中心收入受加速计算与人工智能推动。",
-          "url": "https://flash.jin10.com/detail/20260226053617370800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "据CNBC：挪威银行投资管理公司（NBIM）正使用Claude人工智能模型来筛查道德问题。",
-          "url": "https://flash.jin10.com/detail/20260226231202623800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "浙江：建强中德合作平台 在汽车、机械制造、化工及人工智能、绿色低碳等领域加强双向投资",
-          "url": "https://wallstreetcn.com/livenews/3059541",
+          "title": "Ithina组建全球人工智能（AI）操作平台。",
+          "url": "https://wallstreetcn.com/livenews/3059658",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：客户正竞相投资人工智能计算，计算需求正呈指数级增长。",
-          "url": "https://flash.jin10.com/detail/20260226053517141800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "三星高管：预计智能手机将成为消费者接入人工智能的主要途径。",
-          "url": "https://flash.jin10.com/detail/20260226020142368800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "据AXIOS：美国国防部已采取初步行动，威胁要将人工智能初创公司Anthropic列入黑名单。",
-          "url": "https://flash.jin10.com/detail/20260226063756839800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "香港交易所首席执行官：除人工智能因素外，还有许多理由相信交易活动势头将继续。",
-          "url": "https://flash.jin10.com/detail/20260226170223719800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "报道：五角大楼已就使用Anthropic人工智能技术发出最终报价",
-          "url": "https://wallstreetcn.com/livenews/3059645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时43分"
-        },
-        {
-          "title": "据福克斯新闻：亚马逊(AMZN.O)、谷歌(GOOG.O)、Meta Platforms(META.O)、微软(MSFT.O)、xAI、甲骨文(ORCL.N)和OpenAI将签署协议，为人工智能数据中心建设自己的电力供应。",
-          "url": "https://flash.jin10.com/detail/20260226015415624800",
-          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "00时44分"
         },
         {
-          "title": "据The Information：亚马逊对OpenAI的500亿美元投资可能取决于其IPO进程及AGI（通用人工智能）的实现。",
-          "url": "https://wallstreetcn.com/livenews/3059201",
+          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
+          "url": "https://wallstreetcn.com/livenews/3059656",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "英伟达(NVDA.O) CFO：公司预计主权计算业务的增长将与其人工智能基础设施业务保持同步。",
-          "url": "https://flash.jin10.com/detail/20260226061338644800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "港股汽车股尾盘走低，小鹏汽车跌超5％，理想汽车跌超4％，比亚迪股份跌近3%。",
-          "url": "https://wallstreetcn.com/livenews/3059370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "time_info": "00时44分"
         }
       ]
     }
