@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T04:24:32.425771+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-02-27T05:23:58.156771+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://flash.jin10.com/detail/20260227033606328800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时23分]"
         },
         {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
