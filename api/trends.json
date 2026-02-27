@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T12:02:43.102594+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-02-27T13:44:24.168580+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
@@ -57,6 +57,17 @@
           "time_info": "[04时24分 ~ 05时23分]"
         },
         {
+          "title": "杰夫·贝佐斯斥资300亿美元打造的人工智能实验室正寻求数百亿美元的工业领域交易。",
+          "url": "https://flash.jin10.com/detail/20260227131101938800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "Anthropic：美国国防部表示，他们只会与那些同意“任何合法用途”并移除安全机制的人工智能公司签订合同。",
           "url": "https://flash.jin10.com/detail/20260227063933000800",
           "source": "金十数据",
@@ -96,7 +107,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
