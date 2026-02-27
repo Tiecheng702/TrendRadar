@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T20:32:07.646013+08:00",
-  "total_titles_processed": 1764,
+  "generated_at": "2026-02-27T21:52:08.240269+08:00",
+  "total_titles_processed": 1882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时02分 ~ 20时32分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：能够定制OpenAI模型以应用于各类人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20260227213746947800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
