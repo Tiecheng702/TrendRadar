@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T09:03:03.160574+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-02-27T12:02:43.102594+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "两会前瞻｜围绕人工智能发展，代表委员将带来哪些建议？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660481",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         },
         {
           "title": "据AXIOS：Anthropic拒绝了五角大楼在人工智能安全保障争端中提出的“最终报价”。",
