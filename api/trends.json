@@ -1,44 +1,58 @@
 {
-  "generated_at": "2026-03-03T03:31:36.264402+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-03-03T04:23:29.998361+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
           "url": "https://wallstreetcn.com/livenews/3062119",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时23分]"
+        },
+        {
+          "title": "据知情人士透露，随着SpaceX的IPO临近，马斯克旗下社交媒体平台X（原名推特）和和人工智能（AI）初创公司xAI将偿还175亿美元债务。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "04时23分"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能可能将工作周缩短至四天，呼吁政府为人工智能时代重新培训工人。",
           "url": "https://flash.jin10.com/detail/20260303032802983800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时23分]"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能的推动不会是赢家通吃的局面。",
           "url": "https://flash.jin10.com/detail/20260303032754746800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时23分]"
         },
         {
           "title": "惠誉评级：人工智能颠覆使另类投资管理软件风险敞口备受关注。",
@@ -80,7 +94,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -91,7 +105,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         }
