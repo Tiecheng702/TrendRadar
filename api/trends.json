@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-03T01:36:53.672309+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-03T02:31:48.702930+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "惠誉评级：人工智能颠覆使另类投资管理软件风险敞口备受关注。",
+          "url": "https://flash.jin10.com/detail/20260303015557530800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
         {
           "title": "据英国金融时报：英伟达支持的“开放”人工智能初创公司Reflection AI以逾200亿美元估值吸引投资者。Reflection AI正寻求在新一轮融资中至少筹集20亿美元。",
           "url": "https://flash.jin10.com/detail/20260303010655126800",
@@ -14,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
         },
