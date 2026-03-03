@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T06:18:04.551573+08:00",
-  "total_titles_processed": 696,
+  "generated_at": "2026-03-04T07:16:07.594264+08:00",
+  "total_titles_processed": 740,
   "failed_sources": [],
   "trends": [
     {
@@ -34,22 +34,24 @@
           "url": "https://flash.jin10.com/detail/20260304053702894800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时16分]"
         },
         {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3063025",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时16分]"
         },
         {
           "title": "英国财政大臣里夫斯：对人工智能持乐观态度，但可能会导致一些失业。",
