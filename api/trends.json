@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T18:29:10.588686+08:00",
-  "total_titles_processed": 1678,
+  "generated_at": "2026-03-05T19:26:11.048684+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 19时26分]"
         },
         {
           "title": "加拿大总理卡尼：今天在悉尼会见了商业领袖，旨在建立新的合作伙伴关系，为我们的能源、关键矿产和人工智能领域创造数千个高薪职业。",
