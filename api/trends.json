@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T22:38:19.830448+08:00",
-  "total_titles_processed": 2062,
+  "generated_at": "2026-03-05T23:40:00.698473+08:00",
+  "total_titles_processed": 2152,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             20,
             16,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 22时38分]"
+          "appearance_count": 9,
+          "time_info": "[18时28分 ~ 23时40分]"
         },
         {
           "title": "华为推出人工智能（AI）数据平台。",
