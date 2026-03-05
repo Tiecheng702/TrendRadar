@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T01:52:55.050160+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-06T03:06:05.092706+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2304328",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 03时06分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -26,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
+          "appearance_count": 3,
+          "time_info": "[01时52分 ~ 03时06分]"
         }
       ]
     }
