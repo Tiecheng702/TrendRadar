@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-05T21:54:53.524913+08:00",
-  "total_titles_processed": 1982,
+  "generated_at": "2026-03-05T22:38:19.830448+08:00",
+  "total_titles_processed": 2062,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 15,
       "titles": [
-        {
-          "title": "华为推出人工智能（AI）数据平台。",
-          "url": "https://wallstreetcn.com/livenews/3063794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
           "url": "https://m.thepaper.cn/newsDetail_forward_32699611",
@@ -29,8 +18,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时54分]"
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 22时38分]"
+        },
+        {
+          "title": "华为推出人工智能（AI）数据平台。",
+          "url": "https://wallstreetcn.com/livenews/3063794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
@@ -188,7 +188,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         }
