@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T03:06:05.092706+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2026-03-06T04:28:00.119000+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "政府工作报告提出深化拓展“人工智能＋” 代表、委员为AI高质量发展建言献策|两会财经眼",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 04时28分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -27,8 +28,30 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 03时06分]"
+          "appearance_count": 5,
+          "time_info": "[01时52分 ~ 04时28分]"
+        },
+        {
+          "title": "亚马逊推出人工智能平台，实现医疗保健行政工作自动化",
+          "url": "https://wallstreetcn.com/livenews/3064651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "市场消息：马斯克的xAI未能阻止加州人工智能透明度法案实施。",
+          "url": "https://flash.jin10.com/detail/20260306031802688800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     }
