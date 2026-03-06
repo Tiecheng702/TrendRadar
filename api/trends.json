@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:09:34.508388+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-03-06T14:34:20.133745+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时52分 ~ 13时09分]"
+          "appearance_count": 15,
+          "time_info": "[01时52分 ~ 14时34分]"
         },
         {
           "title": "十五五，十五问｜“人工智能+”如何真正赋能千行百业",
@@ -77,7 +77,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
