@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T03:28:00.696491+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-03-07T04:20:22.870215+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时29分 ~ 04时20分]"
         },
         {
           "title": "市场消息：OpenAI推出了一款旨在帮助安全团队发现并修复大型数据库漏洞的人工智能代理Codex Security。",
