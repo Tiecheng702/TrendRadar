@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T01:41:09.700843+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-03-12T02:39:27.238702+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 01时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 02时39分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
