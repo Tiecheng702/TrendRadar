@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-11T22:42:28.585441+08:00",
-  "total_titles_processed": 2056,
+  "generated_at": "2026-03-11T23:37:52.251205+08:00",
+  "total_titles_processed": 2149,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 22时42分]"
+          "appearance_count": 5,
+          "time_info": "[20时32分 ~ 23时37分]"
         },
         {
           "title": "原工信部部长苗圩：完善新就业形态下的社会保障网，落实和优化休假制度，让人工智能发展红利为全社会所共享",
@@ -82,7 +83,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -115,7 +116,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
