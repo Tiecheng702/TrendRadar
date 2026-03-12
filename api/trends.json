@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:16:16.169059+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-03-12T08:58:13.950884+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2309924",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 07时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 08时58分]"
         },
         {
           "title": "美国国防部：我们将继续加快人工智能的部署。",
