@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T18:28:59.510859+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-03-12T19:25:52.157883+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -31,6 +31,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "工信部就《人工智能产品服务搜索智能体能力技术要求》等83项行业标准计划项目公开征求意见。（工信部网站）",
+          "url": "https://wallstreetcn.com/livenews/3068863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "奈飞(NFLX.O)拟斥资最高6亿美元收购好莱坞影星本·阿弗莱克创立的人工智能电影制作公司InterPositive，这将是这家流媒体巨头有史以来规模最大的收购之一。",
           "url": "https://flash.jin10.com/detail/20260312034749767800",
           "source": "金十数据",
@@ -42,6 +53,18 @@
           "time_info": "04时23分"
         },
         {
+          "title": "真爱美家：公司关注到有关媒体在网络上流传关于公司被收购后将“变更主营业务”“被借壳”的传闻。经公司核实，公司的主营业务仍为毛毯为主的家用纺织品研发、设计、生产与销售，不涉及人工智能业务，公司主营业务未发生重大变化。控股股东亦不存在将其控制的资产在未来36个月内通过上市公司借壳上市的计划或安排。",
+          "url": "https://wallstreetcn.com/livenews/3068832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 19时25分]"
+        },
+        {
           "title": "机构：人工智能日益被视为关键投资回报驱动力",
           "url": "https://flash.jin10.com/detail/20260312140842328800",
           "source": "金十数据",
@@ -51,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        },
-        {
-          "title": "真爱美家：公司关注到有关媒体在网络上流传关于公司被收购后将“变更主营业务”“被借壳”的传闻。经公司核实，公司的主营业务仍为毛毯为主的家用纺织品研发、设计、生产与销售，不涉及人工智能业务，公司主营业务未发生重大变化。控股股东亦不存在将其控制的资产在未来36个月内通过上市公司借壳上市的计划或安排。",
-          "url": "https://wallstreetcn.com/livenews/3068832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
