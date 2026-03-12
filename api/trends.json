@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T20:32:36.213261+08:00",
-  "total_titles_processed": 1846,
+  "generated_at": "2026-03-12T21:55:17.982049+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "央行：深化业技融合 积极稳妥、安全有序推进金融领域人工智能应用",
@@ -142,6 +142,17 @@
           "time_info": "13时11分"
         },
         {
+          "title": "中国人工智能产业发展联盟：持续跟踪OpenClaw安全风险动态 编制企业级OpenClaw部署风险管理指南",
+          "url": "https://wallstreetcn.com/livenews/3068940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
+        {
           "title": "英伟达(NVDA.O)：新模型为人工智能体带来5倍更高的吞吐量。",
           "url": "https://flash.jin10.com/detail/20260312000441068800",
           "source": "金十数据",
@@ -156,8 +167,19 @@
     },
     {
       "keyword_group": "理想汽车",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股三大股指低开，道指跌0.99%，标普500指数跌0.79%，纳指跌0.89%。理想汽车跌3%，公司Q4营收同比下滑35%；科技股普跌，英伟达、AMD跌超1%，美光科技跌超2%；摩根士丹利下跌4.9%，创2月27日以来最大跌幅，消息称摩根士丹利限制私人信用基金的赎回；标普1500化肥指数上涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3068966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时55分"
+        },
         {
           "title": "理想汽车回应考虑回购港股股份：只是在讨论方案的可能性",
           "url": "https://wallstreetcn.com/livenews/3068778",
