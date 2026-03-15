@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-03-15T23:18:53.047575+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-03-16T00:19:11.779942+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "理想汽车汤靖：MEGA电池召回完成率已超过97.5%",
-          "url": "https://wallstreetcn.com/livenews/3070235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 19时17分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
