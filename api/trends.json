@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T06:22:40.817487+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-03-17T07:21:07.691464+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达(NVDA.O)扩展开源模型系列，以支持下一波基于智能体、实体世界和医疗保健人工智能的发展。",
@@ -64,6 +64,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "据Punchbowl记者：一名知情人士透露，美国商务部长卢特尼克今晚将在圣何塞出席一场英伟达GTC大会期间的私人活动。卢特尼克将与黄仁勋一同就人工智能发表讲话，参与者包括英伟达的合作伙伴公司。",
+          "url": "https://flash.jin10.com/detail/20260317064734963800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：没有我们的机密计算能力，没有我们构建端到端系统的能力，以及提供整个加速计算和人工智能堆栈的能力，从数据处理，无论是向量还是结构，一直到人工智能，这一切都是不可能的。",
           "url": "https://flash.jin10.com/detail/20260317024740106800",
           "source": "金十数据",
@@ -84,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "美国商务部宣布美国人工智能出口新计划阶段。",
+          "url": "https://flash.jin10.com/detail/20260317061250225800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
