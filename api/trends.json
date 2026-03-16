@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T09:13:36.514534+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-03-16T12:31:36.353741+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克宣布7天内启动人工智能芯片制造项目Terafab",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 07时19分]"
+        },
+        {
+          "title": "LG CEO：通过人工智能合作 打造能读懂生活的机器人",
+          "url": "https://flash.jin10.com/detail/20260316113431620800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
