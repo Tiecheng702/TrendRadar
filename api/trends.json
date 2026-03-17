@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T03:47:18.593592+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-18T04:28:48.927534+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://flash.jin10.com/detail/20260318024409341800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时28分]"
         },
         {
           "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
           "url": "https://flash.jin10.com/detail/20260318024011419800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时28分]"
         },
         {
           "title": "欧莱雅：与英伟达携手，借助预测性人工智能科学加速美妆研发。",
