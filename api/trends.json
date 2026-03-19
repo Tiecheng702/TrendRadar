@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:11:29.963052+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-03-19T13:50:50.977653+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 12时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时08分 ~ 13时50分]"
         },
         {
           "title": "美联储主席鲍威尔：人工智能投资也可能会提高中性利率。",
