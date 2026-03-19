@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T17:32:59.706839+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-03-19T18:29:42.997469+08:00",
+  "total_titles_processed": 1722,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             19,
             14,
             13,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时08分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 18时29分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -117,7 +118,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
