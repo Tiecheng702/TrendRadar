@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-21T02:32:38.006972+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-03-21T03:31:26.113518+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时31分]"
+        },
+        {
+          "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
+          "url": "https://flash.jin10.com/detail/20260321032318787800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "高盛：潜在机遇源于货币宽松、人工智能投资以及更为均衡的美国监管体系等因素。",
+          "url": "https://flash.jin10.com/detail/20260321032020972800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "惠誉：将举办关于私募信贷和杠杆贷款中人工智能软件风险的网络研讨会。",
@@ -25,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
         }
