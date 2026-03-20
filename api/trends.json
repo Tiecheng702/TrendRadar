@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T03:31:26.113518+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-03-21T04:20:24.546432+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 04时20分]"
         },
         {
           "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
         },
