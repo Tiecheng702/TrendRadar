@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T18:27:42.909171+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-03-20T19:23:04.083463+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时27分]"
+          "appearance_count": 5,
+          "time_info": "[16时28分 ~ 19时23分]"
         },
         {
           "title": "美国白宫计划周五推出人工智能（AI）框架。（Axios）",
@@ -70,7 +70,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -92,8 +92,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时04分 ~ 18时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时04分 ~ 19时23分]"
         }
       ]
     }
