@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T17:22:03.588854+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-03-21T18:16:12.912063+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 17时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 18时16分]"
         },
         {
           "title": "高盛：对私募信贷的担忧，包括承销质量以及对可能受人工智能不利影响的软件公司的敞口，提醒我们信贷周期并未终结。",
@@ -42,11 +42,12 @@
           "ranks": [
             4,
             11,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时16分]"
         },
         {
           "title": "Palantir人工智能系统获美国防部关键项目地位",
