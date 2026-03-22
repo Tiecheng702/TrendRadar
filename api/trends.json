@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T06:14:52.697368+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-03-23T07:17:49.307149+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
@@ -16,8 +16,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 06时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时17分]"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
+          "url": "https://flash.jin10.com/detail/20260323064200733800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     }
