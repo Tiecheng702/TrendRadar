@@ -1,57 +1,22 @@
 {
-  "generated_at": "2026-03-22T23:16:28.022067+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-03-23T00:17:23.365634+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "人工智能太绕,AI急需中文名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
           "source": "贴吧",
           "ranks": [
-            16,
-            20,
-            21,
-            22,
-            23,
-            25,
-            24
+            25
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时16分 ~ 23时16分]"
-        },
-        {
-          "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
-          "url": "https://wallstreetcn.com/livenews/3074495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9,
-            12,
-            15,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时46分 ~ 18时17分]"
-        },
-        {
-          "title": "韩文秀：全方位应对人工智能冲击，促进高质量充分就业",
-          "url": "https://flash.jin10.com/detail/20260322112847753800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时37分]"
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
