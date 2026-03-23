@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T14:04:16.236765+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-03-23T15:55:27.169000+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             25,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 14时04分]"
+          "appearance_count": 15,
+          "time_info": "[00时17分 ~ 15时55分]"
         },
         {
           "title": "据华尔街日报：Meta Platforms(META.O)CEO扎克伯格正在打造一个CEO人工智能代理，以帮助他处理工作事务。",
@@ -49,7 +50,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
