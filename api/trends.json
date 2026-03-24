@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T03:46:33.259996+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-03-25T04:31:43.031868+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -19,13 +19,24 @@
           "time_info": "01时46分"
         },
         {
+          "title": "据The Information：OpenAI创始人奥尔特曼调整职责分工，并筹备推出SPUD新型人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260325041357943800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
           "url": "https://flash.jin10.com/detail/20260325025306673800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
         },
