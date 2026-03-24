@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T09:02:06.474598+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-03-24T12:07:30.091764+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧洲央行首席经济学家连恩：人工智能是完善欧盟储蓄体系的另一个动力。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时40分"
+        },
+        {
+          "title": "国家数据局局长刘烈宏：第九届数字中国建设峰会现场体验区新增“人工智能”板块",
+          "url": "https://wallstreetcn.com/livenews/3075601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
