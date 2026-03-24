@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-25T00:50:16.893003+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-25T01:46:49.885178+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
+          "url": "https://flash.jin10.com/detail/20260325012845101800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
         {
           "title": "OpenAI：沃伊切赫·扎雷姆巴加入OpenAI基金会，担任人工智能韧性负责人。",
           "url": "https://flash.jin10.com/detail/20260325000929683800",
