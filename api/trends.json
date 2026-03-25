@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T20:40:13.019711+08:00",
-  "total_titles_processed": 1927,
+  "generated_at": "2026-03-25T22:09:58.339733+08:00",
+  "total_titles_processed": 2060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "美股存储板块走低，美光科技跌超4%，闪迪跌6.5%，西部数据跌超4%，希捷科技跌超5%。此前Google Research推出了TurboQuant，这是一种全新的KV缓存压缩方法。据称，该方法可在不损失准确性的前提下，将大语言模型（LLM）的缓存内存占用至少减少6倍，并实现最高8倍的加速，旨在解决人工智能推理和向量搜索中的内存瓶颈问题。",
+          "url": "https://wallstreetcn.com/livenews/3076731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时09分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-03-25）",
