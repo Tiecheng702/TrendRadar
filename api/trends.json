@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-25T14:49:56.675041+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-03-25T15:45:25.064759+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Arm将首次出售自有芯片 以争夺人工智能市场份额",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "贝莱德CEO：不认为人工智能存在泡沫",
+          "url": "https://flash.jin10.com/detail/20260325152953852800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         },
         {
           "title": "苹果计划通过Siri应用、全新界面以及iOS 27中的“问Siri”按钮，重启其人工智能战略。",
