@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T07:24:08.705064+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-03-26T09:13:07.513138+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "周三（3月25日），存储芯片与硬件供应链指数跌2.08%，报113.03点，跳空低开之后、在美股盘初跌至109.00点刷新日低，大部分交易时间“高位震荡”。 北美科技软件股指数ETF收跌0.52%，报80.40美元。 信息科技指数涨0.35%，人工智能（AI）赢家指数涨0.72%，AI软件先驱指数跌0.63%。",
@@ -18,6 +18,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时24分]"
+        },
+        {
+          "title": "OpenAI支持人工智能初创公司Isara，寻求实现“机器人大军”技术突破",
+          "url": "https://wallstreetcn.com/livenews/3076984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正投资人工智能初创公司Isara，该公司最近从投资者处筹集了9400万美元，而OpenAI以6.5亿美元的估值投资了该公司。",
+          "url": "https://flash.jin10.com/detail/20260326083429340800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "英国政府表示，将优先考虑将政府合同授予本国造船、钢铁、人工智能及能源基础设施领域，以保障国家安全。",
+          "url": "https://flash.jin10.com/detail/20260326081054356800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }
