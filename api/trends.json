@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T00:02:39.775380+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-03-27T01:51:20.254715+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌公司：推出Gemini 3.1 Flash Live Audio & Voice模型。 在全球推广Search Live。 向那些已经存在人工智能（AI）模型的地方推广Search Live。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "加拿大央行高级副行长罗杰斯：贸易紧张局势、移民规模缩减以及人工智能的广泛应用将永久性地改变格局。",
+          "url": "https://flash.jin10.com/detail/20260327011340513800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时51分"
         }
       ]
     }
