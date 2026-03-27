@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T05:25:10.842972+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-03-28T06:20:41.727424+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 05时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 06时20分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -48,11 +48,12 @@
           "url": "https://wallstreetcn.com/livenews/3078490",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 06时20分]"
         },
         {
           "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：（美国和以色列发动的）伊朗战争已经给美国通胀也经济增长带来新的风险。 长期通胀预期可能变得更加脆弱。 并没有迹象表明劳动力市场助燃通胀。 不可能预料到人工智能（AI）的影响范围。",
