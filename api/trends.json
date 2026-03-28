@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T14:44:47.092832+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-03-28T15:38:20.571663+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
           "ranks": [
             3,
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时38分]"
         },
         {
           "title": "人工智能机器人实验室（AI Robotics Lab）洽谈按110亿美元估值融资。",
