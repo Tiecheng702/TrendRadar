@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:26:56.207421+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2026-03-28T18:21:36.052865+08:00",
+  "total_titles_processed": 1317,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             10,
             14,
             18,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 17时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 18时21分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
