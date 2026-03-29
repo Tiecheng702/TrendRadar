@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T15:44:59.093213+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-03-29T16:28:26.706438+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 15时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 16时28分]"
         },
         {
           "title": "马斯克：特斯拉人工智能自动驾驶的安全性将比人类驾驶高出10倍以上。",
@@ -41,7 +42,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
