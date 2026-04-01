@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T12:39:10.385709+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-01T14:21:44.067233+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-04-01）",
@@ -14,9 +14,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
+        },
+        {
+          "title": "港股人工智能板块午后冲高，智谱(02513.HK)涨近30%，MINIMAX-W(00100.HK)涨超16%，兆易创新(03986.HK)涨超8%，哔哩哔哩(09626.HK)涨超7%，百度(09888.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260401132954043800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "韩国总统府：韩国与印度尼西亚将双边关系提升为“特别全面战略伙伴关系”，双方同意在贸易、国防、投资、人工智能、核电站及能源转型等领域开展合作。",
