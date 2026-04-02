@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T03:41:20.977358+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-04-03T04:24:32.107036+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时41分]"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)已调整其人工智能销售策略，转而专注于销售Copilot，而非将其作为软件捆绑包的一部分免费提供。",
+          "url": "https://flash.jin10.com/detail/20260403033413623800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     }
