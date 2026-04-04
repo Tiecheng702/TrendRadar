@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-04-04T23:21:21.839333+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2026-04-05T00:22:43.178025+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
-          "url": "https://wallstreetcn.com/livenews/3082360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 13时48分]"
-        },
-        {
-          "title": "江苏：加快打造人工智能创新发展高地 大力支持OPC创新创业",
-          "url": "https://flash.jin10.com/detail/20260404085049313800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
