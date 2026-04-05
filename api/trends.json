@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-04-05T23:22:19.094565+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-04-06T00:24:07.640922+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鸿海：仍需密切关注动荡的全球政治经济形势所带来的影响。富士康：人工智能机柜预计将保持持续增长态势。",
-          "url": "https://flash.jin10.com/detail/20260405153339263800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
