@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T22:28:01.150053+08:00",
-  "total_titles_processed": 2005,
+  "generated_at": "2026-04-09T00:33:21.557444+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-08）",
-          "url": "https://flash.jin10.com/detail/20260408115901598800",
+          "title": "据英国金融时报：Meta Platforms(META.O)发布扎克伯格大手笔投资后的首款人工智能模型Muse Spark。",
+          "url": "https://flash.jin10.com/detail/20260409000716594800",
           "source": "金十数据",
           "ranks": [
-            7
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "00时33分"
         }
       ]
     }
