@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T19:39:50.528590+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-04-10T20:42:30.365561+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 19时39分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 20时42分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -30,11 +30,12 @@
             17,
             10,
             18,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 19时39分]"
+          "appearance_count": 8,
+          "time_info": "[14时25分 ~ 20时42分]"
         },
         {
           "title": "工信部：加快构建高效统一的人工智能芯片计算互联生态 坚决破除光伏行业“内卷式”竞争",
