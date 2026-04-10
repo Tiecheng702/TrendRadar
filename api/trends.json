@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-04-10T14:26:12.961146+08:00",
-  "total_titles_processed": 1207,
+  "generated_at": "2026-04-10T16:31:33.176461+08:00",
+  "total_titles_processed": 1369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "人工智能将纳入教师资格考试和认证内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 16时31分]"
+        },
+        {
+          "title": "人工智能将纳入教师资格考试",
+          "url": "https://www.douyin.com/hot/2461467",
+          "source": "抖音",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 16时31分]"
+        },
         {
           "title": "人工智能将纳入教师资格考试",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%86%E7%BA%B3%E5%85%A5%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%80%83%E8%AF%95",
@@ -20,27 +45,15 @@
           "time_info": "[12时37分 ~ 14时26分]"
         },
         {
-          "title": "人工智能将纳入教师资格考试和认证内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32939934",
-          "source": "澎湃新闻",
+          "title": "人工智能将纳入教师资格考试和认证内容，会对未来的教育生态产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2025880248273618520",
+          "source": "知乎",
           "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 14时26分]"
-        },
-        {
-          "title": "人工智能将纳入教师资格考试",
-          "url": "https://www.douyin.com/hot/2461467",
-          "source": "抖音",
-          "ranks": [
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 14时26分]"
+          "time_info": "[16时30分 ~ 16时31分]"
         },
         {
           "title": "据英国金融时报：阿里巴巴任命周靖人领导人工智能事业部。",
@@ -74,6 +87,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车还在穿越“窄门”",
+          "url": "https://www.toutiao.com/trending/7626942492146945590/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 16时31分]"
         }
       ]
     }
