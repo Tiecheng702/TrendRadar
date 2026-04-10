@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:27:19.186908+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-04-11T06:25:29.515041+08:00",
+  "total_titles_processed": 588,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时25分]"
         },
         {
           "title": "人工智能将纳入教师资格考试",
@@ -28,8 +28,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 05时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 06时25分]"
         }
       ]
     }
