@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T15:42:48.396392+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2026-04-11T16:31:39.278457+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             9,
             3,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时10分 ~ 15时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 16时31分]"
         },
         {
           "title": "普京：俄罗斯须自主研发有竞争力的人工智能模型",
@@ -52,11 +53,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时47分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时47分 ~ 16时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "李想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李想朋友圈飙脏话",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%83%B3%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%A3%99%E8%84%8F%E8%AF%9D%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
         }
       ]
     }
