@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T01:23:06.552343+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-04-12T02:27:49.018252+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "李想朋友圈飙脏话 疑炮轰东风日产",
@@ -42,11 +42,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "郑丽文一行在北京参访了解人工智能发展，感叹两岸合作对人类贡献将不可限量。（新华社）",
@@ -54,11 +55,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         }
       ]
     },
@@ -71,11 +73,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%EF%BC%9A%E9%81%AD%E9%81%87%E5%A4%A7%E9%87%8F%E6%81%B6%E6%84%8F%E6%8B%89%E8%B8%A9+%E5%B7%B2%E6%8A%A5%E6%A1%88",
           "source": "百度热搜",
           "ranks": [
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 02时27分]"
         }
       ]
     }
