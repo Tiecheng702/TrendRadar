@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T06:22:01.896927+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-04-13T07:24:20.927757+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时24分]"
         },
         {
           "title": "李想发飙,内涵同行是伪军",
@@ -28,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时25分 ~ 07时24分]"
         }
       ]
     },
