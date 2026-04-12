@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T14:18:41.234249+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-04-12T15:56:49.877787+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -22,8 +22,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 09时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 15时56分]"
         },
         {
           "title": "马斯克：Grok要接近Claude Opus 4.6的水平，需要等到五月，而要达到甚至超越它则需等到六月。以常规标准来看，时间很短，但在人工智能领域，这已经算是很长时间了。",
@@ -76,11 +76,12 @@
             14,
             12,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 14时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 15时56分]"
         },
         {
           "title": "李想发飙,内涵同行是伪军",
@@ -90,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 14时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 15时56分]"
         },
         {
           "title": "李想朋友圈飙脏话 疑炮轰东风日产",
