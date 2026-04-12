@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T01:26:02.533885+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-04-13T02:31:45.417549+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2026336624527652740",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时31分]"
         },
         {
           "title": "李想发飙,内涵同行是伪军",
@@ -26,8 +27,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 02时31分]"
         }
       ]
     },
