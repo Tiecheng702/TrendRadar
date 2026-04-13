@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T20:57:29.650945+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-04-13T22:28:51.853680+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "人工智能卖瓜",
@@ -37,7 +37,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "高盛CEO所罗门：对软件行业人工智能驱动型颠覆的担忧正拖累市场情绪。",
+          "url": "https://flash.jin10.com/detail/20260413213723419800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
