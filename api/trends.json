@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T09:18:33.561204+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-04-15T12:36:48.655310+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 09时18分]"
+          "appearance_count": 3,
+          "time_info": "[07时34分 ~ 12时36分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-15）",
+          "url": "https://flash.jin10.com/detail/20260415113504751800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "加拿大人工智能部长赞赏Anthropic对Mythos模型采取的处理方式",
@@ -54,7 +66,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
         }
