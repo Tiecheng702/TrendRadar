@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T07:34:49.608782+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-04-15T09:18:33.561204+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2344176",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 09时18分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
@@ -39,6 +40,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "李想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "电视剧《江山大同》由金海曙、李想编剧，杨幂、陈建斌主演，聚焦北魏冯太后，你对这部历史正剧有哪些期待？",
+          "url": "https://www.zhihu.com/question/2021913095723852580",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     }
