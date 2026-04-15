@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:26:55.382561+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-04-15T16:21:46.578656+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达发布全球首个开源量子人工智能模型 量子计算板块激昂大涨",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时34分 ~ 14时26分]"
+        },
+        {
+          "title": "马斯克：AI5将成为有史以来产量最大的人工智能芯片之一。",
+          "url": "https://flash.jin10.com/detail/20260415154014890800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：担忧石油冲击分散了人们对包括人工智能和金融稳定风险在内的紧迫问题的关注。",
