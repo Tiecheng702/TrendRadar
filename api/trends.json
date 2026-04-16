@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-16T16:21:53.370970+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-04-16T18:06:21.073382+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 8,
       "titles": [
-        {
-          "title": "台积电CEO：人工智能需求依然“极为强劲”。 公司产能依然紧张。",
-          "url": "https://wallstreetcn.com/livenews/3089060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
         {
           "title": "警惕人工智能让人类陷入“自恋”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
@@ -28,8 +17,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时22分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时22分 ~ 18时06分]"
+        },
+        {
+          "title": "台积电CEO：人工智能需求依然“极为强劲”。 公司产能依然紧张。",
+          "url": "https://wallstreetcn.com/livenews/3089060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "据AXIOS：OpenAI游说扩大人工智能在生命科学中的作用。",
