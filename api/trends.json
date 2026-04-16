@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T21:02:05.003364+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-04-16T22:57:21.231807+08:00",
+  "total_titles_processed": 1842,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 22时57分]"
         },
         {
           "title": "台积电CEO：人工智能需求依然“极为强劲”。 公司产能依然紧张。",
@@ -108,7 +109,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -119,7 +120,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
