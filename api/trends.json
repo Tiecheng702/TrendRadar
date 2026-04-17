@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-04-17T23:48:43.977690+08:00",
-  "total_titles_processed": 1887,
+  "generated_at": "2026-04-18T00:42:12.994082+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "警惕人工智能让人类陷入“自恋”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32976727",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 07时37分]"
-        },
-        {
-          "title": "苏林试戴人工智能眼镜",
-          "url": "https://www.toutiao.com/trending/7629525766065864714/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时39分 ~ 14时28分]"
-        },
-        {
-          "title": "英国央行副行长Sarah Breeden：战争增加了市场压力叠加的可能性。 与人工智能相关的美国科技股看起来尤其高估。 全球金融体系迄今表现出韧性。 反映了自全球金融危机以来深层次的结构性改善。 增长、通胀和利率的冲击会同时影响所有借款人。",
-          "url": "https://wallstreetcn.com/livenews/3089954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动",
-          "url": "https://wallstreetcn.com/livenews/3089750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-17）",
-          "url": "https://flash.jin10.com/detail/20260417113928326800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        }
-      ]
-    },
     {
       "keyword_group": "理想汽车",
       "match_count": 1,
@@ -74,12 +12,11 @@
           "url": "https://www.zhihu.com/question/2028032486530184431",
           "source": "知乎",
           "ranks": [
-            18,
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时20分 ~ 23时48分]"
+          "appearance_count": 2,
+          "time_info": "[00时41分 ~ 00时42分]"
         }
       ]
     }
