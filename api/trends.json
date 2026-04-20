@@ -1,68 +1,22 @@
 {
-  "generated_at": "2026-04-20T23:08:29.803329+08:00",
-  "total_titles_processed": 1652,
+  "generated_at": "2026-04-21T00:52:58.435056+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "据华尔街日报：Adobe(ADBE.O)的人工智能助手将助力提升客户参与度和销售额。Adobe将与微软、Anthropic、OpenAI、英伟达合作。",
-          "url": "https://flash.jin10.com/detail/20260420204808248800",
+          "title": "人工智能开源生态共识在广州发布",
+          "url": "https://flash.jin10.com/detail/20260420235034210800",
           "source": "金十数据",
           "ranks": [
-            2
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "科大讯飞投资星链人工智能科技公司",
-          "url": "https://flash.jin10.com/detail/20260420091917608800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        },
-        {
-          "title": "在战锤 40k 里，机械神甫那些跳大神操作真的对人工智能有用吗?",
-          "url": "https://www.zhihu.com/question/659215909",
-          "source": "知乎",
-          "ranks": [
-            20,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 05时25分]"
-        },
-        {
-          "title": "韩国总统李在明：印度的人工智能能力与韩国的先进制造业可以形成巨大的协同效应。",
-          "url": "https://flash.jin10.com/detail/20260420184838287800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-20）",
-          "url": "https://flash.jin10.com/detail/20260420120316963800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "time_info": "00时52分"
         }
       ]
     }
