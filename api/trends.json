@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T05:36:20.055207+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-04-22T06:30:03.801636+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储理事沃勒：需要更大的灵活性来捕捉效率并管理风险，例如网络安全，将人工智能融入我们的系统流程中。",
@@ -39,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "市场消息：文件显示，SpaceX表示其在轨人工智能数据中心、月球和火星基础设施的计划涉及未经验证的技术，可能无法实现商业可行性。",
+          "url": "https://flash.jin10.com/detail/20260422051341497800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时30分"
         }
       ]
     }
