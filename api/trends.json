@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T20:56:56.608064+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2026-04-21T22:32:03.599646+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "据CNBC：大众汽车将在今年为其中国市场车型增加语音人工智能功能。",
@@ -83,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "据消息人士透露，Anthropic计划很快向欧洲银行提供Mythos模型人工智能模型的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260421220814481800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     }
