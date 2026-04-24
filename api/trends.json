@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T16:57:22.025856+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-04-24T18:16:10.384686+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.cls.cn/detail/2354727",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 18时16分]"
+        },
+        {
+          "title": "中方：反对美方污蔑中国人工智能成就",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8F%8D%E5%AF%B9%E7%BE%8E%E6%96%B9%E6%B1%A1%E8%94%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%90%E5%B0%B1",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 18时16分]"
         },
         {
           "title": "国家知识产权局：人工智能、芯片、脑机接口纳入“快保护”通道",
@@ -50,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时37分"
-        },
-        {
-          "title": "中方：反对美方污蔑中国人工智能成就",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E5%8F%8D%E5%AF%B9%E7%BE%8E%E6%96%B9%E6%B1%A1%E8%94%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%90%E5%B0%B1",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-04-24）",
@@ -109,9 +111,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 18时16分]"
         }
       ]
     }
