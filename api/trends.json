@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T01:42:43.486249+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-04-25T02:35:33.739610+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 01时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 02时35分]"
         },
         {
           "title": "巴西财政部长：巴西将在6月前举行新的生态投资拍卖，重点关注关键矿产和人工智能。",
@@ -40,11 +40,12 @@
           "url": "https://www.toutiao.com/trending/7631901455554609195/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时35分]"
         }
       ]
     }
