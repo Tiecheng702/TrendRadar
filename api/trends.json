@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T09:17:06.223793+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-04-25T12:27:11.825582+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "理想汽车(LI.O)高管：将把欧洲和东南亚地区视为公司的下一个出口市场。",
+          "url": "https://flash.jin10.com/detail/20260425104326399800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
