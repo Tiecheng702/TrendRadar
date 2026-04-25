@@ -1,8 +1,38 @@
 {
-  "generated_at": "2026-04-25T12:27:11.825582+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-04-25T14:15:03.706461+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "李想",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "雷军玩梗送李想“听我讲完”T恤",
+          "url": "https://www.toutiao.com/trending/7631901455554609195/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时46分 ~ 03时43分]"
+        },
+        {
+          "title": "李想：理想创造了大三排SUV竞争",
+          "url": "https://www.toutiao.com/trending/7632212929533775402/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 14时15分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 2,
@@ -44,28 +74,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "李想",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "雷军玩梗送李想“听我讲完”T恤",
-          "url": "https://www.toutiao.com/trending/7631901455554609195/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时43分]"
         }
       ]
     }
