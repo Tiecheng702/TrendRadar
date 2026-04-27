@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-27T20:15:46.165604+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2026-04-27T22:55:37.064696+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "南非《国家人工智能政策草案》因包含虚构引用来源被撤回",
+          "url": "https://wallstreetcn.com/livenews/3095084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
         {
           "title": "英国部长拒绝向欧盟人工智能规则看齐 认为将扼杀科技创新",
           "url": "https://flash.jin10.com/detail/20260427121139667800",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "前DeepMind研究员为其人工智能初创公司筹集了11亿美元的种子轮融资。",
+          "url": "https://flash.jin10.com/detail/20260427221251476800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     }
