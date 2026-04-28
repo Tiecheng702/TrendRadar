@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:03:26.240141+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-04-28T18:53:16.700645+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 18时53分]"
         },
         {
           "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "工信部：将开展“人工智能+软件”专项行动，加快智能编程研发应用",
+          "url": "https://www.cls.cn/detail/2358127",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "美国财长贝森特：美国汇聚了全球最具才华的人工智能研究人员。然而，桑德斯参议员非但不利用美国的创新力量，反而邀请外国人士来指导美国应如何监管人工智能。",
@@ -132,7 +143,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
