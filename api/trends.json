@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T18:53:16.700645+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-04-28T20:19:40.212977+08:00",
+  "total_titles_processed": 1492,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中央政治局会议重磅定调！事关扩大内需、人工智能、房地产市场",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 20时19分]"
+        },
+        {
+          "title": "工信部：将开展“人工智能+软件”专项行动，加快智能编程研发应用",
+          "url": "https://www.cls.cn/detail/2358127",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时53分]"
+          "time_info": "[18时53分 ~ 20时19分]"
         },
         {
           "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "工信部：将开展“人工智能+软件”专项行动，加快智能编程研发应用",
-          "url": "https://www.cls.cn/detail/2358127",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时53分"
         },
         {
           "title": "美国财长贝森特：美国汇聚了全球最具才华的人工智能研究人员。然而，桑德斯参议员非但不利用美国的创新力量，反而邀请外国人士来指导美国应如何监管人工智能。",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "工业和信息化部批准《人工智能深度合成图像系统技术规范》等690项行业标准",
+          "url": "https://flash.jin10.com/detail/20260428195156907800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "花旗：上调澜起科技A和H股目标价，季报超预期并料受益于人工智能需求",
