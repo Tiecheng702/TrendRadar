@@ -1,22 +1,56 @@
 {
-  "generated_at": "2026-04-30T04:50:15.095312+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-04-30T05:51:19.409971+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "高通(QCOM.O)：领先的超大规模定制芯片合作预计将在今年晚些时候开始初步交付。期待在6月24日的投资者日上提供关于包括数据中心和物理人工智能机遇的信息。",
           "url": "https://flash.jin10.com/detail/20260430041949942800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时50分 ~ 05时51分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)高管：预计将在人工智能和云计算等关键投资领域继续招聘。",
+          "url": "https://flash.jin10.com/detail/20260430050750517800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时50分"
+          "time_info": "05时51分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)CEO：我们已将人工智能响应的成本降低了30%。",
+          "url": "https://flash.jin10.com/detail/20260430044529751800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)CEO：企业人工智能解决方案首次成为云计算的主要增长动力。",
+          "url": "https://flash.jin10.com/detail/20260430044355334800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时51分"
         }
       ]
     }
