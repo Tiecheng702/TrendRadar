@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T07:33:25.771754+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-03T09:44:15.375111+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             8,
             10,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时46分 ~ 07时33分]"
+          "appearance_count": 6,
+          "time_info": "[03时46分 ~ 09时44分]"
         },
         {
           "title": "日本首相高市早苗：与越共中央总书记苏林以及总理黎明兴举行了会谈。双方确认，将以能源、关键矿产、人工智能、半导体以及太空等经济安全保障领域作为日越合作的新优先方向，共同推进相关合作。",
