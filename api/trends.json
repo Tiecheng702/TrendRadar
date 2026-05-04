@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T06:46:14.026162+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-05-05T07:42:52.270083+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             2,
             11,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时57分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时57分 ~ 07时42分]"
         },
         {
           "title": "据华尔街日报：Anthropic与FIS正在开发一款人工智能代理，旨在帮助银行打击金融犯罪行为。",
