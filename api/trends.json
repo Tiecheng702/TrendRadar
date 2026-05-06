@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-06T20:23:14.327525+08:00",
-  "total_titles_processed": 1451,
+  "generated_at": "2026-05-06T23:20:08.684059+08:00",
+  "total_titles_processed": 1607,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 20时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 23时20分]"
         },
         {
           "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
