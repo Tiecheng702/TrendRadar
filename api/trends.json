@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T13:21:35.739369+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-05-07T16:11:35.209599+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时11分"
         },
         {
           "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
