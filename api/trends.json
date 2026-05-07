@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T20:28:18.704298+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2026-05-07T23:32:26.642850+08:00",
+  "total_titles_processed": 1579,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
@@ -29,8 +29,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时11分 ~ 20时28分]"
+          "appearance_count": 6,
+          "time_info": "[16时11分 ~ 23时32分]"
+        },
+        {
+          "title": "“人工智能+”走向智能经济新形态",
+          "url": "https://www.toutiao.com/trending/7636674300020015155/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
