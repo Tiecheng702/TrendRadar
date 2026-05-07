@@ -1,36 +1,22 @@
 {
-  "generated_at": "2026-05-07T23:32:26.642850+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-05-08T01:32:19.136075+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
-          "source": "澎湃新闻",
+          "title": "据日经新闻：软银集团正考虑在英伟达、富士康等企业的协助下，于本十年末前开始设计和组装自主研发的人工智能服务器部件。",
+          "url": "https://flash.jin10.com/detail/20260508010849670800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 07时40分]"
-        },
-        {
-          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
-          "url": "https://www.cls.cn/detail/2364810",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时11分 ~ 23时32分]"
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -40,53 +26,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
+          "appearance_count": 1,
+          "time_info": "01时32分"
         },
         {
-          "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
-          "url": "https://flash.jin10.com/detail/20260507050409862800",
-          "source": "金十数据",
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 06时52分]"
-        },
-        {
-          "title": "OpenAI：Uber(UBER.N)使用OpenAI为人工智能助手和语音功能提供支持。",
-          "url": "https://flash.jin10.com/detail/20260507064154537800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时40分"
+          "time_info": "01时32分"
         },
         {
-          "title": "美联储古尔斯比：持续的核心服务价格上涨、富裕家庭的财富驱动消费以及与人工智能投资相关职业的工资上涨，可能表明通胀更加持久。",
-          "url": "https://flash.jin10.com/detail/20260507040722308800",
+          "title": "据日经新闻：软银正与英伟达(NVDA.O)商谈开发“日本制造”的人工智能服务器。",
+          "url": "https://flash.jin10.com/detail/20260508010539654800",
           "source": "金十数据",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "01时32分"
         },
         {
-          "title": "高意公司/相干公司（Coherent Corp.）首席执行官：我们又度过了一个财务表现强劲的季度，营收增长加速，利润率扩大，盈利能力提升，这一切都得益于我们的数据中心和通信业务异常强劲的需求。 随着人工智能（AI）数据中心基础设施的持续扩张，我们正在迅速扩大产能以满足需求。 凭借我们广泛的光子技术产品组合和规模化制造能力，我们相信公司处于独特的优势地位，能够抓住这一长达多年的增长机遇。",
-          "url": "https://wallstreetcn.com/livenews/3099671",
+          "title": "日本软银集团正与英伟达商谈开发“日本制造”的人工智能服务器。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3100130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "01时32分"
         }
       ]
     }
