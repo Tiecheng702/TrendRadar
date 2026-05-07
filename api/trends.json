@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-08T01:32:19.136075+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-08T03:23:40.825026+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 5,
       "titles": [
-        {
-          "title": "据日经新闻：软银集团正考虑在英伟达、富士康等企业的协助下，于本十年末前开始设计和组装自主研发的人工智能服务器部件。",
-          "url": "https://flash.jin10.com/detail/20260508010849670800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        },
         {
           "title": "“人工智能+”走向智能经济新形态",
           "url": "https://www.toutiao.com/trending/7636674300020015155/",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 03时23分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -35,6 +24,17 @@
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 03时23分]"
+        },
+        {
+          "title": "据日经新闻：软银集团正考虑在英伟达、富士康等企业的协助下，于本十年末前开始设计和组装自主研发的人工智能服务器部件。",
+          "url": "https://flash.jin10.com/detail/20260508010849670800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -56,11 +56,12 @@
           "url": "https://wallstreetcn.com/livenews/3100130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 03时23分]"
         }
       ]
     }
