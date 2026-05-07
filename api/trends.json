@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T18:59:08.569739+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2026-05-07T20:28:18.704298+08:00",
+  "total_titles_processed": 1406,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时11分 ~ 18时59分]"
+          "appearance_count": 4,
+          "time_info": "[16时11分 ~ 20时28分]"
         },
         {
           "title": "据CNBC：随着苹果(AAPL.O)加大对人工智能的投资力度，截至三月当季，苹果(AAPL.O)的研发支出占营收的比例达到10.3%。",
