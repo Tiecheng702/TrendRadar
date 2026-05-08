@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T09:51:12.886267+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-05-08T12:47:40.580884+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 09时51分]"
+          "appearance_count": 9,
+          "time_info": "[01时32分 ~ 12时47分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -85,6 +85,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 03时23分]"
+        },
+        {
+          "title": "法拉第未来：FF AI-Robotics与波士顿国际商学院（BIBS）达成战略合作，共同成立BIBS–FF AI Robotics Institute，这是美国首个由产业驱动的实体人工智能与机器人研究所。",
+          "url": "https://flash.jin10.com/detail/20260508121027450800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508114512303800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时47分"
         }
       ]
     },
@@ -99,7 +121,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
