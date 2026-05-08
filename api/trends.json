@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T12:47:40.580884+08:00",
-  "total_titles_processed": 951,
+  "generated_at": "2026-05-08T14:35:42.642210+08:00",
+  "total_titles_processed": 1073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时32分 ~ 12时47分]"
+          "appearance_count": 10,
+          "time_info": "[01时32分 ~ 14时35分]"
         },
         {
           "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
@@ -93,9 +93,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "印度外交部：外交部长与阿联酋国际合作国务部长和法国欧洲与外交事务部秘书长于2026年5月7日在阿布扎比参加了印度-阿联酋-法国三方会议。 会议讨论了在人工智能、太空和文化遗产领域的战略合作。各方一致同意以结构化方式推进三方合作。",
+          "url": "https://flash.jin10.com/detail/20260508140704728800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-05-08）",
@@ -104,7 +115,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
