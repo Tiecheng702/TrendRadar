@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T01:41:35.923215+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-05-11T02:43:40.200314+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时41分]"
+        },
+        {
+          "title": "乌克兰亚速旅称，该部队利用人工智能辅助无人机对俄控马里乌波尔纵深地区实施了打击，命中前线后方160公里处的目标。亚速旅表示，这是对该城的象征性“回归”。",
+          "url": "https://flash.jin10.com/detail/20260511014908913800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     }
