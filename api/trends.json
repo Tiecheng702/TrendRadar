@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T19:41:45.524274+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-05-10T20:50:18.018765+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             8,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 19时41分]"
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 20时50分]"
         },
         {
           "title": "上海科创基金总裁杨斌：人工智能带来的不仅是技术层面的迭代 而是生产要素的革命性重构",
