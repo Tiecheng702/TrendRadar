@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T04:24:28.689043+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-05-13T06:02:00.217655+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时17分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时17分 ~ 06时02分]"
         },
         {
           "title": "汤森路透（Thomson Reuters）一度跌超过5%，该公司正将Anthropic的Claude整合至其人工智能法律工具CoCounsel Legal中。",
@@ -25,7 +25,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
