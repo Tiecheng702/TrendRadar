@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T13:42:30.408891+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-05-14T16:37:53.119833+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美联储Collins：一直预期生产率将持续增长，且这不仅仅是由人工智能（A.I.）驱动的。 失业率仍保持在相对较低的水平。 近期发生了一系列供应冲击，目前正密切关注供应端问题。 美联储的通胀目标涵盖了所有驱动价格的因素。 强劲的生产率增长应有助于减轻通胀压力。",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "鸿海高管：美国将逐渐成为鸿海最大的人工智能服务器业务枢纽。",
+          "url": "https://flash.jin10.com/detail/20260514160939891800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "市场消息：马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，阿波罗与摩根士丹利已开始在内部使用Grok，并与其他人工智能模型制造商的软件一起使用。",
