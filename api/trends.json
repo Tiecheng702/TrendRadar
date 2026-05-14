@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T06:54:47.846791+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-05-15T07:45:29.032308+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "李想",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "李想建议所有公司不裁人，称理想不会主动裁员，裁人很容易把最好的人裁掉，怎样看待他的观点？",
+          "url": "https://www.zhihu.com/question/2038205305222321658",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         }
       ]
     }
