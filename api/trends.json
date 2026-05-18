@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T06:02:58.795995+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-05-19T07:54:56.697258+08:00",
+  "total_titles_processed": 621,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 06时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 07时54分]"
         },
         {
           "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
@@ -91,7 +91,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
