@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T14:42:59.233984+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-05-18T18:55:07.552507+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "理想汽车",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "恒指日内跌幅扩大至1%，恒生科技指数跌1.6%。零跑汽车、理想汽车跌超8%。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "恒指收跌1.11% 理想汽车跌超14%",
+          "url": "https://www.baidu.com/s?wd=%E6%81%92%E6%8C%87%E6%94%B6%E8%B7%8C1.11%25+%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%B7%8C%E8%B6%8514%25",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "香港恒生指数开盘下跌0.48%，报25838.96点；恒生科技指数跌0.88%。理想汽车跌超4%，零跑汽车跌超3%。",
@@ -65,7 +76,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
