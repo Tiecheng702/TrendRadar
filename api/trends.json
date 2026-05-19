@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T02:32:10.399404+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-20T04:23:25.465875+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时23分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -28,8 +28,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时23分]"
         },
         {
           "title": "耐克(NKE.N)：美国消费者将能够通过Gemini应用程序和谷歌搜索中的人工智能模式直接发现并购买耐克产品。",
@@ -38,9 +38,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "消息人士：Meta提议向竞争对手的人工智能聊天机器人提供有限的免费WhatsApp访问权限，竞争对手在向用户发送消息达到上限时将被收取费用。",
+          "url": "https://flash.jin10.com/detail/20260520031330087800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         },
         {
           "title": "IBM(IBM.N)宣布扩大其人工智能企业安全计划，并与Anthropic合作。",
@@ -60,9 +71,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
+          "url": "https://flash.jin10.com/detail/20260520024925231800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时23分"
         }
       ]
     },
@@ -75,11 +97,12 @@
           "url": "https://www.zhihu.com/question/2039753147992781785",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 02时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 04时23分]"
         }
       ]
     }
