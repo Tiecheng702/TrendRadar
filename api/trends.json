@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T14:38:46.661999+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2026-05-19T18:31:10.416109+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时23分 ~ 10时02分]"
+        },
+        {
+          "title": "外交部：中美同意开展人工智能政府间对话",
+          "url": "https://www.cls.cn/detail/2375378",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
+        },
+        {
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
@@ -113,7 +135,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
