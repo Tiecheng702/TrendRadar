@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T18:31:10.416109+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-05-19T21:48:29.885811+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -23,11 +23,23 @@
           "url": "https://www.cls.cn/detail/2375378",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 21时48分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -37,8 +49,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 21时48分]"
         },
         {
           "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
@@ -52,6 +64,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "微软(MSFT.O)推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。",
+          "url": "https://flash.jin10.com/detail/20260519212220088800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "戴尔：人工智能解决方案将持续提供至2026年。",
           "url": "https://flash.jin10.com/detail/20260519010958023800",
           "source": "金十数据",
@@ -61,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "微软推出新款Surface设备，专注于商业和人工智能提升。新设备搭载英特尔处理器。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3106087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "戴尔：Reflection的开源前沿人工智能模型将于戴尔AI工厂上线。",
@@ -143,7 +177,7 @@
     },
     {
       "keyword_group": "理想汽车",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 理想汽车跌近10%",
@@ -155,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "理想汽车跌超 14%，新款 L9Livis 高价与净利下滑引关注，如何看待其股价大跌？",
+          "url": "https://www.zhihu.com/question/2039753147992781785",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     }
