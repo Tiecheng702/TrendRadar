@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T07:53:40.002785+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-05-20T10:02:17.671815+08:00",
+  "total_titles_processed": 802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 10时02分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -26,11 +27,12 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 10时02分]"
         },
         {
           "title": "耐克(NKE.N)：美国消费者将能够通过Gemini应用程序和谷歌搜索中的人工智能模式直接发现并购买耐克产品。",
@@ -116,9 +118,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：通过与新加坡政府建立新的国家人工智能合作伙伴关系，加大在新加坡的人工智能投资。",
+          "url": "https://flash.jin10.com/detail/20260520093335274800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
