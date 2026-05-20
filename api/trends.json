@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T00:43:39.367632+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-21T03:11:53.381670+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时11分]"
         },
         {
           "title": "谷歌推出通用商业协议功能和零售商人工智能工具。",
