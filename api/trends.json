@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T10:02:17.671815+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-05-20T14:44:23.461063+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             8,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 10时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 14时44分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -28,11 +29,12 @@
             16,
             17,
             18,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 10时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时43分 ~ 14时44分]"
         },
         {
           "title": "耐克(NKE.N)：美国消费者将能够通过Gemini应用程序和谷歌搜索中的人工智能模式直接发现并购买耐克产品。",
@@ -129,7 +131,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
