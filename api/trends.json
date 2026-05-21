@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T02:50:58.104511+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-05-22T04:29:19.052313+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
@@ -19,13 +19,24 @@
           "time_info": "00时33分"
         },
         {
+          "title": "消息人士：内部消息称，星巴克终止旨在解决产品短缺的人工智能项目。",
+          "url": "https://flash.jin10.com/detail/20260522025524231800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
           "title": "美联储巴尔金：就人工智能的短期与长期影响得出结论很困难。",
           "url": "https://flash.jin10.com/detail/20260522020549910800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -84,11 +95,12 @@
           "url": "https://www.zhihu.com/question/2039753147992781785",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时50分 ~ 04时29分]"
         }
       ]
     }
