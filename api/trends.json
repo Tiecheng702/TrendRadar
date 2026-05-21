@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T18:29:09.346762+08:00",
-  "total_titles_processed": 1144,
+  "generated_at": "2026-05-21T21:52:46.239431+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -66,6 +66,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "市场消息：英特尔推出SuperClaw混合式代理型人工智能解决方案。",
+          "url": "https://flash.jin10.com/detail/20260521211243348800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：包含人工智能新型云业务的新报告板块增速将超过超大规模数据中心子板块。",
           "url": "https://flash.jin10.com/detail/20260521055614526800",
           "source": "金十数据",
@@ -86,6 +97,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "微软(MSFT.O)盘前涨近2%，消息称Anthropic正在与微软洽谈使用其人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260521210428927800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "据The Information：Anthropic、微软关于人工智能芯片的谈判处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260521210337239800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "报道：白宫向人工智能公司介绍审查AI模型的行政令",
@@ -130,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时13分"
+        },
+        {
+          "title": "据The Information：Anthropic正在与微软(MSFT.O)洽谈使用其人工智能芯片。MAIA 200在某些推理任务中比英伟达芯片更具成本优势。Anthropic正在增加其Azure服务器租赁。",
+          "url": "https://flash.jin10.com/detail/20260521210207270800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "山东：到2028年全省人工智能产业营业收入突破2500亿元、占全国比重超过10%",
