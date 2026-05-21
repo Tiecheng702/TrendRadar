@@ -1,212 +1,44 @@
 {
-  "generated_at": "2026-05-21T21:52:46.239431+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-05-22T00:33:07.433781+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时43分 ~ 14时13分]"
-        },
-        {
-          "title": "马斯克：我们正在与其他公司讨论开展同样的合作。随着时间的推移，特别是借助轨道数据中心，我们预计将以极高的规模提供人工智能服务。",
-          "url": "https://flash.jin10.com/detail/20260521063704751800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
-          "url": "https://flash.jin10.com/detail/20260521063630853800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "SpaceX：预计最早将在2028年开始部署轨道人工智能计算卫星。 计划在月球和火星建立制造基础设施。 公司将把融资用于AI计算、基础设施、发射卫星等。",
-          "url": "https://wallstreetcn.com/livenews/3106928",
+          "title": "微软推出必应图像搜索。 微软对其推出由人工智能（AI）引导的升级。",
+          "url": "https://wallstreetcn.com/livenews/3107538",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "SpaceX：计划在月球和火星建立制造基础设施。预计最早将在2028年开始部署轨道人工智能计算卫星。",
-          "url": "https://flash.jin10.com/detail/20260521045533791800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "市场消息：英特尔推出SuperClaw混合式代理型人工智能解决方案。",
-          "url": "https://flash.jin10.com/detail/20260521211243348800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "00时33分"
         },
         {
-          "title": "英伟达CEO黄仁勋：包含人工智能新型云业务的新报告板块增速将超过超大规模数据中心子板块。",
-          "url": "https://flash.jin10.com/detail/20260521055614526800",
+          "title": "据日经新闻：川崎重工将与英伟达合作开展物理人工智能，并在美国开设机器人中心。英伟达的仿真技术将应用于川崎重工的Corleo。除了英伟达，川崎重工将与微软和富士通在美国中心合作。川崎重工与英伟达的合作将初步聚焦于医疗和移动领域。",
+          "url": "https://flash.jin10.com/detail/20260521233812388800",
           "source": "金十数据",
           "ranks": [
-            13
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "00时33分"
         },
         {
-          "title": "英伟达CEO黄仁勋：从长远来看，人工智能的经济格局将发生转变，而“第二阵营（Second category）”——这是他对超大规模云服务商（Hyperscalers）之外的 AI 技术应用的全新称呼——规模将会变得庞大得多。 “我同时寄希望于在未来的五年内，物理 AI（Physical AI）与机器人细分领域能够迎来令人难以置信的爆发式增长。”",
-          "url": "https://wallstreetcn.com/livenews/3106957",
+          "title": "白宫推迟美国总统特朗普的人工智能（AI）行政命令的签字仪式。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3107523",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "微软(MSFT.O)盘前涨近2%，消息称Anthropic正在与微软洽谈使用其人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20260521210428927800",
-          "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "据The Information：Anthropic、微软关于人工智能芯片的谈判处于早期阶段。",
-          "url": "https://flash.jin10.com/detail/20260521210337239800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "报道：白宫向人工智能公司介绍审查AI模型的行政令",
-          "url": "https://wallstreetcn.com/livenews/3106911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3106951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
-          "title": "SpaceX第一季度人工智能部门收入为8.18亿美元。",
-          "url": "https://flash.jin10.com/detail/20260521044706973800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "阿联酋阿布扎比国家石油公司ADNOC：公司正投资1500亿美元，旨在满足全球能源需求，其中包括推动人工智能、先进制造、物流及工业领域的内部增长。",
-          "url": "https://flash.jin10.com/detail/20260521134531920800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "据The Information：Anthropic正在与微软(MSFT.O)洽谈使用其人工智能芯片。MAIA 200在某些推理任务中比英伟达芯片更具成本优势。Anthropic正在增加其Azure服务器租赁。",
-          "url": "https://flash.jin10.com/detail/20260521210207270800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "山东：到2028年全省人工智能产业营业收入突破2500亿元、占全国比重超过10%",
-          "url": "https://wallstreetcn.com/livenews/3107159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        },
-        {
-          "title": "谷歌推出通用商业协议功能和零售商人工智能工具。",
-          "url": "https://flash.jin10.com/detail/20260521000514109800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "谷歌(GOOG.O)将在人工智能模式中推出更有帮助的广告。",
-          "url": "https://flash.jin10.com/detail/20260521000207884800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "00时33分"
         }
       ]
     }
