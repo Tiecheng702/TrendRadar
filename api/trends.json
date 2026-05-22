@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T14:38:10.691703+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-22T18:14:35.826990+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2378704",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 18时14分]"
         },
         {
           "title": "AMD首席执行官苏姿丰：下一波重大趋势将是物理人工智能，包括机器人技术。",
