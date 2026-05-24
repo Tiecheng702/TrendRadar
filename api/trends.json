@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T05:44:13.136740+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-05-25T06:45:24.851248+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 05时44分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 06时45分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
