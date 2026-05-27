@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-27T08:04:10.009501+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2026-05-27T13:08:11.754168+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
+          "url": "https://www.cls.cn/detail/2382543",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
