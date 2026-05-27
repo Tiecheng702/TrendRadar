@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-28T00:32:17.969798+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-28T03:12:34.665029+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
+          "url": "https://flash.jin10.com/detail/20260528020659080800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
