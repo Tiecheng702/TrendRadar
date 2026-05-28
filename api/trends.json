@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T04:02:34.829293+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-29T06:25:38.965045+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "两部门联手 系统布局人工智能计量能力建设",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时25分]"
         },
         {
           "title": "美联储巴尔金：一些与人工智能相关的领域正在显示出通胀压力。",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "戴尔(DELL.N)首席财务官：剔除人工智能组合的影响，我们的毛利率展望比上个季度更好；预计全年毛利率将继续扩张。",
+          "url": "https://flash.jin10.com/detail/20260529045007402800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "美国财长贝森特：（关于人工智能行政令）与人工智能实验室紧密合作寻找解决方案。",
@@ -58,9 +69,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "戴尔(DELL.N)首席运营官杰夫·克拉克：公司的人工智能工厂客户数量超过5000家，涵盖新云、主权客户和企业客户的增长。",
+          "url": "https://flash.jin10.com/detail/20260529044426783800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     }
