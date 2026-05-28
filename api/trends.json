@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-28T09:50:10.531683+08:00",
-  "total_titles_processed": 715,
-  "failed_sources": [],
+  "generated_at": "2026-05-28T14:02:23.333362+08:00",
+  "total_titles_processed": 903,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "人工智能成外贸增长新引擎",
+          "url": "https://www.douyin.com/hot/2514888",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时00分 ~ 14时02分]"
+        },
         {
           "title": "据科技媒体TechCrunch：Meta公司推出Instagram、Facebook和WhatsApp订阅服务，未来还将推出更多，包括人工智能计划。",
           "url": "https://flash.jin10.com/detail/20260528020659080800",
