@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T01:31:56.098169+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-29T04:02:34.829293+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
           "title": "两部门联手 系统布局人工智能计量能力建设",
@@ -15,8 +15,52 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 04时02分]"
+        },
+        {
+          "title": "美联储巴尔金：一些与人工智能相关的领域正在显示出通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260529032636089800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国财长贝森特：美国是人工智能超级大国。",
+          "url": "https://flash.jin10.com/detail/20260529023734256800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国财长贝森特：正在通过人工智能行政令平衡创新与安全。",
+          "url": "https://flash.jin10.com/detail/20260529023634763800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "美国财长贝森特：（关于人工智能行政令）与人工智能实验室紧密合作寻找解决方案。",
+          "url": "https://flash.jin10.com/detail/20260529023622748800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         }
       ]
     }
