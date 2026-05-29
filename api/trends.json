@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-05-30T02:01:59.983823+08:00",
-  "total_titles_processed": 309,
-  "failed_sources": [
-    "thepaper"
-  ],
+  "generated_at": "2026-05-30T04:22:30.864848+08:00",
+  "total_titles_processed": 384,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
@@ -16,7 +14,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -27,7 +25,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -38,7 +36,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -49,7 +47,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -60,7 +58,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
