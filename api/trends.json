@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T05:49:36.168255+08:00",
-  "total_titles_processed": 450,
+  "generated_at": "2026-05-31T06:45:43.529025+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 05时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 06时45分]"
         },
         {
           "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
@@ -26,11 +27,12 @@
           "ranks": [
             2,
             10,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时57分 ~ 05时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时57分 ~ 06时45分]"
         },
         {
           "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
@@ -38,11 +40,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时49分]"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时45分]"
         },
         {
           "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
