@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T07:51:05.707212+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-05-31T10:08:07.823613+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             2,
             17,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时54分 ~ 07时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 10时08分]"
         },
         {
           "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
