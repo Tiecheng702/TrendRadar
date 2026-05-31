@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-06-01T06:46:23.882982+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-06-01T07:55:28.260023+08:00",
+  "total_titles_processed": 532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
           "url": "https://flash.jin10.com/detail/20260601062043762800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时55分]"
+        },
+        {
+          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
+          "url": "https://wallstreetcn.com/livenews/3111994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时55分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
