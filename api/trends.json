@@ -1,88 +1,22 @@
 {
-  "generated_at": "2026-05-31T23:09:33.749362+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-06-01T00:54:22.891522+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
-          "title": "面向超大规模药物发现的人工智能虚拟筛选平台——GalaxyVS正式发布",
-          "url": "https://wallstreetcn.com/livenews/3111833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 10时08分]"
-        },
-        {
-          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
-          "url": "https://flash.jin10.com/detail/20260531024909031800",
+          "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
+          "url": "https://flash.jin10.com/detail/20260531234826092800",
           "source": "金十数据",
           "ranks": [
-            2,
-            10,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时57分 ~ 07时51分]"
-        },
-        {
-          "title": "国家数据局局长刘烈宏：高质量数据集是人工智能发展的核心基础",
-          "url": "https://flash.jin10.com/detail/20260531133605275800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "北京推动“人工智能+文旅”发展，长城等将试点应用具身智能设备",
-          "url": "https://wallstreetcn.com/livenews/3111877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时46分 ~ 19时25分]"
-        },
-        {
-          "title": "软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施",
-          "url": "https://flash.jin10.com/detail/20260531031045565800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时02分 ~ 07时51分]"
-        },
-        {
-          "title": "撬动创新药开发 人工智能虚拟筛选平台在天津发布",
-          "url": "https://flash.jin10.com/detail/20260530215645145800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 01时56分]"
+          "time_info": "00时54分"
         }
       ]
     }
