@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T22:47:56.217517+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2026-06-02T03:50:33.678561+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
           "title": "大力推进人工智能+能源融合发展",
@@ -14,99 +14,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时47分"
+          "time_info": "03时50分"
         },
         {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://www.cls.cn/detail/2386515",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 16时21分]"
-        },
-        {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://flash.jin10.com/detail/20260601062043762800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时55分]"
-        },
-        {
-          "title": "人民日报钟声：推动人工智能成为中美合作的新疆域",
-          "url": "https://wallstreetcn.com/livenews/3111994",
+          "title": "OpenAI在一份声明中针对美国佛罗里达州公诉人的指控表示，它已经为年轻用户制定了保障措施，包括“更具保护性的体验”以及允许父母监控孩子如何使用该工具的工具。 OpenAI表示：“人工智能是一项全新的、强大的技术，我们相信未成年人需要重大的保护，这就是为什么我们实施了行业领先的保护措施和政策。我们深知，仅仅指出这些工作并不能让逝去的孩子复生，但我们致力于将这项工作做好。”",
+          "url": "https://wallstreetcn.com/livenews/3112620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "03时50分"
         },
         {
-          "title": "阿波罗资产管理公司经济学家：目前尚无证据表明人工智能正在取代就业岗位。",
-          "url": "https://flash.jin10.com/detail/20260601094242599800",
+          "title": "OpenAI创始人奥尔特曼：人们对人工智能感到焦虑是合理的。",
+          "url": "https://flash.jin10.com/detail/20260602024250472800",
           "source": "金十数据",
           "ranks": [
-            7
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘前上涨近2%，此前公司推出PC芯片，将人工智能直接带入个人电脑。",
-          "url": "https://flash.jin10.com/detail/20260601160339366800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "富士康：富士康与法国先进计算与人工智能公司Bull合作，扩大欧洲人工智能基础设施的制造能力。为在法国实施这一战略部署，该项目预计初始投资将超过1.2亿欧元。",
-          "url": "https://flash.jin10.com/detail/20260601160250992800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时21分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
-          "url": "https://flash.jin10.com/detail/20260531234826092800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "日本将加入美国政府旨在推动科学研究创新的“创世纪计划”人工智能项目。日本将在五年内对该美国主导的项目投资5亿美元，成为首个参与国。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3112046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "03时50分"
         }
       ]
     }
