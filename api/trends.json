@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-03T04:44:35.589322+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-06-03T06:54:58.917181+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "据AXIOS：美国两党议员共同提出一项法案，旨在为视觉艺术家提供法律保护，防止未经许可的商业人工智能生成的作品模仿行为。",
+          "url": "https://flash.jin10.com/detail/20260603063717778800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
         {
           "title": "微软宣布启动“Project Solara”项目，该项目中的芯片将运行人工智能代理而非应用程序，并直接与云计算数据中心进行通信。",
           "url": "https://flash.jin10.com/detail/20260603012121311800",
@@ -25,7 +36,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         },
@@ -75,7 +86,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
         }
