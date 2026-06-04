@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-05T03:12:09.066528+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-06-05T05:22:19.326704+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据华尔街日报：Anthropic呼吁全球暂停人工智能发展，并警示人工智能模型正接近能够在没有人类干预的情况下“自我进化”风险。",
+          "url": "https://flash.jin10.com/detail/20260605044355670800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时22分"
+        },
         {
           "title": "美联储戴利：尚未发现人工智能投资引发金融稳定方面的担忧。",
           "url": "https://flash.jin10.com/detail/20260604234543146800",
