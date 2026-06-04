@@ -1,66 +1,44 @@
 {
-  "generated_at": "2026-06-04T20:36:58.245233+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-06-05T00:16:10.493468+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "博通首席执行官：第二季度非人工智能半导体收入增长6%。",
-          "url": "https://flash.jin10.com/detail/20260604052445015800",
+          "title": "美联储戴利：尚未发现人工智能投资引发金融稳定方面的担忧。",
+          "url": "https://flash.jin10.com/detail/20260604234543146800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "博通首席执行官：仍预计2027财年人工智能半导体收入将超过1000亿美元，人工智能半导体收入将在2028财年继续增长。",
-          "url": "https://flash.jin10.com/detail/20260604052421958800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "博通首席执行官：预计2026财年人工智能半导体收入将达到560亿美元。",
-          "url": "https://flash.jin10.com/detail/20260604051008094800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "标普全球推出由智能代理式人工智能驱动的信贷备忘录生成工具。",
-          "url": "https://flash.jin10.com/detail/20260604200702000800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美联储戴利：对人工智能持乐观态度，明年将成为检验行业发展方向的关键时期。",
+          "url": "https://flash.jin10.com/detail/20260604234526396800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美联储戴利：尚未在数据中看到人工智能带来的生产力提升。",
+          "url": "https://flash.jin10.com/detail/20260604234333177800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     }
