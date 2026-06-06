@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T00:57:21.820750+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-07T02:01:58.820738+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -12,44 +12,48 @@
           "url": "https://flash.jin10.com/detail/20260607003735471800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 02时01分]"
         },
         {
           "title": "据The Information报道，白宫人工智能高级政策顾问克里希南将离职。",
           "url": "https://flash.jin10.com/detail/20260607002909708800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 02时01分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
           "url": "https://flash.jin10.com/detail/20260607002708297800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 02时01分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时57分"
+          "appearance_count": 2,
+          "time_info": "[00时57分 ~ 02时01分]"
         },
         {
           "title": "阿斯麦(ASML.O)：埃隆·马斯克将在公司虚拟技术会议上发言，马斯克将讨论TERAFAB项目、人工智能愿景及芯片制造。",
