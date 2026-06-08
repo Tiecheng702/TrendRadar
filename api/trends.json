@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-09T00:43:29.251223+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-09T03:13:59.847938+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
           "url": "https://www.cls.cn/detail/2393777",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 03时13分]"
         },
         {
           "title": "意大利竞争管理局结束了对Meta Platforms(META.O)关于WhatsApp人工智能聊天机器人的调查。",
@@ -28,6 +29,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国科技记者古尔曼：尽管这次发布并没有带来颠覆性的创新，但苹果(AAPL.O)刚刚通过实用的人工智能功能、真正能够发挥作用的Siri以及性能提升，重新构建了其各大平台的基础架构。考虑到未来三年将有一系列重磅新设备搭载这些操作系统，这一点至关重要。这是一个正确的决定。",
+          "url": "https://flash.jin10.com/detail/20260609021907222800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "OpenAI：研究人员将与OpenAI经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
+          "url": "https://flash.jin10.com/detail/20260609020813269800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
