@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-06-09T20:31:14.917844+08:00",
-  "total_titles_processed": 1273,
-  "failed_sources": [
-    "jin10"
-  ],
+  "generated_at": "2026-06-09T23:50:25.424839+08:00",
+  "total_titles_processed": 1455,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
@@ -53,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "摩根大通计划今年部署更强大的人工智能代理",
+          "url": "https://flash.jin10.com/detail/20260609232435076800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "OpenAI：研究人员将与OpenAI经济研究团队合作，就人工智能如何影响劳动者、企业、机构及更广泛的经济体系提供实证分析。",
