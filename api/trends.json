@@ -1,88 +1,22 @@
 {
-  "generated_at": "2026-06-10T22:15:39.657802+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-06-11T01:49:40.035336+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
           "url": "https://www.cls.cn/detail/2396287",
           "source": "财联社热门",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
-          "url": "https://flash.jin10.com/detail/20260610044447360800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "2026 年高考志愿填报，孩子应该选择电气、能动、机械、医学、计算机、还是火爆的人工智能？",
-          "url": "https://www.zhihu.com/question/2045653689407477325",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "清华大学（计算机系）—软通计算机有限公司人工智能系统联合研究中心成立",
-          "url": "https://flash.jin10.com/detail/20260610141603354800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "针对美国AI标准与创新中心，白宫要求Caisi停止披露公共报告。 Caisi被要求暂停披露关于AI模型评估的信息。 这反映白宫正加强对人工智能模型的管控。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3117045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "路透社/益普索调查显示，53%的美国人担心人工智能可能使家庭成员失业。",
-          "url": "https://flash.jin10.com/detail/20260610180112777800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
-          "url": "https://flash.jin10.com/detail/20260610055143921800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "time_info": "01时49分"
         }
       ]
     }
