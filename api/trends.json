@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T14:56:37.032689+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-06-10T18:48:02.750981+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "市场消息：白宫人工智能政策顾问托马斯·林德（Thomas Lind）即将离职。",
@@ -36,7 +36,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "路透社/益普索调查显示，53%的美国人担心人工智能可能使家庭成员失业。",
+          "url": "https://flash.jin10.com/detail/20260610180112777800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "据华尔街日报：特朗普政府要求人工智能测试机构停止发布公开报告，反映白宫正加强对人工智能模型的管控。",
