@@ -1,73 +1,22 @@
 {
-  "generated_at": "2026-06-11T22:02:32.267264+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-06-12T01:36:42.762791+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时49分 ~ 08时07分]"
-        },
-        {
-          "title": "凯雷集团CFO：我们需要招聘初级员工，人工智能无法完成所有工作。",
-          "url": "https://flash.jin10.com/detail/20260611030125378800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "凯雷集团CFO：人工智能将显著影响未来的投资过程，但我不会说目前已经达到这一阶段。",
-          "url": "https://flash.jin10.com/detail/20260611030121066800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "Anthropic首席执行官阿莫代伊：政府应当有权叫停新人工智能模型的发布。",
-          "url": "https://flash.jin10.com/detail/20260611023504794800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
       "match_count": 1,
       "titles": [
         {
-          "title": "造谣理想汽车涉事机构公开道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%80%A0%E8%B0%A3%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E6%B6%89%E4%BA%8B%E6%9C%BA%E6%9E%84%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
+          "url": "https://flash.jin10.com/detail/20260612003327546800",
+          "source": "金十数据",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 1,
+          "time_info": "01时36分"
         }
       ]
     }
