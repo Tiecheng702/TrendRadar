@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T13:19:52.030658+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-06-11T18:02:30.725674+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "理想汽车",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "造谣理想汽车涉事机构公开道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%A0%E8%B0%A3%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E6%B6%89%E4%BA%8B%E6%9C%BA%E6%9E%84%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时01分 ~ 18时02分]"
         }
       ]
     }
