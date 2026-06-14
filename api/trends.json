@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T07:56:44.808420+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-06-14T10:32:06.491421+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 07时56分]"
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 10时32分]"
         },
         {
           "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
