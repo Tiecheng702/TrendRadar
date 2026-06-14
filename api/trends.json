@@ -1,38 +1,7 @@
 {
-  "generated_at": "2026-06-14T23:04:21.145334+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-06-15T01:07:16.824538+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据The Information：美国政府不太可能将对Anthropic的出口管制扩展至其他人工智能公司。",
-          "url": "https://flash.jin10.com/detail/20260614041529668800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时01分 ~ 10时32分]"
-        },
-        {
-          "title": "欧洲理事会主席科斯塔：刚刚与苹果公司CEO蒂姆·库克就儿童网络安全、人工智能及创新议题进行了富有成效的交谈。",
-          "url": "https://flash.jin10.com/detail/20260614004325694800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
