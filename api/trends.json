@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T14:22:21.278050+08:00",
-  "total_titles_processed": 867,
+  "generated_at": "2026-06-16T20:02:48.742676+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "法国总理勒科尔尼：法国计划在人工智能领域追加投资6.55亿欧元。",
@@ -14,9 +14,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
