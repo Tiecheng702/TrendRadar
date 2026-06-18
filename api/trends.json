@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T07:15:40.577167+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-06-18T10:30:05.597908+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国正加紧筹建世界人工智能合作组织",
@@ -13,11 +13,23 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[01时42分 ~ 10时30分]"
+        },
+        {
+          "title": "国家发改委、人社部：适应人工智能发展促进就业创业 挖掘新兴领域吸纳就业潜能",
+          "url": "https://flash.jin10.com/detail/20260618101636372800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时30分"
         },
         {
           "title": "据英国金融时报：Anthropic首席执行官呼吁G7领导人“抵制分裂人工智能的诱惑”。",
