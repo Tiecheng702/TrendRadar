@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T21:23:06.113454+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-06-20T23:28:00.157588+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时22分 ~ 21时23分]"
+          "appearance_count": 4,
+          "time_info": "[21时22分 ~ 23时28分]"
         },
         {
           "title": "挪威将禁止小学生使用生成式人工智能",
