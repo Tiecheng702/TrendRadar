@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-20T19:50:44.724240+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-06-20T21:23:06.113454+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415864",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时22分 ~ 21时23分]"
+        },
         {
           "title": "挪威将禁止小学生使用生成式人工智能",
           "url": "https://flash.jin10.com/detail/20260620160408389800",
