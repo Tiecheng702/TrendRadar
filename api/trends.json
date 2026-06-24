@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T10:02:03.480680+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-06-24T14:07:28.169006+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "Meta Platforms(META.O)：（关于美国政府人工智能审查）在我们处理细节的同时，希望尽快签署协议。",
@@ -60,9 +60,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：谷歌(GOOG.O)向三家日本大银行提供最新人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260624134122531800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：与Alphabet(GOOG.O)高管进行了会面，讨论前沿人工智能。",
+          "url": "https://flash.jin10.com/detail/20260624134053486800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         },
         {
           "title": "周二（6月23日），美股人工智能（AI）赢家指数跌6.74%，报431.58点，跳空低开后持续低位窄幅震荡，成分股Fluence Energy、闪迪、美光跌15.80%-13.18%领跌，在收涨的四只成分股中，微软涨1.8%，戴尔科技涨2.17%。",
@@ -82,7 +104,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         }
