@@ -1,75 +1,22 @@
 {
-  "generated_at": "2026-06-26T21:03:12.994096+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-06-27T00:06:36.267861+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美联储威廉姆斯：通胀水平“无疑处于高位，且远超”目标，这反映了关税、能源价格以及人工智能（AI）相关科技产品需求的影响。",
-          "url": "https://flash.jin10.com/detail/20260626034529365800",
-          "source": "金十数据",
+          "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
+          "url": "https://wallstreetcn.com/livenews/3125392",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "《人工智能 智能体互联》系列7项国家标准发布",
-          "url": "https://wallstreetcn.com/livenews/3125180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
-          "url": "https://flash.jin10.com/detail/20260626040729452800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "理想汽车",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "理想汽车刘杰称不认同「增程的尽头是纯电」，这一观点有何深层考量？",
-          "url": "https://www.zhihu.com/question/2052889075842076856",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 07时06分]"
-        },
-        {
-          "title": "港股汽车股多数下跌，北京汽车(01958.HK)、蔚来-SW(09866.HK)跌超5%，零跑汽车(09863.HK)跌超4%，比亚迪股份(01211.HK)跌超3%，理想汽车(02015.HK)跌近3%。",
-          "url": "https://flash.jin10.com/detail/20260626093238547800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "00时06分"
         }
       ]
     }
