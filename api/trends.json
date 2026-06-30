@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T07:52:16.972147+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-06-30T10:04:52.755199+08:00",
+  "total_titles_processed": 795,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 07时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 10时04分]"
         },
         {
           "title": "据The Information：亚马逊(AMZN.O)正在评估其他人工智能模型，以应对不断上升的Anthropic成本。",
