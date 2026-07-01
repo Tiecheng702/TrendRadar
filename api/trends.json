@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T02:54:46.271291+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-07-02T04:45:27.648729+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
@@ -35,11 +35,12 @@
           "source": "微博",
           "ranks": [
             4,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 02时54分]"
+          "appearance_count": 3,
+          "time_info": "[00时14分 ~ 04时45分]"
         },
         {
           "title": "据华尔街日报：消息人士透露，SpaceX(SPCX.O)已开发一款类似手机的设备原型，旨在改变人们与人工智能的交互方式。SpaceX在IPO前夕向部分投资者展示了该原型机。",
@@ -48,7 +49,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
         },
