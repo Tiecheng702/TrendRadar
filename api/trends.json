@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T20:08:10.814107+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-07-02T23:03:57.006380+08:00",
+  "total_titles_processed": 1570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "人工智能冲击婚纱影楼",
@@ -29,7 +29,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时08分"
         },
@@ -109,6 +109,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "Anthropic据悉与三星洽谈定制人工智能芯片事宜",
+          "url": "https://flash.jin10.com/detail/20260702221853768800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
+        },
+        {
+          "title": "报道：Anthropic正与三星洽谈定制人工智能芯片",
+          "url": "https://wallstreetcn.com/livenews/3128092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时03分"
         }
       ]
     }
