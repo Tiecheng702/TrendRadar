@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:59:52.866208+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-07-02T20:08:10.814107+08:00",
+  "total_titles_processed": 1414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "人工智能冲击婚纱影楼",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 08时02分]"
+        },
+        {
+          "title": "美联储戴利：人工智能投资冲击引发人们担忧其是否会造成通胀。",
+          "url": "https://flash.jin10.com/detail/20260702200508653800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时08分"
         },
         {
           "title": "联合国秘书长呼吁各国加强人工智能治理",
