@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T18:57:48.022623+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-07-05T20:10:28.370903+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 18时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 20时10分]"
         },
         {
           "title": "鸿海：展望第三季度，人工智能机架出货量预计将保持增长。",
