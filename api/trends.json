@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-11T23:43:35.752867+08:00",
-  "total_titles_processed": 1491,
+  "generated_at": "2026-07-12T00:41:15.326349+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "当哈佛学生高喊「f*ckAI」，复旦学生已开始考 AI，这反映了东西方教育理念对人工智能的何种差异？",
-          "url": "https://www.zhihu.com/question/2057634712668082970",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
