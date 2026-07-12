@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-12T23:47:11.934188+08:00",
-  "total_titles_processed": 1357,
+  "generated_at": "2026-07-13T00:43:52.051053+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据福克斯新闻：人工智能连续第三个月成为美国裁员的主要原因。",
-          "url": "https://flash.jin10.com/detail/20260712090326604800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
