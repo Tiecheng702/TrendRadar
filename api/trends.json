@@ -1,37 +1,33 @@
 {
-  "generated_at": "2026-07-13T21:58:55.631546+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-07-14T00:24:58.056452+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时24分"
+        },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            13,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 21时58分]"
-        },
-        {
-          "title": "韩国总统李在明：将引导政府支持芯片、人工智能数据中心及物理人工智能这三大重点项目。",
-          "url": "https://flash.jin10.com/detail/20260713130702547800",
-          "source": "金十数据",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "00时24分"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -40,20 +36,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时58分"
-        },
-        {
-          "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33574538",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "00时24分"
         }
       ]
     }
