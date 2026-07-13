@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-07-13T09:26:57.280902+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-07-13T13:23:34.022474+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "韩国总统李在明：将引导政府支持芯片、人工智能数据中心及物理人工智能这三大重点项目。",
+          "url": "https://flash.jin10.com/detail/20260713130702547800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
           "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时26分 ~ 13时23分]"
         }
       ]
     }
