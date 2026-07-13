@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-13T07:41:50.017128+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-07-13T09:26:57.280902+08:00",
+  "total_titles_processed": 666,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
