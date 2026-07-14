@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-07-15T01:02:18.653430+08:00",
-  "total_titles_processed": 313,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-07-15T02:03:45.621765+08:00",
+  "total_titles_processed": 384,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
@@ -16,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -25,11 +23,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33574020",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时03分]"
+        },
+        {
+          "title": "据CNBC：苹果(AAPL.O)正在与PrismML洽谈，旨在缩小人工智能模型以便在iPhone上运行。",
+          "url": "https://flash.jin10.com/detail/20260715010740944800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "美联储理事巴尔将于十分钟后在美联储年度金融普惠会议上就人工智能发表讲话。",
@@ -38,7 +48,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -49,7 +59,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
