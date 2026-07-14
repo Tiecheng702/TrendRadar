@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T19:17:20.106039+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-07-14T21:03:01.356438+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时45分 ~ 21时03分]"
         },
         {
           "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
