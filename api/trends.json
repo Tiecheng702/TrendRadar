@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T15:02:52.566818+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-07-14T17:45:33.971470+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -53,6 +53,17 @@
           "time_info": "[05时43分 ~ 06时43分]"
         },
         {
+          "title": "孙正义：核聚变是人工智能未来的关键 15年后将取代天然气",
+          "url": "https://www.cls.cn/detail/2425710",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
           "url": "https://flash.jin10.com/detail/20260714041440304800",
           "source": "金十数据",
@@ -98,7 +109,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
