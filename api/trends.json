@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T02:03:45.621765+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-15T04:03:36.769945+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
@@ -24,11 +24,23 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时03分]"
+        },
+        {
+          "title": "美联储理事鲍曼：美联储不应在人工智能等新技术上过度干预银行",
+          "url": "https://flash.jin10.com/detail/20260715032619811800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时03分"
         },
         {
           "title": "据CNBC：苹果(AAPL.O)正在与PrismML洽谈，旨在缩小人工智能模型以便在iPhone上运行。",
@@ -37,7 +49,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         },
