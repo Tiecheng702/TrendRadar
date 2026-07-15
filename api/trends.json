@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T05:59:50.692221+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-07-16T06:57:31.961086+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时57分]"
         },
         {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
@@ -35,11 +35,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            12
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时57分]"
+        },
+        {
+          "title": "世界人工智能大会逛展攻略来了",
+          "url": "https://www.douyin.com/hot/2570881",
+          "source": "抖音",
+          "ranks": [
+            12,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时59分]"
+          "time_info": "[01时02分 ~ 06时57分]"
         },
         {
           "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "世界人工智能大会逛展攻略来了",
-          "url": "https://www.douyin.com/hot/2570881",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
         },
         {
           "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
