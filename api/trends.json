@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T19:20:08.997014+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-07-15T21:06:17.038600+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时06分]"
+        },
+        {
+          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
+          "url": "https://www.cls.cn/detail/2427185",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 21时06分]"
         },
         {
           "title": "哈萨克斯坦总统托卡耶夫抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
@@ -25,7 +37,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
@@ -54,27 +66,16 @@
           "time_info": "[01时01分 ~ 05时45分]"
         },
         {
-          "title": "“Apple智能”等7款提供手机端侧生成式人工智能服务已备案",
-          "url": "https://www.cls.cn/detail/2427185",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时20分]"
-        },
-        {
           "title": "DeepSeek首轮融资落地 腾讯、宁德时代、国家人工智能产业基金悉数入股",
           "url": "https://www.cls.cn/detail/2427193",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时06分]"
         },
         {
           "title": "美联储理事鲍曼：美联储不应在人工智能等新技术上过度干预银行",
@@ -138,7 +139,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
         },
