@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T21:15:06.882932+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2026-07-16T23:24:52.591019+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 28,
+      "match_count": 34,
       "titles": [
         {
           "title": "5张图看懂中国人工智能进化之路",
@@ -56,6 +56,17 @@
           "time_info": "[01时02分 ~ 12时49分]"
         },
         {
+          "title": "世界人工智能合作组织协定签署",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "MiniMax将携M3、H3等全模态模型及产品亮相世界人工智能大会",
           "url": "https://wallstreetcn.com/livenews/3135046",
           "source": "华尔街见闻-快讯",
@@ -78,6 +89,17 @@
           "time_info": "12时49分"
         },
         {
+          "title": "泰国总理阿努廷抵达上海，出席2026世界人工智能大会暨人工智能全球治理高级别会议",
+          "url": "https://wallstreetcn.com/livenews/3135167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
           "url": "https://flash.jin10.com/detail/20260716005829801800",
           "source": "金十数据",
@@ -98,6 +120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "解读29国在华签署人工智能相关协定",
+          "url": "https://flash.jin10.com/detail/20260716230947670800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
@@ -146,6 +179,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "泰国总理阿努廷抵达上海 出席2026世界人工智能大会暨人工智能全球治理高级别会议",
+          "url": "https://flash.jin10.com/detail/20260716230655555800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "习近平和彭丽媛为出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式的国际贵宾举行欢迎宴会。（央视）",
           "url": "https://wallstreetcn.com/livenews/3135034",
           "source": "华尔街见闻-快讯",
@@ -188,6 +232,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）：纽约州对人工智能工厂的禁令意味着收入减少。",
+          "url": "https://flash.jin10.com/detail/20260716230124414800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "英伟达(NVDA.O)：日本公司正在使用英伟达的Nemotron以构建人工智能模型。",
@@ -240,9 +295,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
+        },
+        {
+          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "天津：加强人工智能生成内容在广告领域研发应用",
@@ -273,7 +339,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -306,7 +372,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
