@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T07:50:03.694951+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2026-07-16T09:22:11.441877+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 07时50分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时22分]"
         },
         {
           "title": "美联储理事库克：有理由相信通胀将继续降温，但关税、中东冲突以及人工智能投资可能导致价格压力持续，仍存在相关风险。",
@@ -48,11 +49,12 @@
           "source": "抖音",
           "ranks": [
             12,
-            25
+            25,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 09时22分]"
         },
         {
           "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
@@ -72,7 +74,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -83,7 +85,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -94,7 +96,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
@@ -105,7 +107,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
