@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T12:52:56.099481+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-07-17T15:09:00.931931+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 12时52分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 15时09分]"
         },
         {
           "title": "经纬度：在上海，WAIC见证人工智能改变未来",
@@ -43,26 +43,16 @@
           "time_info": "[01时02分 ~ 09时25分]"
         },
         {
-          "title": "世界人工智能大会期间国家发展改革委发布2项重要成果",
-          "url": "https://wallstreetcn.com/livenews/3135478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
           "title": "2026世界人工智能大会有哪些不同",
           "url": "https://search.bilibili.com/all?keyword=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%90%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时09分]"
         },
         {
           "title": "世界人工智能大会今天开幕",
@@ -71,9 +61,54 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "直击世界人工智能大会现场",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "国家发改委发布《人工智能合作发展行动计划》",
+          "url": "https://www.cls.cn/detail/2429332",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时52分 ~ 15时09分]"
         },
         {
           "title": "国家发改委发布《人工智能合作发展行动计划》。",
@@ -82,7 +117,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -98,6 +133,18 @@
           "time_info": "02时07分"
         },
         {
+          "title": "世界人工智能大会期间国家发展改革委发布2项重要成果",
+          "url": "https://wallstreetcn.com/livenews/3135478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 15时09分]"
+        },
+        {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
           "url": "https://wallstreetcn.com/livenews/3135215",
           "source": "华尔街见闻-快讯",
@@ -108,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时07分 ~ 03时55分]"
+        },
+        {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "2026世界人工智能大会太火了",
@@ -121,15 +179,26 @@
           "time_info": "[09时24分 ~ 09时25分]"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://www.cls.cn/detail/2429309",
-          "source": "财联社热门",
+          "title": "知乎 2026 年 Tech Club 大会与 WAIC 世界人工智能大会同期落地，有什么新看点？",
+          "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
+          "source": "知乎",
           "ranks": [
-            7
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 15时09分]"
+        },
+        {
+          "title": "2026世界人工智能大会暨人工智能全球治理高级别会议主席声明（全文）发布",
+          "url": "https://wallstreetcn.com/livenews/3135505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时52分"
+          "time_info": "15时09分"
         },
         {
           "title": "2026世界人工智能大会暨人工智能全球治理高级别会议于7月17日在上海开幕。国家主席习近平将出席大会开幕式并发表主旨讲话。（央视新闻）",
@@ -171,7 +240,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -182,7 +251,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -193,7 +262,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
@@ -204,7 +273,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
         },
