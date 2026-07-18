@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T20:45:25.354569+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-07-18T22:14:32.021308+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -98,8 +98,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时07分 ~ 20时45分]"
+          "appearance_count": 20,
+          "time_info": "[00时07分 ~ 22时14分]"
         },
         {
           "title": "多项AI在世界人工智能大会首发首秀",
@@ -120,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时37分 ~ 20时45分]"
+          "appearance_count": 9,
+          "time_info": "[12时37分 ~ 22时14分]"
         },
         {
           "title": "感受人工智能的“智”与“志”",
@@ -144,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        },
-        {
-          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
-          "url": "https://flash.jin10.com/detail/20260718203633453800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "美国法官在一宗新型人工智能歧视案件中，拒绝叫停Meta Platforms(META.O)的裁员计划。",
@@ -204,6 +193,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时41分]"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://flash.jin10.com/detail/20260718203633453800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 22时14分]"
         },
         {
           "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
@@ -265,6 +266,28 @@
           "time_info": "09时18分"
         },
         {
+          "title": "中国首创人工智能赋能核能技术路线全球首发",
+          "url": "https://flash.jin10.com/detail/20260718210538813800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "2025诺奖得主：中国人工智能技术领先，基础研究投入是主因",
+          "url": "https://wallstreetcn.com/livenews/3136033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "世界人工智能合作组织协定签署",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
           "source": "bilibili 热搜",
@@ -285,6 +308,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://wallstreetcn.com/livenews/3136023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "工信部原副部长王江平：建议加大对优质人工智能终端消费的补贴",
