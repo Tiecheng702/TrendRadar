@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:43:26.861800+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-07-18T20:45:25.354569+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -98,8 +98,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时07分 ~ 19时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时07分 ~ 20时45分]"
         },
         {
           "title": "多项AI在世界人工智能大会首发首秀",
@@ -120,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时37分 ~ 19时43分]"
+          "appearance_count": 8,
+          "time_info": "[12时37分 ~ 20时45分]"
         },
         {
           "title": "感受人工智能的“智”与“志”",
@@ -144,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "千觉机器人首个VTLA具身触觉模型亮相世界人工智能大会",
+          "url": "https://flash.jin10.com/detail/20260718203633453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时45分"
         },
         {
           "title": "美国法官在一宗新型人工智能歧视案件中，拒绝叫停Meta Platforms(META.O)的裁员计划。",
