@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T07:41:40.565399+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-07-18T09:18:03.079473+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "详讯丨习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 09时18分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 09时18分]"
         },
         {
           "title": "2026世界人工智能大会亮点速览",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 09时18分]"
         },
         {
           "title": "高志凯：要对美国“人工智能霸凌”说“不”",
@@ -49,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 09时18分]"
         },
         {
           "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 09时18分]"
         },
         {
           "title": "习近平宣布中国支持全球人工智能发展重大举措",
@@ -72,11 +72,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 09时18分]"
         },
         {
           "title": "2026世界人工智能大会有哪些不同",
@@ -87,11 +88,12 @@
             6,
             10,
             15,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时07分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时07分 ~ 09时18分]"
         },
         {
           "title": "伊朗革命卫队打击并摧毁了美军驻巴林的无人艇存放基地，大量无人艇被大火焚毁。此外，巴林的主要人工智能中心也遭到多枚弹道导弹和数十架无人机的打击，已被完全摧毁。该中心被美国用于定位敌方目标，以实施战争罪行。（央视）",
@@ -151,6 +153,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 03时57分]"
+        },
+        {
+          "title": "人工智能数据中心储能兴起 多家上市公司积极布局",
+          "url": "https://flash.jin10.com/detail/20260718084129030800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "据华尔街日报：SpaceX(SPCX.O)正在洽谈为五角大楼的人工智能推进计划提供计算能力。",
