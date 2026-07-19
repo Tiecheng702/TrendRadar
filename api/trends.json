@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:53:06.861787+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-20T05:41:01.978180+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 05时41分]"
         },
         {
           "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时42分 ~ 05时41分]"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
@@ -60,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 04时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 05时41分]"
         }
       ]
     }
