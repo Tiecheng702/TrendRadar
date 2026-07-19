@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T00:42:37.353931+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-20T01:47:51.288562+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时47分]"
         },
         {
           "title": "《人工智能发展与安全倡议书》发布：为构建安全、可信、可控的人工智能共同奋斗",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时47分]"
         },
         {
           "title": "成立世界人工智能合作组织，中国参与全球治理核心战略的历史性转型",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时47分]"
         },
         {
           "title": "人工智能换了一种“打开方式”|WAIC观察",
@@ -48,8 +48,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时47分]"
         }
       ]
     }
