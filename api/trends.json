@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T17:42:38.161777+08:00",
-  "total_titles_processed": 1139,
+  "generated_at": "2026-07-19T19:03:08.192097+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "世界人工智能大会超全攻略",
@@ -91,6 +91,17 @@
           "time_info": "[15时24分 ~ 15时25分]"
         },
         {
+          "title": "游族网络联合国家工业信息安全发展研究中心等发起《人工智能发展与安全倡议书》",
+          "url": "https://flash.jin10.com/detail/20260719183943679800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "长三角人工智能协同投资平台共建签约",
           "url": "https://flash.jin10.com/detail/20260719141411430800",
           "source": "金十数据",
@@ -141,7 +152,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -152,7 +163,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -163,7 +174,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         }
