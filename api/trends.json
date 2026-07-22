@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T07:46:23.202653+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-07-22T09:21:59.274778+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 09时21分]"
         },
         {
           "title": "如何看待申真谞二比一战胜围棋人工智能「KataGo」？",
@@ -25,9 +25,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时21分]"
         },
         {
           "title": "据华尔街日报：白宫将把数十亿美元的研究资金从高校转向人工智能领域，减少对高校的支持。",
@@ -84,9 +84,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时21分]"
         }
       ]
     }
