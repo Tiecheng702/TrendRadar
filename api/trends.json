@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T20:20:44.454353+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-07-22T22:54:36.325178+08:00",
+  "total_titles_processed": 1630,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "普华永道中国在上海成立人工智能研究院",
+          "url": "https://wallstreetcn.com/livenews/3138278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "据华尔街日报：白宫将把数十亿美元的研究资金从高校转向人工智能领域，减少对高校的支持。",
@@ -133,13 +144,24 @@
           "time_info": "15时29分"
         },
         {
+          "title": "市场消息：亚马逊(AMZN.O)对通用人工智能部门进行裁员。",
+          "url": "https://flash.jin10.com/detail/20260722223848692800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "宏利金融公司：将采用微软(MSFT.O)前沿套件并部署Microsoft Agent 365用于企业人工智能应用。",
           "url": "https://flash.jin10.com/detail/20260722200158003800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -153,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时56分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)计划对MacBook和iMac进行全面改版，以满足人工智能需求。",
+          "url": "https://flash.jin10.com/detail/20260722223335576800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "人工智能专业“杀疯了” 分数普涨",
