@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T18:12:26.348678+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-07-22T20:20:44.454353+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "世界人工智能大会达成丰硕成果",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         },
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "宏利金融公司：将采用微软(MSFT.O)前沿套件并部署Microsoft Agent 365用于企业人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260722200158003800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-22）",
