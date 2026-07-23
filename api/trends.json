@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T04:07:08.908353+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-07-24T05:55:03.918766+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "对话｜请人工智能反腐，这个国家用上“AI部长”能奏效吗？",
@@ -17,8 +17,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时36分 ~ 04时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时36分 ~ 05时55分]"
+        },
+        {
+          "title": "英特尔(INTC.O)首席财务官：人工智能个人电脑业务收入环比增长26%，现在占我们客户收入结构的三分之二。",
+          "url": "https://flash.jin10.com/detail/20260724052517417800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "惠誉评级：美国信用前景越来越依赖于市场对人工智能投资的信心。",
@@ -30,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，Stripe正在洽谈收购人工智能模型聚合平台OpenRouter。",
+          "url": "https://flash.jin10.com/detail/20260724045621832800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
         },
         {
           "title": "AMD CEO苏姿丰在AMD Advancing AI大会上表示：预计人工智能（AI）加速器市场到2030年将达到1.4万亿美元规模。 预计数据中心CPU市场到2030年将达到2200亿美元规模。 整体而言，计算市场到2030年料将达到2万亿美元规模。 MI450 AI加速器是业内速度最快的。 全速生产Helios，即将发货。",
