@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T12:54:19.073596+08:00",
-  "total_titles_processed": 808,
+  "generated_at": "2026-07-25T15:09:07.362235+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
@@ -14,9 +14,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "三星电子与博通签署谅解备忘录，涵盖至2030年在存储芯片、代工服务和先进封装领域的合作，金额可达2000亿美元。三星电子将与博通合作开发基于三星HBM技术的博通下一代人工智能加速器。三星电子将提供亚2纳米代工工艺和先进封装解决方案。",
+          "url": "https://flash.jin10.com/detail/20260725131150393800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
         },
         {
           "title": "韩国总统李在明：与全球科技公司合作开启人工智能新纪元。",
