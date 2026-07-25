@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-25T07:54:40.193988+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-07-25T09:25:44.163105+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国总统李在明：与全球科技公司合作开启人工智能新纪元。",
+          "url": "https://flash.jin10.com/detail/20260725075120011800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
