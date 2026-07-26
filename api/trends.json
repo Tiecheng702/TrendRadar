@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T09:29:11.774940+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-07-26T13:19:18.632060+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "事关基础研究、人工智能、人民城市，上海这场重磅会议锚定哪些关键方向",
@@ -20,6 +20,28 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 09时29分]"
+        },
+        {
+          "title": "APEC人工智能未来合作开启新路径",
+          "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%AA%E6%9D%A5%E5%90%88%E4%BD%9C%E5%BC%80%E5%90%AF%E6%96%B0%E8%B7%AF%E5%BE%84%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
+        },
+        {
+          "title": "史无前例！美国出现人工智能失控事故，更多内幕曝光",
+          "url": "https://news.ifeng.com/c/8v4SrzgNUgw",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         }
       ]
     }
