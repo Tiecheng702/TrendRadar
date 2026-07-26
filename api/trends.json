@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T22:23:09.053161+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-07-26T23:53:35.635233+08:00",
+  "total_titles_processed": 1364,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "url": "https://www.cls.cn/detail/2437146",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时53分]"
         },
         {
           "title": "史无前例！美国出现人工智能失控事故，更多内幕曝光",
