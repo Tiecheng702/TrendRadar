@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T20:48:49.097284+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-07-27T23:35:55.841887+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.cls.cn/detail/2438053",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时48分 ~ 23时35分]"
         },
         {
           "title": "国家统计局：上半年人工智能与各领域加速融合，算力需求大幅增长，推动电子行业利润同比增长96.9%",
@@ -61,7 +62,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         },
@@ -72,7 +73,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时48分"
         }
