@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T06:05:43.451545+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-07-28T07:53:40.097016+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 07时53分]"
         },
         {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
