@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T13:37:45.158202+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-07-27T17:24:00.876996+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "上海：新增16款已完成备案的生成式人工智能服务",
+          "url": "https://flash.jin10.com/detail/20260727171157871800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     }
