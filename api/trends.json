@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:21:09.922935+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-07-28T20:29:43.676574+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 09时22分]"
+        },
+        {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 20时29分]"
         },
         {
           "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
@@ -67,18 +80,6 @@
           "time_info": "12时52分"
         },
         {
-          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
-          "url": "https://www.cls.cn/detail/2438712",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 18时21分]"
-        },
-        {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
           "url": "https://flash.jin10.com/detail/20260728041608521800",
           "source": "金十数据",
@@ -89,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "穆迪评级：Meta Platforms(META.O)和贝莱德的人工智能基础设施合作同时带来风险与机遇。",
+          "url": "https://flash.jin10.com/detail/20260728201927409800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-07-28）",
@@ -108,9 +120,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "立昂技术：拟定增募资不超2.55亿元 投资人工智能算力资源池等项目",
+          "url": "https://flash.jin10.com/detail/20260728201205476800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     }
