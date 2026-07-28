@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T20:29:43.676574+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-07-28T23:11:05.996167+08:00",
+  "total_titles_processed": 1588,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -47,6 +47,17 @@
           "time_info": "[09时21分 ~ 18时21分]"
         },
         {
+          "title": "人工智能相关产品成为中国外贸新名片",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9B%B8%E5%85%B3%E4%BA%A7%E5%93%81%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E6%96%B0%E5%90%8D%E7%89%87%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
           "title": "我国启动人工智能大模型IPv6能力提升专项行动",
           "url": "https://wallstreetcn.com/livenews/3140739",
           "source": "华尔街见闻-快讯",
@@ -80,6 +91,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "上海市新增16款已完成备案的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3141092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
           "url": "https://flash.jin10.com/detail/20260728041608521800",
           "source": "金十数据",
@@ -98,7 +120,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -131,7 +153,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         }
