@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-28T07:53:40.097016+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-07-28T09:22:16.000968+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
           "url": "https://www.cls.cn/detail/2438053",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 07时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时28分 ~ 09时22分]"
         },
         {
           "title": "据The Information：美国总统特朗普政府正在最终确定人工智能模型提交框架。",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
+          "url": "https://www.zhihu.com/question/2063239728175043416",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 09时22分]"
         }
       ]
     }
