@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T06:46:36.698141+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-07-30T07:52:28.484216+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             17,
             15,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 06时46分]"
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 07时52分]"
         },
         {
           "title": "美国总统特朗普：（关于人工智能）正在关注监管问题。",
