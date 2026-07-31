@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T09:29:18.972735+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-07-31T13:23:28.142138+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "白宫顾问哈塞特：人工智能（AI）并没有给美国造成通货膨胀。 如有必要，我们将继续降低油价。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "国家发展改革委：上半年人工智能相关行业保持30%以上高增长",
+          "url": "https://wallstreetcn.com/livenews/3142887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     }
