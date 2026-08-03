@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-03T20:26:35.397069+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-08-03T23:36:05.039933+08:00",
+  "total_titles_processed": 1501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "以色列总理内塔尼亚胡：以色列是世界第二大网络超级大国。现在我们也要在人工智能领域做到这一点。",
+          "url": "https://flash.jin10.com/detail/20260803231140137800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
         {
           "title": "中国信通院：2025年我国人工智能产业规模超1.2万亿元",
           "url": "https://flash.jin10.com/detail/20260803201044238800",
@@ -14,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
