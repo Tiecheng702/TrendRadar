@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-03T16:58:28.449756+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-08-03T20:26:35.397069+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "中国信通院：2025年我国人工智能产业规模超1.2万亿元",
+          "url": "https://flash.jin10.com/detail/20260803201044238800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-08-03）",
           "url": "https://flash.jin10.com/detail/20260803120029547800",
@@ -25,7 +36,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
@@ -65,7 +76,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
