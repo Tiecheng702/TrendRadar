@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T03:16:57.324600+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-08-05T05:01:30.887523+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时01分]"
         },
         {
           "title": "据Axios：白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
@@ -25,7 +25,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         }
