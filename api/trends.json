@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T18:22:41.822855+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-08-05T20:32:46.730176+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时27分 ~ 09时22分]"
+        },
+        {
+          "title": "美国AI云端运算企业COREWEAVE(CRWV.O)：与Solidigm的协议将强化其集成人工智能平台。",
+          "url": "https://flash.jin10.com/detail/20260805200311834800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "据Axios：白宫不打算公开发布其用于评估先进人工智能模型的新框架。",
