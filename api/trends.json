@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T09:20:12.691386+08:00",
-  "total_titles_processed": 744,
+  "generated_at": "2026-08-06T12:53:37.456299+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "自沃什就任美联储主席以来，特朗普多次与其通话。 特朗普就伊朗问题以及人工智能对经济的影响向沃什寻求建议。 沃什在与特朗普的通话中对经济表达了积极看法。 尚不清楚特朗普与沃什是否讨论了货币政策。（华尔街日报）",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -30,6 +30,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-08-06）",
+          "url": "https://flash.jin10.com/detail/20260806120147370800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
           "url": "https://flash.jin10.com/detail/20260806021109138800",
           "source": "金十数据",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
+          "url": "https://flash.jin10.com/detail/20260806114306480800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
