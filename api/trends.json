@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T18:21:59.555628+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-08-09T19:19:24.006863+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             7,
             12,
             13,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时56分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[10时56分 ~ 19时19分]"
         },
         {
           "title": "为什么体制内至今仍不鼓励用人工智能？",
