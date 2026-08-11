@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-12T02:44:34.338445+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-08-12T04:32:57.037634+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国财长贝森特：我们欢迎Meta发布Muse Glimmer，这是美国创新取得的又一胜利。保持美国在人工智能领域的领先地位意味着推进开放权重和封闭权重模型，确保未来建立在可信赖的基础之上。",
+          "url": "https://flash.jin10.com/detail/20260812030839607800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
