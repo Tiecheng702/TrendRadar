@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T14:44:37.082850+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-08-11T19:36:39.551126+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：全新融资平台将英伟达计算和全栈人工智能基础设施转变为全球资本可投资的资产类别。",
@@ -54,6 +54,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "法国媒体机构全国新闻信息联盟：已向法国反垄断监管机构就谷歌(GOOG.O)的人工智能业务提出申诉。",
+          "url": "https://flash.jin10.com/detail/20260811185539534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能实验室和人工智能初创公司需要计算能力。",
           "url": "https://flash.jin10.com/detail/20260811045201910800",
           "source": "金十数据",
@@ -99,7 +110,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
