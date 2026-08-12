@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T00:44:42.122588+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-13T01:49:30.844724+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3148694",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时49分]"
         }
       ]
     }
