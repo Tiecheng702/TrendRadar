@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-15T10:07:49.329420+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-08-16T07:11:00.036015+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "人工智能激活力 “新”意盎然促发展",
-          "url": "https://www.toutiao.com/trending/7673797019718598698/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 10时07分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
