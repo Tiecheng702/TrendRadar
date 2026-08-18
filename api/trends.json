@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-08-18T07:12:54.484287+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-08-18T19:15:33.377679+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人工智能安全：下一阶段人工智能产业竞争的新赛道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799807",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
+          "title": "瑞典电动货运和自动驾驶技术公司Einride：将在SAGA人工智能平台上部署500辆特斯拉Semi卡车，为亚马逊及其他客户提供服务，覆盖北美市场。特斯拉Semi卡车的部署将扩大公司的电动货运网络，覆盖加州、得州、新泽西州、伊利诺伊州和佐治亚州等货运走廊。将在未来24个月内分多个阶段部署，计划于9月开始，全部通过第三方融资方案提供资金支持。",
+          "url": "https://flash.jin10.com/detail/20260818183144199800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "理想汽车",
       "match_count": 1,
